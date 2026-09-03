@@ -77,10 +77,12 @@ export function SiteNav() {
             or colliding with the links (docs/design/mobile-menu.md rule 1). */}
         <Link
           to="/"
-          className="min-w-0 flex-1 truncate text-brand-cream text-lg font-bold tracking-tight hover:opacity-80 transition-opacity"
+          className="min-w-0 flex-1 truncate text-brand-cream hover:opacity-80 transition-opacity"
+          aria-label="Chiesa Evangelica Agape — início"
         >
-          Studio
+          <BrandLogo />
         </Link>
+
         {/* Desktop: links inline. Mobile: they move into the menu sheet —
             a nav that vanished below a breakpoint with no trigger would be
             a broken screen, not a responsive one. */}
