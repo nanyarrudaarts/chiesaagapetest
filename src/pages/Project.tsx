@@ -56,7 +56,7 @@ const Project = () => {
                   to="/"
                   className="inline-flex h-11 items-center text-brand-cream/50 transition-colors hover:text-brand-cream"
                 >
-                  Work
+                  Início
                 </Link>
               </li>
               <li aria-hidden className="text-brand-cream/35">
