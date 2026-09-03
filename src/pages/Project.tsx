@@ -13,9 +13,9 @@ const Project = () => {
     return (
       <div className="min-h-screen bg-brand-navy text-brand-cream flex items-center justify-center">
         <div className="text-center">
-          <h1 className="text-2xl font-medium mb-4">Project not found</h1>
+          <h1 className="text-2xl font-medium mb-4">Página não encontrada</h1>
           <Link to="/" className="text-muted-foreground hover:text-brand-cream transition-colors">
-            ← Back to home
+            ← Voltar ao início
           </Link>
         </div>
       </div>
@@ -75,11 +75,11 @@ const Project = () => {
           {/* dt/dd have to sit inside a dl to be valid HTML */}
           <dl className="flex gap-12 mb-12 text-sm border-b border-brand-cream/20 pb-8">
             <div>
-              <dt className="text-brand-cream/50 uppercase tracking-widest text-xs mb-1">Year</dt>
+              <dt className="text-brand-cream/50 uppercase tracking-widest text-xs mb-1">Quando</dt>
               <dd className="text-brand-cream">{project.year}</dd>
             </div>
             <div>
-              <dt className="text-brand-cream/50 uppercase tracking-widest text-xs mb-1">Location</dt>
+              <dt className="text-brand-cream/50 uppercase tracking-widest text-xs mb-1">Onde</dt>
               <dd className="text-brand-cream">{project.location}</dd>
             </div>
           </dl>
