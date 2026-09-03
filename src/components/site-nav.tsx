@@ -91,7 +91,7 @@ export function SiteNav() {
               aria-current={pathname === link.to ? "page" : undefined}
               className={`text-sm transition-colors ${
                 pathname === link.to
-                  ? "text-brand-cream border-b border-white pb-0.5"
+                  ? "text-brand-cream border-b border-brand-cream pb-0.5"
                   : "text-brand-cream/70 hover:text-brand-cream"
               }`}
             >
@@ -158,7 +158,7 @@ function MobileMenu({ pathname }: { pathname: string }) {
         <SheetPortal>
           {/* Scrim — dims the page. Radix closes on click. */}
           <SheetOverlay
-            className="z-[55] bg-brand-navy/50 data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 motion-reduce:animate-none"
+            className="z-[55] bg-brand-navy/60 data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 motion-reduce:animate-none"
             style={SHEET_MOTION}
           />
 

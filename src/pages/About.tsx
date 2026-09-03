@@ -41,12 +41,12 @@ const About = () => {
           alt="Architecture detail"
           className="absolute inset-0 w-full h-full object-cover"
         />
-        <div className="absolute inset-0 bg-brand-navy/50" />
+        <div className="absolute inset-0 bg-brand-navy/60" />
         <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-6">
           <h2 className="text-3xl md:text-4xl font-bold tracking-tight mb-6">Let's Work Together</h2>
           <Link
             to="/contact"
-            className="inline-block border border-white px-8 py-3 text-sm uppercase tracking-widest hover:bg-white hover:text-black transition-colors"
+            className="inline-block border border-brand-cream px-8 py-3 text-sm uppercase tracking-widest hover:bg-brand-cream hover:text-brand-navy transition-colors"
           >
             Contact Us
           </Link>

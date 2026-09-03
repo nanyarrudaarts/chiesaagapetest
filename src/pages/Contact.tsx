@@ -54,7 +54,7 @@ const Contact = () => {
                     <input
                       type="text"
                       required
-                      className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-white focus:outline-none transition-colors"
+                      className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-brand-cream focus:outline-none transition-colors"
                     />
                   </div>
                   <div>
@@ -64,7 +64,7 @@ const Contact = () => {
                     <input
                       type="text"
                       required
-                      className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-white focus:outline-none transition-colors"
+                      className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-brand-cream focus:outline-none transition-colors"
                     />
                   </div>
                 </div>
@@ -76,7 +76,7 @@ const Contact = () => {
                   <input
                     type="email"
                     required
-                    className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-white focus:outline-none transition-colors"
+                    className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-brand-cream focus:outline-none transition-colors"
                   />
                 </div>
 
@@ -87,7 +87,7 @@ const Contact = () => {
                   <input
                     type="text"
                     required
-                    className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-white focus:outline-none transition-colors"
+                    className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-brand-cream focus:outline-none transition-colors"
                   />
                 </div>
 
@@ -98,13 +98,13 @@ const Contact = () => {
                   <textarea
                     required
                     rows={5}
-                    className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-white focus:outline-none transition-colors resize-vertical"
+                    className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-brand-cream focus:outline-none transition-colors resize-vertical"
                   />
                 </div>
 
                 <button
                   type="submit"
-                  className="bg-white text-black px-8 py-3 text-sm uppercase tracking-widest font-medium hover:bg-[#ddd] transition-colors"
+                  className="bg-brand-cream text-brand-navy px-8 py-3 text-sm uppercase tracking-widest font-medium hover:bg-brand-cream/85 transition-colors"
                 >
                   Submit
                 </button>
