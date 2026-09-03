@@ -5,11 +5,12 @@ import * as SheetPrimitive from "@radix-ui/react-dialog";
 import { Sheet, SheetClose, SheetOverlay, SheetPortal, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
 
 const links = [
-  { to: "/", label: "Work" },
-  { to: "/about", label: "About" },
-  { to: "/our-team", label: "Our Team" },
-  { to: "/contact", label: "Contact" },
+  { to: "/", label: "Início" },
+  { to: "/about", label: "Quem Somos" },
+  { to: "/nossa-fe", label: "Nossa Fé" },
+  { to: "/contact", label: "Contato" },
 ];
+
 
 // The footer renders these too, from this one list, so nav and footer cannot drift.
 export const NAV_LINKS = links;
