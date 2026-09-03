@@ -3,23 +3,22 @@ import { SiteNav } from "@/components/site-nav";
 
 const NotFound = () => {
   return (
-    <div className="min-h-screen bg-black text-white">
+    <div className="min-h-screen bg-brand-navy text-brand-cream">
       <SiteNav />
 
       <div className="pt-32 pb-24">
         <div className="site-shell">
           <h1 className="text-4xl md:text-5xl font-bold tracking-tight mb-6">
-            Page not found
+            Página não encontrada
           </h1>
-          <p className="text-[#aaa] text-lg leading-relaxed max-w-[46rem] mb-12">
-            That page has moved or never existed. The work is a good place to
-            start again.
+          <p className="text-brand-cream/70 text-lg leading-relaxed max-w-[46rem] mb-12">
+            Esta página não existe ou foi movida. Volte ao início para conhecer a comunidade.
           </p>
           <Link
             to="/"
-            className="inline-block border border-white px-8 py-3 text-sm uppercase tracking-widest hover:bg-white hover:text-black transition-colors"
+            className="inline-block border border-brand-cream px-8 py-3 text-sm uppercase tracking-widest hover:bg-brand-cream hover:text-brand-navy transition-colors"
           >
-            View the work
+            Voltar ao início
           </Link>
         </div>
       </div>

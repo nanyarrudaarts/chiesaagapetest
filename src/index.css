@@ -489,3 +489,18 @@ All colors MUST be HSL.
   display: table;
   clear: both;
 }
+
+/* ─── Marca Chiesa Evangelica Agape ───────────────────────────────────────
+   Paleta oficial: #092a3c (azul profundo), #f1eee4 (creme), #242426 (grafite),
+   #3b4639 (verde musgo). Usar sempre estes tokens, nunca cores literais. */
+@theme {
+  --color-brand-navy: #092a3c;
+  --color-brand-cream: #f1eee4;
+  --color-brand-ink: #242426;
+  --color-brand-moss: #3b4639;
+}
+
+/* Logo em ink sobre fundo escuro: converte para creme sem novo ficheiro */
+.logo-on-dark {
+  filter: brightness(0) invert(1) sepia(6%) saturate(120%);
+}

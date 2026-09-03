@@ -105,7 +105,7 @@ export function Hero({
   return (
     <section
       ref={sectionRef}
-      className="relative z-[1] h-[90vh] min-h-[620px] max-h-[980px] w-full overflow-hidden bg-black max-lg:min-h-[400px] max-lg:max-h-[720px] max-sm:min-h-0 max-sm:max-h-[420px] max-sm:h-auto"
+      className="relative z-[1] h-[90vh] min-h-[620px] max-h-[980px] w-full overflow-hidden bg-brand-navy max-lg:min-h-[400px] max-lg:max-h-[720px] max-sm:min-h-0 max-sm:max-h-[420px] max-sm:h-auto"
     >
       {/* Mobile square aspect ratio spacer (::before equivalent) */}
       <div className="hidden max-sm:block w-full pt-[100%]" />
@@ -120,7 +120,7 @@ export function Hero({
       >
         {/* hero-video-container */}
         <div
-          className="absolute inset-0 z-[1] bg-cover bg-[center_top] transition-opacity duration-500 ease-in-out before:content-[''] before:block before:absolute before:inset-0 before:z-[2] before:bg-black/30"
+          className="absolute inset-0 z-[1] bg-cover bg-[center_top] transition-opacity duration-500 ease-in-out before:content-[''] before:block before:absolute before:inset-0 before:z-[2] before:bg-brand-navy/30"
           style={
             posterSrc ? { backgroundImage: `url(${posterSrc})` } : undefined
           }
@@ -155,7 +155,7 @@ export function Hero({
             {/* Visual presentation */}
             <div role="presentation" aria-hidden="true">
               <div className="max-w-[600px] mx-auto">
-                <span className="headline-top tracking-tight text-white whitespace-nowrap">
+                <span className="headline-top tracking-tight text-brand-cream whitespace-nowrap">
                   {headlineTop}
                 </span>
               </div>
@@ -168,7 +168,7 @@ export function Hero({
       </motion.div>
 
       {subheadline && (
-        <p className="absolute z-[5] bottom-[10%] w-full text-center text-lg text-white/80 sm:text-xl lg:text-2xl">
+        <p className="absolute z-[5] bottom-[10%] w-full text-center text-lg text-brand-cream/80 sm:text-xl lg:text-2xl">
           {subheadline}
         </p>
       )}

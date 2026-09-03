@@ -11,102 +11,117 @@ const Contact = () => {
   };
 
   return (
-    <div className="min-h-screen bg-black text-white">
+    <div className="min-h-screen bg-brand-navy text-brand-cream">
       <SiteNav />
 
       <div className="pt-32 pb-24">
         <div className="site-shell grid grid-cols-1 md:grid-cols-[1fr_1.5fr] gap-16 md:gap-24">
-          {/* Left column */}
+          {/* Coluna esquerda */}
           <div>
             <h1 className="text-4xl md:text-5xl font-bold tracking-tight mb-6">
-              Let's Work Together
+              Fale com a igreja
             </h1>
-            <p className="text-[#aaa] text-base leading-relaxed mb-12">
-              We take on architecture, interiors, or both. Tell us a little about the building or the rooms you have in mind and we'll take it from there. Further case studies available on request.
+            <p className="text-brand-cream/70 text-base leading-relaxed mb-12">
+              Quer visitar-nos no domingo, pedir oração, marcar uma conversa ou
+              simplesmente entender melhor o que cremos? Escreva-nos — respondemos com
+              o cuidado que gostaríamos de receber.
             </p>
 
-            <div className="border-t border-[#333] pt-8 space-y-4">
-              <div className="text-[#aaa] text-sm">
-                <p>123 Demo Street</p>
-                <p>New York, NY 10001</p>
+            <div className="border-t border-brand-cream/20 pt-8 space-y-6">
+              <div className="text-brand-cream/70 text-sm">
+                <p className="uppercase tracking-widest text-xs text-brand-cream/50 mb-2">
+                  Endereço
+                </p>
+                <p>Via Pontebbana 1</p>
+                <p>33080 Fiume Veneto (PN), Itália</p>
               </div>
-              <div className="text-[#aaa] text-sm">
-                <p>(555) 555-5555</p>
-                <p>email@example.com</p>
+              <div className="text-brand-cream/70 text-sm">
+                <p className="uppercase tracking-widest text-xs text-brand-cream/50 mb-2">
+                  Encontros
+                </p>
+                <p>Domingo, 10h30 — culto</p>
+                <p>Quarta-feira, 20h30 — estudo bíblico</p>
+              </div>
+              <div className="text-brand-cream/70 text-sm">
+                <p className="uppercase tracking-widest text-xs text-brand-cream/50 mb-2">
+                  Contato
+                </p>
+                <p>chiesacristianapn.org</p>
               </div>
             </div>
           </div>
 
-          {/* Right column — form */}
+          {/* Coluna direita — formulário */}
           <div>
             {submitted ? (
               <div className="flex items-center justify-center h-full">
-                <p className="text-xl text-[#aaa]">Thank you! We'll be in touch soon.</p>
+                <p className="text-xl text-brand-cream/70">
+                  Obrigado! Entraremos em contato em breve.
+                </p>
               </div>
             ) : (
               <form onSubmit={handleSubmit} className="space-y-6 max-w-[40rem]">
-                <div className="text-xs text-[#666] uppercase tracking-widest mb-2">Name</div>
                 <div className="grid grid-cols-2 gap-4">
                   <div>
-                    <label className="text-xs text-[#999] mb-1 block">
-                      First Name <span className="text-[#666]">(required)</span>
+                    <label className="text-xs text-brand-cream/60 mb-1 block">
+                      Nome <span className="text-brand-cream/50">(obrigatório)</span>
                     </label>
                     <input
                       type="text"
                       required
-                      className="w-full bg-transparent border border-[#333] px-4 py-3 text-white text-sm focus:border-white focus:outline-none transition-colors"
+                      className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-brand-cream focus:outline-none transition-colors"
                     />
                   </div>
                   <div>
-                    <label className="text-xs text-[#999] mb-1 block">
-                      Last Name <span className="text-[#666]">(required)</span>
+                    <label className="text-xs text-brand-cream/60 mb-1 block">
+                      Sobrenome <span className="text-brand-cream/50">(obrigatório)</span>
                     </label>
                     <input
                       type="text"
                       required
-                      className="w-full bg-transparent border border-[#333] px-4 py-3 text-white text-sm focus:border-white focus:outline-none transition-colors"
+                      className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-brand-cream focus:outline-none transition-colors"
                     />
                   </div>
                 </div>
 
                 <div>
-                  <label className="text-xs text-[#999] mb-1 block">
-                    Email <span className="text-[#666]">(required)</span>
+                  <label className="text-xs text-brand-cream/60 mb-1 block">
+                    E-mail <span className="text-brand-cream/50">(obrigatório)</span>
                   </label>
                   <input
                     type="email"
                     required
-                    className="w-full bg-transparent border border-[#333] px-4 py-3 text-white text-sm focus:border-white focus:outline-none transition-colors"
+                    className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-brand-cream focus:outline-none transition-colors"
                   />
                 </div>
 
                 <div>
-                  <label className="text-xs text-[#999] mb-1 block">
-                    Subject <span className="text-[#666]">(required)</span>
+                  <label className="text-xs text-brand-cream/60 mb-1 block">
+                    Assunto <span className="text-brand-cream/50">(obrigatório)</span>
                   </label>
                   <input
                     type="text"
                     required
-                    className="w-full bg-transparent border border-[#333] px-4 py-3 text-white text-sm focus:border-white focus:outline-none transition-colors"
+                    className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-brand-cream focus:outline-none transition-colors"
                   />
                 </div>
 
                 <div>
-                  <label className="text-xs text-[#999] mb-1 block">
-                    Message <span className="text-[#666]">(required)</span>
+                  <label className="text-xs text-brand-cream/60 mb-1 block">
+                    Mensagem <span className="text-brand-cream/50">(obrigatório)</span>
                   </label>
                   <textarea
                     required
-                    rows={5}
-                    className="w-full bg-transparent border border-[#333] px-4 py-3 text-white text-sm focus:border-white focus:outline-none transition-colors resize-vertical"
+                    rows={6}
+                    className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-brand-cream focus:outline-none transition-colors resize-y"
                   />
                 </div>
 
                 <button
                   type="submit"
-                  className="bg-white text-black px-8 py-3 text-sm uppercase tracking-widest font-medium hover:bg-[#ddd] transition-colors"
+                  className="bg-brand-cream text-brand-navy px-8 py-3 text-sm uppercase tracking-widest font-medium hover:bg-brand-cream/85 transition-colors"
                 >
-                  Submit
+                  Enviar
                 </button>
               </form>
             )}

@@ -3,13 +3,15 @@ import { Link, useLocation } from "react-router-dom";
 import { Menu, X } from "lucide-react";
 import * as SheetPrimitive from "@radix-ui/react-dialog";
 import { Sheet, SheetClose, SheetOverlay, SheetPortal, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
+import { BrandLogo } from "@/components/brand-logo";
 
 const links = [
-  { to: "/", label: "Work" },
-  { to: "/about", label: "About" },
-  { to: "/our-team", label: "Our Team" },
-  { to: "/contact", label: "Contact" },
+  { to: "/", label: "Início" },
+  { to: "/about", label: "Quem Somos" },
+  { to: "/nossa-fe", label: "Nossa Fé" },
+  { to: "/contact", label: "Contato" },
 ];
+
 
 // The footer renders these too, from this one list, so nav and footer cannot drift.
 export const NAV_LINKS = links;
@@ -49,7 +51,7 @@ export function SiteNav() {
   return (
     <nav
       className={`fixed top-0 left-0 w-full z-50 transition-colors duration-300 ${
-        scrolled ? "border-b border-[#222]" : ""
+        scrolled ? "border-b border-brand-cream/15" : ""
       }`}
     >
       {/* The solid backdrop lives on a CHILD layer, never on the nav itself:
@@ -60,7 +62,7 @@ export function SiteNav() {
       <div
         aria-hidden
         className={`absolute inset-0 -z-10 transition-[background-color,backdrop-filter] duration-300 ${
-          scrolled ? "bg-black/95 backdrop-blur-sm" : ""
+          scrolled ? "bg-brand-navy/95 backdrop-blur-sm" : ""
         }`}
       />
       {/* Scrim — keeps the links legible over light hero imagery */}
@@ -76,10 +78,12 @@ export function SiteNav() {
             or colliding with the links (docs/design/mobile-menu.md rule 1). */}
         <Link
           to="/"
-          className="min-w-0 flex-1 truncate text-white text-lg font-bold tracking-tight hover:opacity-80 transition-opacity"
+          className="min-w-0 flex-1 truncate text-brand-cream hover:opacity-80 transition-opacity"
+          aria-label="Chiesa Evangelica Agape — início"
         >
-          Studio
+          <BrandLogo />
         </Link>
+
         {/* Desktop: links inline. Mobile: they move into the menu sheet —
             a nav that vanished below a breakpoint with no trigger would be
             a broken screen, not a responsive one. */}
@@ -91,8 +95,8 @@ export function SiteNav() {
               aria-current={pathname === link.to ? "page" : undefined}
               className={`text-sm transition-colors ${
                 pathname === link.to
-                  ? "text-white border-b border-white pb-0.5"
-                  : "text-white/70 hover:text-white"
+                  ? "text-brand-cream border-b border-brand-cream pb-0.5"
+                  : "text-brand-cream/70 hover:text-brand-cream"
               }`}
             >
               {link.label}
@@ -142,7 +146,7 @@ function MobileMenu({ pathname }: { pathname: string }) {
           <button
             type="button"
             aria-label="Open menu"
-            className="relative -mr-2 flex h-11 w-11 items-center justify-center text-white"
+            className="relative -mr-2 flex h-11 w-11 items-center justify-center text-brand-cream"
           >
             <span
               aria-hidden
@@ -158,14 +162,14 @@ function MobileMenu({ pathname }: { pathname: string }) {
         <SheetPortal>
           {/* Scrim — dims the page. Radix closes on click. */}
           <SheetOverlay
-            className="z-[55] bg-black/50 data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 motion-reduce:animate-none"
+            className="z-[55] bg-brand-navy/60 data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 motion-reduce:animate-none"
             style={SHEET_MOTION}
           />
 
           {/* The sheet: full height, right-anchored, 64px finger strip left. */}
           <SheetPrimitive.Content
             aria-describedby={undefined}
-            className="group fixed inset-y-0 right-0 z-[55] flex w-[calc(100%-64px)] flex-col border-l border-[#222] bg-black text-white outline-none data-[state=open]:animate-in data-[state=open]:slide-in-from-right data-[state=closed]:animate-out data-[state=closed]:slide-out-to-right motion-reduce:animate-none"
+            className="group fixed inset-y-0 right-0 z-[55] flex w-[calc(100%-64px)] flex-col border-l border-brand-cream/15 bg-brand-navy text-brand-cream outline-none data-[state=open]:animate-in data-[state=open]:slide-in-from-right data-[state=closed]:animate-out data-[state=closed]:slide-out-to-right motion-reduce:animate-none"
             style={SHEET_MOTION}
           >
             <SheetTitle className="sr-only">Menu</SheetTitle>
@@ -173,7 +177,7 @@ function MobileMenu({ pathname }: { pathname: string }) {
             {/* The ✕ half of the morph — fixed over the bar trigger's spot. */}
             <SheetClose
               aria-label="Close menu"
-              className="fixed right-2 top-0 flex h-11 w-11 items-center justify-center text-white outline-none"
+              className="fixed right-2 top-0 flex h-11 w-11 items-center justify-center text-brand-cream outline-none"
             >
               <span
                 aria-hidden
@@ -197,7 +201,7 @@ function MobileMenu({ pathname }: { pathname: string }) {
                   onClick={() => setOpen(false)}
                   aria-current={pathname === link.to ? "page" : undefined}
                   className={`flex h-[54px] w-full items-center justify-end px-12 text-[28px] font-semibold leading-8 tracking-tight ${
-                    pathname === link.to ? "text-white" : "text-white/70"
+                    pathname === link.to ? "text-brand-cream" : "text-brand-cream/70"
                   }`}
                 >
                   {link.label}
