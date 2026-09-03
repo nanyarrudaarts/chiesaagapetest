@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 const About = () => {
   return (
-    <div className="min-h-screen bg-black text-white">
+    <div className="min-h-screen bg-brand-navy text-brand-cream">
       <SiteNav />
 
       {/* Content */}
@@ -17,7 +17,7 @@ const About = () => {
 
           {/* Body */}
           {/* The shell is now full-bleed, so cap the reading column */}
-          <div className="space-y-6 text-[#aaa] text-lg leading-relaxed max-w-[46rem]">
+          <div className="space-y-6 text-brand-cream/70 text-lg leading-relaxed max-w-[46rem]">
             <p>
               We are an architecture and interior design studio, and we treat those as one job rather than two. A building and the rooms inside it are decided by the same things: where the light falls, how people move, what the place is made of. Handing the interior to someone else after the shell is finished is how you end up with a house that photographs well and lives badly.
             </p>
@@ -41,7 +41,7 @@ const About = () => {
           alt="Architecture detail"
           className="absolute inset-0 w-full h-full object-cover"
         />
-        <div className="absolute inset-0 bg-black/50" />
+        <div className="absolute inset-0 bg-brand-navy/50" />
         <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-6">
           <h2 className="text-3xl md:text-4xl font-bold tracking-tight mb-6">Let's Work Together</h2>
           <Link

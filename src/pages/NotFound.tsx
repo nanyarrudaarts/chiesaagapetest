@@ -3,7 +3,7 @@ import { SiteNav } from "@/components/site-nav";
 
 const NotFound = () => {
   return (
-    <div className="min-h-screen bg-black text-white">
+    <div className="min-h-screen bg-brand-navy text-brand-cream">
       <SiteNav />
 
       <div className="pt-32 pb-24">
@@ -11,7 +11,7 @@ const NotFound = () => {
           <h1 className="text-4xl md:text-5xl font-bold tracking-tight mb-6">
             Page not found
           </h1>
-          <p className="text-[#aaa] text-lg leading-relaxed max-w-[46rem] mb-12">
+          <p className="text-brand-cream/70 text-lg leading-relaxed max-w-[46rem] mb-12">
             That page has moved or never existed. The work is a good place to
             start again.
           </p>

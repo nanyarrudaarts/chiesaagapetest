@@ -11,7 +11,7 @@ const Contact = () => {
   };
 
   return (
-    <div className="min-h-screen bg-black text-white">
+    <div className="min-h-screen bg-brand-navy text-brand-cream">
       <SiteNav />
 
       <div className="pt-32 pb-24">
@@ -21,16 +21,16 @@ const Contact = () => {
             <h1 className="text-4xl md:text-5xl font-bold tracking-tight mb-6">
               Let's Work Together
             </h1>
-            <p className="text-[#aaa] text-base leading-relaxed mb-12">
+            <p className="text-brand-cream/70 text-base leading-relaxed mb-12">
               We take on architecture, interiors, or both. Tell us a little about the building or the rooms you have in mind and we'll take it from there. Further case studies available on request.
             </p>
 
-            <div className="border-t border-[#333] pt-8 space-y-4">
-              <div className="text-[#aaa] text-sm">
+            <div className="border-t border-brand-cream/20 pt-8 space-y-4">
+              <div className="text-brand-cream/70 text-sm">
                 <p>123 Demo Street</p>
                 <p>New York, NY 10001</p>
               </div>
-              <div className="text-[#aaa] text-sm">
+              <div className="text-brand-cream/70 text-sm">
                 <p>(555) 555-5555</p>
                 <p>email@example.com</p>
               </div>
@@ -41,64 +41,64 @@ const Contact = () => {
           <div>
             {submitted ? (
               <div className="flex items-center justify-center h-full">
-                <p className="text-xl text-[#aaa]">Thank you! We'll be in touch soon.</p>
+                <p className="text-xl text-brand-cream/70">Thank you! We'll be in touch soon.</p>
               </div>
             ) : (
               <form onSubmit={handleSubmit} className="space-y-6 max-w-[40rem]">
-                <div className="text-xs text-[#666] uppercase tracking-widest mb-2">Name</div>
+                <div className="text-xs text-brand-cream/50 uppercase tracking-widest mb-2">Name</div>
                 <div className="grid grid-cols-2 gap-4">
                   <div>
-                    <label className="text-xs text-[#999] mb-1 block">
-                      First Name <span className="text-[#666]">(required)</span>
+                    <label className="text-xs text-brand-cream/60 mb-1 block">
+                      First Name <span className="text-brand-cream/50">(required)</span>
                     </label>
                     <input
                       type="text"
                       required
-                      className="w-full bg-transparent border border-[#333] px-4 py-3 text-white text-sm focus:border-white focus:outline-none transition-colors"
+                      className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-white focus:outline-none transition-colors"
                     />
                   </div>
                   <div>
-                    <label className="text-xs text-[#999] mb-1 block">
-                      Last Name <span className="text-[#666]">(required)</span>
+                    <label className="text-xs text-brand-cream/60 mb-1 block">
+                      Last Name <span className="text-brand-cream/50">(required)</span>
                     </label>
                     <input
                       type="text"
                       required
-                      className="w-full bg-transparent border border-[#333] px-4 py-3 text-white text-sm focus:border-white focus:outline-none transition-colors"
+                      className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-white focus:outline-none transition-colors"
                     />
                   </div>
                 </div>
 
                 <div>
-                  <label className="text-xs text-[#999] mb-1 block">
-                    Email <span className="text-[#666]">(required)</span>
+                  <label className="text-xs text-brand-cream/60 mb-1 block">
+                    Email <span className="text-brand-cream/50">(required)</span>
                   </label>
                   <input
                     type="email"
                     required
-                    className="w-full bg-transparent border border-[#333] px-4 py-3 text-white text-sm focus:border-white focus:outline-none transition-colors"
+                    className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-white focus:outline-none transition-colors"
                   />
                 </div>
 
                 <div>
-                  <label className="text-xs text-[#999] mb-1 block">
-                    Subject <span className="text-[#666]">(required)</span>
+                  <label className="text-xs text-brand-cream/60 mb-1 block">
+                    Subject <span className="text-brand-cream/50">(required)</span>
                   </label>
                   <input
                     type="text"
                     required
-                    className="w-full bg-transparent border border-[#333] px-4 py-3 text-white text-sm focus:border-white focus:outline-none transition-colors"
+                    className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-white focus:outline-none transition-colors"
                   />
                 </div>
 
                 <div>
-                  <label className="text-xs text-[#999] mb-1 block">
-                    Message <span className="text-[#666]">(required)</span>
+                  <label className="text-xs text-brand-cream/60 mb-1 block">
+                    Message <span className="text-brand-cream/50">(required)</span>
                   </label>
                   <textarea
                     required
                     rows={5}
-                    className="w-full bg-transparent border border-[#333] px-4 py-3 text-white text-sm focus:border-white focus:outline-none transition-colors resize-vertical"
+                    className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-white focus:outline-none transition-colors resize-vertical"
                   />
                 </div>
 

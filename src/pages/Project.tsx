@@ -11,10 +11,10 @@ const Project = () => {
 
   if (!project) {
     return (
-      <div className="min-h-screen bg-black text-white flex items-center justify-center">
+      <div className="min-h-screen bg-brand-navy text-brand-cream flex items-center justify-center">
         <div className="text-center">
           <h1 className="text-2xl font-medium mb-4">Project not found</h1>
-          <Link to="/" className="text-muted-foreground hover:text-white transition-colors">
+          <Link to="/" className="text-muted-foreground hover:text-brand-cream transition-colors">
             ← Back to home
           </Link>
         </div>
@@ -34,11 +34,11 @@ const Project = () => {
   const title = project.titleMasked.replace("\n", " ").replace(".", "");
 
   return (
-    <div className="min-h-screen bg-black text-white">
+    <div className="min-h-screen bg-brand-navy text-brand-cream">
       <SiteNav />
 
       {/* Hero image — full-bleed, so it needs a much wider source than a card */}
-      <div className="w-full aspect-[16/9] max-h-[70vh] overflow-hidden bg-[#111]">
+      <div className="w-full aspect-[16/9] max-h-[70vh] overflow-hidden bg-brand-ink">
         <img
           src={imageAt(project.image, 2400)}
           alt={title}
@@ -54,15 +54,15 @@ const Project = () => {
               <li>
                 <Link
                   to="/"
-                  className="inline-flex h-11 items-center text-[#666] transition-colors hover:text-white"
+                  className="inline-flex h-11 items-center text-brand-cream/50 transition-colors hover:text-brand-cream"
                 >
                   Work
                 </Link>
               </li>
-              <li aria-hidden className="text-[#444]">
+              <li aria-hidden className="text-brand-cream/35">
                 /
               </li>
-              <li className="text-[#aaa]" aria-current="page">
+              <li className="text-brand-cream/70" aria-current="page">
                 {title}
               </li>
             </ol>
@@ -73,18 +73,18 @@ const Project = () => {
           </h1>
 
           {/* dt/dd have to sit inside a dl to be valid HTML */}
-          <dl className="flex gap-12 mb-12 text-sm border-b border-[#333] pb-8">
+          <dl className="flex gap-12 mb-12 text-sm border-b border-brand-cream/20 pb-8">
             <div>
-              <dt className="text-[#666] uppercase tracking-widest text-xs mb-1">Year</dt>
-              <dd className="text-white">{project.year}</dd>
+              <dt className="text-brand-cream/50 uppercase tracking-widest text-xs mb-1">Year</dt>
+              <dd className="text-brand-cream">{project.year}</dd>
             </div>
             <div>
-              <dt className="text-[#666] uppercase tracking-widest text-xs mb-1">Location</dt>
-              <dd className="text-white">{project.location}</dd>
+              <dt className="text-brand-cream/50 uppercase tracking-widest text-xs mb-1">Location</dt>
+              <dd className="text-brand-cream">{project.location}</dd>
             </div>
           </dl>
 
-          <p className="text-[#aaa] text-lg leading-relaxed">
+          <p className="text-brand-cream/70 text-lg leading-relaxed">
             {project.description}
           </p>
         </div>
@@ -94,9 +94,9 @@ const Project = () => {
           it brings the touch-device CardManager, without which card photos
           never activate on phones (they idle at opacity 0). */}
       {neighbors.length > 0 && (
-        <div className="border-t border-[#333]">
+        <div className="border-t border-brand-cream/20">
           <div className="site-shell py-10">
-            <h2 className="text-xs text-[#666] uppercase tracking-widest mb-6">More Projects</h2>
+            <h2 className="text-xs text-brand-cream/50 uppercase tracking-widest mb-6">More Projects</h2>
           </div>
           <CardGrid cards={neighbors} />
         </div>

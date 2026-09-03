@@ -33,7 +33,7 @@ const team = [
 
 const OurTeam = () => {
   return (
-    <div className="min-h-screen bg-black text-white">
+    <div className="min-h-screen bg-brand-navy text-brand-cream">
       <SiteNav />
 
       <div className="pt-32 pb-24">
@@ -46,7 +46,7 @@ const OurTeam = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-20">
             {team.map((member) => (
               <div key={member.name}>
-                <div className="aspect-[4/5] overflow-hidden mb-6 bg-[#111]">
+                <div className="aspect-[4/5] overflow-hidden mb-6 bg-brand-ink">
                   <img
                     src={member.image}
                     alt={member.name}
@@ -55,8 +55,8 @@ const OurTeam = () => {
                   />
                 </div>
                 <h3 className="text-xl font-bold tracking-tight">{member.name}</h3>
-                <p className="text-xs text-[#666] uppercase tracking-widest mt-1 mb-4">{member.role}</p>
-                <p className="text-[#aaa] text-sm leading-relaxed">{member.bio}</p>
+                <p className="text-xs text-brand-cream/50 uppercase tracking-widest mt-1 mb-4">{member.role}</p>
+                <p className="text-brand-cream/70 text-sm leading-relaxed">{member.bio}</p>
               </div>
             ))}
           </div>

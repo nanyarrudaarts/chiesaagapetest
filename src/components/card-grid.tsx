@@ -205,7 +205,7 @@ export function CardGrid({ cards }: CardGridProps) {
       ref={sectionRef}
       className="section-card-grid relative z-[10] translate-z-0"
     >
-      <div className="card-grid relative z-[1] overflow-hidden border-t border-[#444] bg-black text-white">
+      <div className="card-grid relative z-[1] overflow-hidden border-t border-[#444] bg-brand-navy text-brand-cream">
         <div
           ref={wrapperCallbackRef}
           className="card-grid-wrapper relative z-[1]"
