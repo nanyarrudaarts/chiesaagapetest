@@ -3,6 +3,7 @@ import { Link, useLocation } from "react-router-dom";
 import { Menu, X } from "lucide-react";
 import * as SheetPrimitive from "@radix-ui/react-dialog";
 import { Sheet, SheetClose, SheetOverlay, SheetPortal, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
+import { BrandLogo } from "@/components/brand-logo";
 
 const links = [
   { to: "/", label: "Início" },
