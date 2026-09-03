@@ -10,7 +10,7 @@ export interface Project {
 
 /**
  * Re-requests an Unsplash image at a different width. Card thumbnails and the
- * full-bleed project hero need very different sizes on a retina screen.
+ * full-bleed hero need very different sizes on a retina screen.
  */
 export const imageAt = (url: string, width: number): string =>
   url.replace(/w=\d+/, `w=${width}`);
@@ -18,108 +18,104 @@ export const imageAt = (url: string, width: number): string =>
 /**
  * The version of a photo used inside the card headline letters: blurred, lifted
  * and a little more saturated, so the letters read as a bright glow rather than
- * a tiny photo. The video mask this replaced did the same thing on a canvas
- * (`blur(10px) saturate(140%) brightness(250%)`), but a CSS filter would soften
- * the letter edges too — Unsplash's CDN bakes it into the file instead.
- *
- * Lifting the darks matters most: the cards are black, so any part of a letter
- * that stays near-black breaks the word up.
- *
- * It is requested small on purpose. Blurred pixels carry almost no detail, so
- * 600px costs a third of the crisp version.
+ * a tiny photo.
  */
 export const maskImage = (url: string): string =>
   `${imageAt(url, 600)}&blur=60&bri=25&sat=30`;
 
+/**
+ * Atividades e ministérios da comunidade. Os quatro pilares declarados pela
+ * própria igreja — Bíblia → Cristo → Ágape → Missão — organizam esta lista.
+ */
 export const projects: Project[] = [
   {
-    id: "courtyard-house",
-    titleTop: "Light &\nVolume",
-    titleMasked: "Courtyard\nHouse.",
-    image: "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?w=1600&q=80",
-    year: "2024",
-    location: "Mexico City",
+    id: "culto-de-domingo",
+    titleTop: "Adoração &\nPalavra",
+    titleMasked: "Culto de\nDomingo.",
+    image: "https://images.unsplash.com/photo-1438232992991-995b7058bbb3?w=1600&q=80",
+    year: "Domingo, 10h30",
+    location: "Via Pontebbana 1, Fiume Veneto",
     description:
-      "A family house built around a planted courtyard, so every room borrows daylight from two sides. We designed the structure and the interiors together — pale plaster, oak joinery and a kitchen that opens straight onto the garden.",
+      "O encontro central da semana: louvor, oração e a pregação da Palavra. Um culto simples e aberto a todos — se é a sua primeira vez, basta chegar; não é preciso avisar nem se inscrever.",
   },
   {
-    id: "meridian-tower",
-    titleTop: "Vertical\nWorkplace",
-    titleMasked: "Meridian\nTower.",
-    image: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1600&q=80",
-    year: "2023",
-    location: "London",
+    id: "estudo-biblico",
+    titleTop: "Ensino dos\nApóstolos",
+    titleMasked: "Estudo\nBíblico.",
+    image: "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=1600&q=80",
+    year: "Quarta-feira, 20h30",
+    location: "Sede da igreja e casas",
     description:
-      "Twenty-two floors of offices above a public arcade. Our interiors brief covered the lobby, the shared floors and the roof terrace: warm stone underfoot, acoustic felt overhead, and daylight pulled deep into the plan.",
+      "Estudamos a Bíblia como autoridade e fonte de verdade para a fé e a conduta. Um tempo de leitura atenta, perguntas honestas e aplicação à vida real, seguindo Atos 2:42.",
   },
   {
-    id: "casa-ferrer",
-    titleTop: "Restored\nFaçade",
-    titleMasked: "Casa\nFerrer.",
-    image: "https://images.unsplash.com/photo-1511818966892-d7d671e672a2?w=1600&q=80",
-    year: "2023",
-    location: "Barcelona",
+    id: "oracao",
+    titleTop: "Juntos diante\nde Deus",
+    titleMasked: "Encontro de\nOração.",
+    image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1600&q=80",
+    year: "Semanal",
+    location: "Sede da igreja",
     description:
-      "A listed apartment building brought back into use. We repaired the ornamental façade, then reworked the interiors behind it into eight flats — original tilework kept, services and insulation quietly rebuilt.",
+      "Oração pela igreja, pela cidade e pelas necessidades de cada família. Um espaço onde ninguém precisa ter as palavras certas — só o desejo de estar diante de Deus com os outros.",
   },
   {
-    id: "hollis-street",
-    titleTop: "Diagrid\nOffice",
-    titleMasked: "Hollis\nStreet.",
-    image: "https://images.unsplash.com/photo-1518005020951-eccb494ad742?w=1600&q=80",
-    year: "2024",
-    location: "New York",
+    id: "ceia-do-senhor",
+    titleTop: "Pão &\nVinho",
+    titleMasked: "Ceia do\nSenhor.",
+    image: "https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=1600&q=80",
+    year: "Mensal",
+    location: "No culto",
     description:
-      "A new office block set on the retained base of a 1920s warehouse. The diagrid frame carries the loads at the perimeter, which left the interiors column-free and let us plan the floors around light rather than structure.",
+      "Partimos o pão e partilhamos o vinho em memória do sacrifício de Cristo. Não é um rito decorativo: é o centro da nossa fé lembrado em comunidade.",
   },
   {
-    id: "glasshouse-pavilion",
-    titleTop: "Curved\nGlazing",
-    titleMasked: "Glasshouse\nPavilion.",
-    image: "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?w=1600&q=80",
-    year: "2022",
-    location: "Paris",
+    id: "batismo",
+    titleTop: "Testemunho\nPúblico",
+    titleMasked: "Batismo\npor Imersão.",
+    image: "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1600&q=80",
+    year: "Ao longo do ano",
+    location: "A combinar",
     description:
-      "An events pavilion in a public park, wrapped in curved glazing on a timber frame. Inside, a single room that can be split three ways, with movable oak screens and lighting designed for both daylight and evening use.",
+      "Cremos no batismo de adultos, por escolha pessoal e por imersão, como testemunho público de uma fé já viva. Quem deseja dar este passo é acompanhado antes com conversa e ensino.",
   },
   {
-    id: "garden-rooms",
-    titleTop: "Three\nBiomes",
-    titleMasked: "Garden\nRooms.",
-    image: "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=1600&q=80",
-    year: "2023",
-    location: "Cornwall",
+    id: "missao",
+    titleTop: "Ir, pregar,\nfazer discípulos",
+    titleMasked: "Missão &\nEvangelho.",
+    image: "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1600&q=80",
+    year: "Todo o ano",
+    location: "Fiume Veneto e região",
     description:
-      "Three linked glasshouses for a botanical trust, set into a disused clay pit. Lightweight cushions span the roofs; the interiors are planted rooms, with cast-concrete paths and benches we detailed on site.",
+      "Obedecer ao mandato de Jesus em Mateus 28:19–20 é parte da nossa identidade. Estamos na rua, nas casas e nos encontros da região, com ações e eventos abertos à cidade.",
   },
   {
-    id: "fenchurch-lofts",
-    titleTop: "Double\nHeight",
-    titleMasked: "Fenchurch\nLofts.",
-    image: "https://images.unsplash.com/photo-1494526585095-c41746248156?w=1600&q=80",
-    year: "2024",
-    location: "London",
+    id: "comunhao",
+    titleTop: "Amor\nFraterno",
+    titleMasked: "Comunhão\n& Ágape.",
+    image: "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=1600&q=80",
+    year: "Regular",
+    location: "Casas da comunidade",
     description:
-      "Fourteen apartments in the upper floors of a 1980s office tower. The plan widens as it rises, so we gave the top three homes double-height living rooms and interiors finished in lime plaster and blackened steel.",
+      "Ágape é amor desinteressado, fraterno e imenso — e por isso é o nome desta igreja. Refeições partilhadas, cuidado prático e amizade que não termina quando o culto acaba.",
   },
   {
-    id: "the-helix-stair",
-    titleTop: "154\nFlights",
-    titleMasked: "The Helix\nStair.",
-    image: "https://images.unsplash.com/photo-1496568816309-51d7c20e3b21?w=1600&q=80",
-    year: "2022",
-    location: "New York",
+    id: "familias",
+    titleTop: "Crianças &\nFamílias",
+    titleMasked: "Famílias\nna Fé.",
+    image: "https://images.unsplash.com/photo-1476703993599-0035a21b17a9?w=1600&q=80",
+    year: "Durante o culto",
+    location: "Sala das crianças",
     description:
-      "A public stair and viewing structure at the centre of a new square. Copper-clad steel, 154 flights, and handrails prototyped at full size in the workshop before anything was cut.",
+      "Ensino bíblico adequado à idade, num ambiente seguro e acolhedor, enquanto os pais participam do culto. Apoiamos as famílias na formação da fé em casa, não apenas no domingo.",
   },
   {
-    id: "arts-quarter",
-    titleTop: "Concrete\nShells",
-    titleMasked: "Arts\nQuarter.",
-    image: "https://images.unsplash.com/photo-1431576901776-e539bd916ba2?w=1600&q=80",
-    year: "2023",
-    location: "Valencia",
+    id: "jovens",
+    titleTop: "Convicção\nsem uniformidade",
+    titleMasked: "Jovens\n& Perguntas.",
+    image: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=1600&q=80",
+    year: "Mensal",
+    location: "Sede da igreja",
     description:
-      "A concert hall and gallery sharing one roof of thin concrete shells. We led the architecture and the interior fit-out: mosaic-lined foyers, a 900-seat auditorium, and back-of-house planned around a single service spine.",
+      "Um espaço para adolescentes e jovens adultos trazerem dúvidas reais. Firmes no essencial, livres no que não é essencial (Romanos 14), e tudo ligado ao amor.",
   },
 ];
