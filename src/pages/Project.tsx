@@ -96,7 +96,7 @@ const Project = () => {
       {neighbors.length > 0 && (
         <div className="border-t border-brand-cream/20">
           <div className="site-shell py-10">
-            <h2 className="text-xs text-brand-cream/50 uppercase tracking-widest mb-6">More Projects</h2>
+            <h2 className="text-xs text-brand-cream/50 uppercase tracking-widest mb-6">Veja também</h2>
           </div>
           <CardGrid cards={neighbors} />
         </div>
