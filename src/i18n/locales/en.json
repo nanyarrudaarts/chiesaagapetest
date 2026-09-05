@@ -1,740 +1,740 @@
 {
   "ui": {
     "common": {
-      "enter": "Entrar",
-      "panel": "Painel",
-      "openMenu": "Abrir menu",
-      "closeMenu": "Fechar menu",
+      "enter": "Sign in",
+      "panel": "Panel",
+      "openMenu": "Open menu",
+      "closeMenu": "Close menu",
       "menu": "Menu",
-      "loading": "A carregar…",
-      "sending": "A enviar…",
-      "or": "ou",
-      "logoAria": "Chiesa Evangelica Agape — início",
-      "footerNav": "Rodapé",
-      "language": "Idioma"
+      "loading": "Loading…",
+      "sending": "Sending…",
+      "or": "or",
+      "logoAria": "Chiesa Evangelica Agape — home",
+      "footerNav": "Footer",
+      "language": "Language"
     },
     "hero": {
       "eyebrow": "Chiesa Evangelica Agape · Fiume Veneto",
-      "titleLine1": "Amados",
-      "titleLine2": "para amar.",
-      "lead": "Uma comunidade cristã centrada na Bíblia, em Cristo, no ágape e na missão.",
-      "ctaJoin": "Quero fazer parte",
-      "ctaServices": "Horários dos cultos"
+      "titleLine1": "Loved",
+      "titleLine2": "to love.",
+      "lead": "A Christian community centered on the Bible, on Christ, on agape and on mission.",
+      "ctaJoin": "I want to join",
+      "ctaServices": "Service times"
     },
     "home": {
-      "introTitleLine1": "Bíblia, Cristo,",
-      "introTitleLine2": "Ágape, Missão",
-      "intro1": "Somos uma comunidade cristã evangélica em Fiume Veneto, na província de Pordenone. Não nos definimos por um edifício ou por um programa, mas por pessoas que creem em Jesus Cristo como Salvador e desejam seguir a vontade de Deus.",
-      "intro2": "«Ágape» não é apenas o nome desta igreja: é o amor desinteressado, fraterno e imenso que Cristo nos ordenou — amar a Deus e amar o próximo. É por isso que tudo o que fazemos passa pela comunhão, pelo ensino bíblico, pela oração e pela missão.",
-      "introCta": "O que cremos",
+      "introTitleLine1": "Bible, Christ,",
+      "introTitleLine2": "Agape, Mission",
+      "intro1": "We are an evangelical Christian community in Fiume Veneto, in the province of Pordenone. We are not defined by a building or a program, but by people who believe in Jesus Christ as Savior and desire to follow God's will.",
+      "intro2": "\"Agape\" is not just the name of this church: it is the selfless, brotherly and immense love that Christ commanded us — to love God and to love our neighbor. That is why everything we do passes through fellowship, biblical teaching, prayer and mission.",
+      "introCta": "What we believe",
       "pillars": [
         {
-          "title": "Bíblia",
-          "text": "As Escrituras são a nossa autoridade. Ensinamos texto a texto, sem atalhos."
+          "title": "Bible",
+          "text": "Scripture is our authority. We teach text by text, without shortcuts."
         },
         {
-          "title": "Cristo",
-          "text": "A salvação é pela graça, pela fé em Jesus — não pelo nosso mérito."
+          "title": "Christ",
+          "text": "Salvation is by grace, through faith in Jesus — not by our own merit."
         },
         {
-          "title": "Ágape",
-          "text": "O amor fraterno é a marca visível dos discípulos: hospitalidade, perdão, ajuda concreta."
+          "title": "Agape",
+          "text": "Brotherly love is the visible mark of disciples: hospitality, forgiveness, concrete help."
         },
         {
-          "title": "Missão",
-          "text": "Somos enviados ao trabalho, à escola, à vizinhança. Começa à porta de casa."
+          "title": "Mission",
+          "text": "We are sent to work, to school, to the neighborhood. It begins at our own front door."
         }
       ],
-      "finalTitle": "Domingo, 10h30. Venha como está.",
-      "finalText": "Via Pontebbana 1 — 33080 Fiume Veneto (PN), Itália. Se preferir avisar antes, escreva-nos: alguém estará à sua espera à porta.",
-      "finalCtaJoin": "Quero fazer parte",
-      "finalCtaAgenda": "Ver a agenda"
+      "finalTitle": "Sunday, 10:30 am. Come as you are.",
+      "finalText": "Via Pontebbana 1 — 33080 Fiume Veneto (PN), Italy. If you'd rather let us know beforehand, write to us: someone will be waiting for you at the door.",
+      "finalCtaJoin": "I want to join",
+      "finalCtaAgenda": "See the calendar"
     },
     "faith": {
-      "title": "Nossa Fé",
-      "lead": "O que cremos, em linguagem simples. Não são fórmulas para decorar: é aquilo que sustenta a vida desta comunidade e que estamos disponíveis para conversar com quem quiser entender melhor.",
-      "versesTitle": "Textos que nos guiam",
-      "cta": "Tenho uma pergunta",
+      "title": "Our Faith",
+      "lead": "What we believe, in plain language. These are not formulas to memorize: this is what sustains the life of this community, and we are glad to talk with anyone who wants to understand it better.",
+      "versesTitle": "Verses that guide us",
+      "cta": "I have a question",
       "beliefs": [
         {
-          "title": "As Escrituras",
-          "text": "A Bíblia é a autoridade e a fonte de verdade para a fé e a conduta. Nada do que ensinamos pode contradizê-la."
+          "title": "The Scriptures",
+          "text": "The Bible is the authority and the source of truth for faith and conduct. Nothing we teach can contradict it."
         },
         {
-          "title": "Deus",
-          "text": "Um único Deus, Criador, eterno, revelado como Pai, Filho e Espírito Santo."
+          "title": "God",
+          "text": "One God, Creator, eternal, revealed as Father, Son and Holy Spirit."
         },
         {
-          "title": "Jesus Cristo",
-          "text": "Divino e humano: nascimento virginal, vida sem pecado, crucificação e ressurreição. A salvação vem pela sua obra."
+          "title": "Jesus Christ",
+          "text": "Divine and human: virgin birth, sinless life, crucifixion and resurrection. Salvation comes through his work."
         },
         {
-          "title": "Espírito Santo",
-          "text": "Recebido no arrependimento e na fé em Jesus como Salvador e Senhor, dando vida e força à igreja."
+          "title": "Holy Spirit",
+          "text": "Received in repentance and faith in Jesus as Savior and Lord, giving life and strength to the church."
         },
         {
-          "title": "Salvação",
-          "text": "Pela graça, mediante a fé em Jesus Cristo, com arrependimento e transformação real da vida."
+          "title": "Salvation",
+          "text": "By grace, through faith in Jesus Christ, with repentance and real transformation of life."
         },
         {
-          "title": "A Igreja",
-          "text": "Distinguimos a Igreja universal — todos os que são de Cristo — das igrejas locais, como esta comunidade."
+          "title": "The Church",
+          "text": "We distinguish the universal Church — all who belong to Christ — from local churches, such as this community."
         },
         {
-          "title": "Batismo",
-          "text": "De adultos, por escolha pessoal e por imersão, como testemunho público da fé."
+          "title": "Baptism",
+          "text": "Of adults, by personal choice and by immersion, as a public testimony of faith."
         },
         {
-          "title": "Ceia do Senhor",
-          "text": "Pão e vinho, em memória do sacrifício de Cristo, partilhados em comunidade."
+          "title": "The Lord's Supper",
+          "text": "Bread and wine, in remembrance of Christ's sacrifice, shared in community."
         },
         {
-          "title": "Essencial e não essencial",
-          "text": "Firmeza no essencial e liberdade nas questões secundárias (Romanos 14), com todas as convicções ligadas ao amor."
+          "title": "Essential and non-essential",
+          "text": "Firmness on the essentials and freedom on secondary matters (Romans 14), with all convictions bound to love."
         }
       ],
       "verses": [
         {
-          "ref": "Atos 2:42",
-          "text": "Ensino, comunhão, partir do pão e oração."
+          "ref": "Acts 2:42",
+          "text": "Teaching, fellowship, the breaking of bread and prayer."
         },
         {
-          "ref": "Mateus 22:38–40",
-          "text": "Amar a Deus e amar o próximo."
+          "ref": "Matthew 22:38–40",
+          "text": "Love God and love your neighbor."
         },
         {
-          "ref": "João 15:12",
-          "text": "Que vos ameis uns aos outros como eu vos amei."
+          "ref": "John 15:12",
+          "text": "Love one another as I have loved you."
         },
         {
-          "ref": "Mateus 28:19–20",
-          "text": "Ide, fazei discípulos, batizando-os e ensinando-os."
+          "ref": "Matthew 28:19–20",
+          "text": "Go and make disciples, baptizing and teaching them."
         }
       ]
     },
     "contact": {
-      "title": "Fale com a igreja",
-      "lead": "Quer visitar-nos no domingo, pedir oração, marcar uma conversa ou simplesmente entender melhor o que cremos? Escreva-nos — respondemos com o cuidado que gostaríamos de receber.",
-      "addressLabel": "Endereço",
-      "meetingsLabel": "Encontros",
-      "contactLabel": "Contato",
-      "meeting1": "Domingo, 10h30 — culto",
-      "meeting2": "Quarta-feira, 20h30 — estudo bíblico",
-      "thanks": "Obrigado! Entraremos em contato em breve.",
-      "required": "(obrigatório)",
-      "firstName": "Nome",
-      "lastName": "Sobrenome",
-      "email": "E-mail",
-      "subject": "Assunto",
-      "message": "Mensagem",
-      "submit": "Enviar"
+      "title": "Talk to the church",
+      "lead": "Want to visit us on Sunday, ask for prayer, set up a conversation or simply understand better what we believe? Write to us — we respond with the care we would like to receive.",
+      "addressLabel": "Address",
+      "meetingsLabel": "Meetings",
+      "contactLabel": "Contact",
+      "meeting1": "Sunday, 10:30 am — service",
+      "meeting2": "Wednesday, 8:30 pm — Bible study",
+      "thanks": "Thank you! We will get in touch soon.",
+      "required": "(required)",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send"
     },
     "agenda": {
-      "eyebrow": "Agenda",
-      "title": "Próximos encontros",
-      "lead": "Cultos, estudos, oração e eventos especiais. Todos os encontros são abertos — traga quem quiser.",
-      "loading": "A carregar a agenda…",
-      "empty": "Nenhum encontro publicado por agora. O culto de domingo acontece sempre às 10h30.",
-      "featured": "destaque",
-      "cta": "Enviar um pedido de oração"
+      "eyebrow": "Calendar",
+      "title": "Upcoming meetings",
+      "lead": "Services, studies, prayer and special events. All meetings are open — bring anyone you like.",
+      "loading": "Loading the calendar…",
+      "empty": "No meetings published for now. Sunday service always takes place at 10:30 am.",
+      "featured": "featured",
+      "cta": "Send a prayer request"
     },
     "prayer": {
-      "eyebrow": "Pedido de Oração",
-      "title": "Podemos orar por você?",
-      "lead": "Não há pedido pequeno demais. A equipa pastoral ora por cada mensagem recebida — e, se preferir, o seu pedido fica reservado apenas à liderança.",
-      "sentTitle": "Recebemos o seu pedido.",
-      "sentText": "Vamos orar. Se deixou o e-mail, alguém da equipa poderá escrever-lhe para acompanhar de perto.",
-      "name": "Nome",
-      "emailOptional": "E-mail (opcional)",
-      "request": "O seu pedido",
-      "confidential": "Manter confidencial — apenas a liderança verá este pedido.",
-      "submit": "Enviar pedido",
-      "error": "Não foi possível enviar o pedido. Tente novamente."
+      "eyebrow": "Prayer Request",
+      "title": "Can we pray for you?",
+      "lead": "No request is too small. The pastoral team prays over every message received — and, if you prefer, your request stays private, seen only by the leadership.",
+      "sentTitle": "We received your request.",
+      "sentText": "We will pray. If you left your email, someone from the team may write to you to follow up closely.",
+      "name": "Name",
+      "emailOptional": "Email (optional)",
+      "request": "Your request",
+      "confidential": "Keep confidential — only the leadership will see this request.",
+      "submit": "Send request",
+      "error": "We could not send the request. Please try again."
     },
     "join": {
-      "eyebrow": "Quero Fazer Parte",
-      "title": "Há lugar para você aqui.",
-      "lead": "Diga-nos apenas por onde quer começar. Alguém da equipa entra em contacto e acompanha os primeiros passos — sem pressa e sem compromisso.",
-      "sentTitle": "Inscrição recebida.",
-      "sentText": "Obrigado por dar este passo. Entramos em contacto em breve pelo e-mail que deixou.",
-      "name": "Nome completo",
-      "email": "E-mail",
-      "phone": "Telefone (opcional)",
-      "message": "Quer contar-nos algo? (opcional)",
-      "submit": "Enviar inscrição",
-      "error": "Não foi possível enviar. Tente novamente.",
+      "eyebrow": "I Want to Join",
+      "title": "There is a place for you here.",
+      "lead": "Just tell us where you'd like to start. Someone from the team will get in touch and walk with you through the first steps — no rush, no obligation.",
+      "sentTitle": "Application received.",
+      "sentText": "Thank you for taking this step. We will get in touch soon at the email you provided.",
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone (optional)",
+      "message": "Want to tell us something? (optional)",
+      "submit": "Send application",
+      "error": "We could not send this. Please try again.",
       "interests": [
-        "Visitar um culto",
-        "Entrar num pequeno grupo",
-        "Servir num ministério",
-        "Batismo",
-        "Conversar com a liderança"
+        "Visit a service",
+        "Join a small group",
+        "Serve in a ministry",
+        "Baptism",
+        "Talk with the leadership"
       ]
     },
     "donations": {
-      "eyebrow": "Doações",
-      "title": "Contribuir com alegria.",
-      "lead": "Tudo o que recebemos sustenta o ensino da Palavra, o cuidado das famílias, a ação social e a missão. Cada contribuição é voluntária — «Deus ama a quem dá com alegria».",
-      "howTitle": "Como contribuir",
-      "how1": "Pode entregar a sua oferta presencialmente durante o culto de domingo, ou por transferência bancária para a conta da comunidade.",
-      "how2": "Os dados bancários (IBAN e titular) serão publicados aqui após validação da liderança. Até então, peça-os pelo formulário de contacto e enviamos com segurança.",
-      "whereTitle": "Para onde vai",
+      "eyebrow": "Donations",
+      "title": "Giving with joy.",
+      "lead": "Everything we receive sustains the teaching of the Word, care for families, social action and mission. Every contribution is voluntary — \"God loves a cheerful giver.\"",
+      "howTitle": "How to give",
+      "how1": "You can bring your offering in person during the Sunday service, or by bank transfer to the community's account.",
+      "how2": "The bank details (IBAN and account holder) will be published here once approved by the leadership. Until then, ask for them through the contact form and we will send them securely.",
+      "whereTitle": "Where it goes",
       "where": [
-        "Ensino, materiais bíblicos e formação de líderes.",
-        "Apoio a famílias da comunidade e da vizinhança em dificuldade.",
-        "Espaço de reunião, energia e manutenção.",
-        "Missões e parcerias dentro e fora de Itália."
+        "Teaching, biblical resources and leadership training.",
+        "Support for families in the community and neighborhood in need.",
+        "Meeting space, utilities and maintenance.",
+        "Missions and partnerships within and beyond Italy."
       ],
-      "transparencyTitle": "Transparência",
-      "transparencyText": "As contas são apresentadas periodicamente à comunidade. Qualquer membro pode pedir esclarecimentos à liderança.",
-      "cta": "Pedir os dados bancários"
+      "transparencyTitle": "Transparency",
+      "transparencyText": "Accounts are presented periodically to the community. Any member may ask the leadership for clarification.",
+      "cta": "Request the bank details"
     },
     "auth": {
-      "loginTitle": "Entrar",
-      "signupTitle": "Criar conta",
-      "resetTitle": "Recuperar senha",
-      "loginLead": "Área reservada aos membros, líderes e pastores da comunidade.",
-      "signupLead": "Crie a sua conta para acompanhar a vida da igreja de perto.",
-      "resetLead": "Indique o seu e-mail e enviamos um link para definir nova senha.",
-      "fullName": "Nome completo",
-      "email": "E-mail",
-      "password": "Senha",
-      "wait": "Aguarde…",
-      "loginSubmit": "Entrar",
-      "signupSubmit": "Criar conta",
-      "resetSubmit": "Enviar link",
-      "google": "Entrar com Google",
-      "forgot": "Esqueci a senha",
-      "noAccount": "Ainda não tenho conta",
-      "backToLogin": "Voltar a entrar",
-      "signupOk": "Conta criada. Verifique o seu e-mail para confirmar.",
-      "resetOk": "Enviámos um link de recuperação para o seu e-mail.",
-      "genericError": "Não foi possível concluir.",
-      "googleError": "Não foi possível entrar com o Google."
+      "loginTitle": "Sign in",
+      "signupTitle": "Create account",
+      "resetTitle": "Reset password",
+      "loginLead": "Area reserved for members, leaders and pastors of the community.",
+      "signupLead": "Create your account to follow the life of the church closely.",
+      "resetLead": "Enter your email and we will send you a link to set a new password.",
+      "fullName": "Full name",
+      "email": "Email",
+      "password": "Password",
+      "wait": "Please wait…",
+      "loginSubmit": "Sign in",
+      "signupSubmit": "Create account",
+      "resetSubmit": "Send link",
+      "google": "Sign in with Google",
+      "forgot": "Forgot password",
+      "noAccount": "I don't have an account yet",
+      "backToLogin": "Back to sign in",
+      "signupOk": "Account created. Check your email to confirm.",
+      "resetOk": "We sent a recovery link to your email.",
+      "genericError": "We could not complete this.",
+      "googleError": "We could not sign in with Google."
     },
     "dashboard": {
-      "roleMembro": "Membro",
-      "roleLider": "Líder",
+      "roleMembro": "Member",
+      "roleLider": "Leader",
       "rolePastor": "Pastor",
-      "areaPrefix": "Área",
-      "areaFallback": "reservada",
-      "greeting": "Olá",
-      "leadPastor": "Visão pastoral da comunidade: pedidos de oração, novos interessados e agenda.",
-      "leadLider": "Painel de liderança: acompanhe pedidos, inscrições e a agenda dos encontros.",
-      "leadMembro": "O seu espaço na comunidade: agenda, pedidos de oração e vida da igreja.",
-      "signOut": "Sair",
-      "prayerCta": "Enviar pedido de oração",
-      "eventsTitle": "Próximos encontros",
-      "eventsEmpty": "Nenhum encontro agendado por agora.",
-      "prayersTitle": "Pedidos de oração",
-      "prayersEmpty": "Sem pedidos por agora.",
-      "confidentialRequest": "Pedido confidencial",
-      "communityTitle": "Caminhar em comunidade",
-      "communityText": "Entre num pequeno grupo, sirva num ministério ou fale com a liderança. A vida da igreja acontece durante a semana, não só no domingo.",
-      "linkGroups": "Pequenos grupos",
-      "linkVolunteer": "Voluntariado",
-      "linkStudies": "Estudos bíblicos",
-      "membersTitle": "Quem quer fazer parte",
-      "membersEmpty": "Sem inscrições por agora.",
-      "interestLabel": "Interesse",
-      "pastorNoteTitle": "Nota pastoral",
-      "pastorNoteText": "Como pastor, vê todos os pedidos e inscrições da comunidade e pode criar ou editar eventos da agenda. Os papéis de cada pessoa são geridos na base da comunidade."
+      "areaPrefix": "Area",
+      "areaFallback": "reserved",
+      "greeting": "Hello",
+      "leadPastor": "Pastoral overview of the community: prayer requests, new interested people and calendar.",
+      "leadLider": "Leadership panel: track requests, applications and the calendar of meetings.",
+      "leadMembro": "Your space in the community: calendar, prayer requests and church life.",
+      "signOut": "Sign out",
+      "prayerCta": "Send a prayer request",
+      "eventsTitle": "Upcoming meetings",
+      "eventsEmpty": "No meetings scheduled for now.",
+      "prayersTitle": "Prayer requests",
+      "prayersEmpty": "No requests for now.",
+      "confidentialRequest": "Confidential request",
+      "communityTitle": "Walking in community",
+      "communityText": "Join a small group, serve in a ministry or talk with the leadership. The life of the church happens during the week, not only on Sunday.",
+      "linkGroups": "Small groups",
+      "linkVolunteer": "Volunteering",
+      "linkStudies": "Bible studies",
+      "membersTitle": "Who wants to join",
+      "membersEmpty": "No applications for now.",
+      "interestLabel": "Interest",
+      "pastorNoteTitle": "Pastoral note",
+      "pastorNoteText": "As a pastor, you see all the community's requests and applications and can create or edit calendar events. Each person's role is managed in the community's database."
     },
     "project": {
-      "notFound": "Página não encontrada",
-      "back": "Voltar ao início",
-      "home": "Início",
-      "when": "Quando",
-      "where": "Onde",
-      "alsoSee": "Veja também"
+      "notFound": "Page not found",
+      "back": "Back to home",
+      "home": "Home",
+      "when": "When",
+      "where": "Where",
+      "alsoSee": "Also see"
     },
     "notFound": {
-      "title": "Página não encontrada",
-      "text": "Esta página não existe ou foi movida. Volte ao início e continue a partir daí.",
-      "cta": "Voltar ao início"
+      "title": "Page not found",
+      "text": "This page does not exist or has been moved. Go back to the home page and continue from there.",
+      "cta": "Back to home"
     },
     "footer": {
-      "community": "Comunidade",
-      "address": "Via Pontebbana 1 — 33080 Fiume Veneto (PN), Itália",
-      "services": "Culto de domingo às 10h30 — todos são bem-vindos"
+      "community": "Community",
+      "address": "Via Pontebbana 1 — 33080 Fiume Veneto (PN), Italy",
+      "services": "Sunday service at 10:30 am — everyone is welcome"
     }
   },
   "nav": {
-    "/": "Início",
-    "Sobre": "Sobre",
-    "/sobre/quem-somos": "Quem Somos",
-    "/sobre/nossa-historia": "Nossa História",
-    "/sobre/nossa-visao": "Nossa Visão",
-    "/sobre/lideranca": "Liderança",
-    "/sobre/valores": "Valores",
-    "Vida da Igreja": "Vida da Igreja",
-    "/vida-da-igreja/cultos": "Cultos",
-    "/vida-da-igreja/ministerios": "Ministérios",
-    "/vida-da-igreja/pequenos-grupos": "Pequenos Grupos",
-    "/vida-da-igreja/voluntariado": "Voluntariado",
-    "/vida-da-igreja/eventos": "Eventos",
-    "Conteúdos": "Conteúdos",
-    "/conteudos/pregacoes": "Pregações",
-    "/conteudos/videos": "Vídeos",
-    "/conteudos/devocionais": "Devocionais",
-    "/conteudos/estudos": "Estudos",
-    "/conteudos/testemunhos": "Testemunhos",
-    "/agenda": "Agenda",
-    "/pedido-de-oracao": "Pedido de Oração",
-    "/quero-fazer-parte": "Quero Fazer Parte",
-    "/doacoes": "Doações",
-    "/contact": "Contato"
+    "/": "Home",
+    "Sobre": "About",
+    "/sobre/quem-somos": "Who We Are",
+    "/sobre/nossa-historia": "Our History",
+    "/sobre/nossa-visao": "Our Vision",
+    "/sobre/lideranca": "Leadership",
+    "/sobre/valores": "Values",
+    "Vida da Igreja": "Church Life",
+    "/vida-da-igreja/cultos": "Services",
+    "/vida-da-igreja/ministerios": "Ministries",
+    "/vida-da-igreja/pequenos-grupos": "Small Groups",
+    "/vida-da-igreja/voluntariado": "Volunteering",
+    "/vida-da-igreja/eventos": "Events",
+    "Conteúdos": "Content",
+    "/conteudos/pregacoes": "Sermons",
+    "/conteudos/videos": "Videos",
+    "/conteudos/devocionais": "Devotionals",
+    "/conteudos/estudos": "Studies",
+    "/conteudos/testemunhos": "Testimonies",
+    "/agenda": "Calendar",
+    "/pedido-de-oracao": "Prayer Request",
+    "/quero-fazer-parte": "I Want to Join",
+    "/doacoes": "Donations",
+    "/contact": "Contact"
   },
   "pages": {
     "/sobre/quem-somos": {
-      "eyebrow": "Sobre",
-      "title": "Quem Somos",
-      "lead": "Somos uma comunidade cristã evangélica em Fiume Veneto, na província de Pordenone. Pessoas comuns que creem em Jesus Cristo e caminham juntas.",
+      "eyebrow": "About",
+      "title": "Who We Are",
+      "lead": "We are an evangelical Christian community in Fiume Veneto, in the province of Pordenone. Ordinary people who believe in Jesus Christ and walk together.",
       "sections": [
         {
-          "heading": "Uma família, não um edifício",
+          "heading": "A family, not a building",
           "body": [
-            "A igreja não é o prédio nem o programa: são as pessoas. Reunimo-nos para adorar a Deus, aprender das Escrituras, orar e cuidar uns dos outros.",
-            "Quem chega pela primeira vez não precisa de nada além de vontade de estar. Não há um traje, um vocabulário ou um passado exigido à entrada."
+            "The church is not the building or the program: it is the people. We gather to worship God, learn from the Scriptures, pray and care for one another.",
+            "Anyone arriving for the first time needs nothing more than a willingness to be there. There is no required dress, vocabulary or past to enter."
           ]
         },
         {
-          "heading": "Porque «Ágape»",
+          "heading": "Why \"Agape\"",
           "body": [
-            "Ágape é a palavra grega para o amor desinteressado que Cristo nos mostrou e nos ordenou: amar a Deus acima de tudo e amar o próximo como a nós mesmos.",
-            "É por isso que este nome não descreve um estilo, mas um compromisso — o critério pelo qual queremos ser medidos."
+            "Agape is the Greek word for the selfless love that Christ showed us and commanded us to have: to love God above all and to love our neighbor as ourselves.",
+            "That is why this name does not describe a style, but a commitment — the standard by which we want to be measured."
           ]
         }
       ],
       "verse": {
-        "text": "E perseveravam na doutrina dos apóstolos, na comunhão, no partir do pão e nas orações.",
-        "ref": "Atos 2:42"
+        "text": "And they devoted themselves to the apostles' teaching and fellowship, to the breaking of bread and the prayers.",
+        "ref": "Acts 2:42"
       },
       "cta": {
-        "label": "Visite-nos num domingo"
+        "label": "Visit us on a Sunday"
       }
     },
     "/sobre/nossa-historia": {
-      "eyebrow": "Sobre",
-      "title": "Nossa História",
-      "lead": "Uma história feita de encontros simples: casas, mesas, Bíblias abertas e a decisão de continuar juntos.",
+      "eyebrow": "About",
+      "title": "Our History",
+      "lead": "A story made of simple encounters: homes, tables, open Bibles and the decision to keep going together.",
       "sections": [
         {
-          "heading": "O início",
+          "heading": "The beginning",
           "body": [
-            "A comunidade nasceu do desejo de um pequeno grupo de famílias de ter um lugar onde a Palavra fosse ensinada com clareza e onde ninguém ficasse anónimo.",
-            "Os primeiros encontros aconteceram em casas, à volta de uma mesa. Muito do que somos hoje continua a ter essa forma."
+            "The community was born from the desire of a small group of families to have a place where the Word would be taught clearly and where no one would remain anonymous.",
+            "The first gatherings took place in homes, around a table. Much of who we are today still has that shape."
           ]
         },
         {
-          "heading": "Crescer sem perder o rosto",
+          "heading": "Growing without losing face",
           "body": [
-            "Com o tempo chegaram novas pessoas, novos idiomas e novas histórias — italianos, brasileiros e outros que fizeram desta terra a sua casa.",
-            "Crescer trouxe estrutura, mas a intenção permanece: uma comunidade onde cada pessoa é conhecida pelo nome."
+            "Over time new people arrived, new languages and new stories — Italians, Brazilians and others who made this land their home.",
+            "Growth brought structure, but the intention remains: a community where every person is known by name."
           ]
         },
         {
-          "heading": "Hoje",
+          "heading": "Today",
           "body": [
-            "Reunimo-nos semanalmente em Fiume Veneto para culto, estudo bíblico e oração, com pequenos grupos ao longo da semana.",
-            "Esta página é um resumo provisório: a liderança está a recolher datas, testemunhos e fotografias para contar a história completa."
+            "We gather weekly in Fiume Veneto for worship, Bible study and prayer, with small groups meeting throughout the week.",
+            "This page is a provisional summary: the leadership is gathering dates, testimonies and photographs to tell the full story."
           ]
         }
       ]
     },
     "/sobre/nossa-visao": {
-      "eyebrow": "Sobre",
-      "title": "Nossa Visão",
-      "lead": "Ver homens e mulheres desta região encontrarem em Cristo perdão, propósito e uma família.",
+      "eyebrow": "About",
+      "title": "Our Vision",
+      "lead": "To see men and women of this region find in Christ forgiveness, purpose and a family.",
       "sections": [
         {
-          "heading": "Para onde caminhamos",
+          "heading": "Where we are heading",
           "body": [
-            "Queremos ser uma igreja onde a Bíblia é ensinada sem atalhos, onde a oração não é um item do programa e onde o cuidado mútuo é concreto.",
-            "Sonhamos com pequenos grupos espalhados pela zona, cada um funcionando como uma porta aberta para vizinhos, colegas e amigos."
+            "We want to be a church where the Bible is taught without shortcuts, where prayer is not a program item, and where mutual care is concrete.",
+            "We dream of small groups spread throughout the area, each one functioning as an open door for neighbors, coworkers and friends."
           ]
         },
         {
-          "heading": "Missão",
+          "heading": "Mission",
           "body": [
-            "«Ide, portanto, e fazei discípulos de todas as nações» não é uma tarefa para especialistas: é o modo normal de vida de quem foi alcançado.",
-            "Por isso investimos em formar pessoas — não apenas em encher salas."
+            "\"Go therefore and make disciples of all nations\" is not a task for specialists: it is the normal way of life for anyone who has been reached.",
+            "That is why we invest in forming people — not just filling rooms."
           ]
         }
       ],
       "verse": {
-        "text": "Ide, portanto, e fazei discípulos de todas as nações... ensinando-os a guardar todas as coisas que eu vos tenho ordenado.",
-        "ref": "Mateus 28:19-20"
+        "text": "Go therefore and make disciples of all nations... teaching them to observe all that I have commanded you.",
+        "ref": "Matthew 28:19-20"
       },
       "cta": {
-        "label": "Quero servir nesta visão"
+        "label": "I want to serve this vision"
       }
     },
     "/sobre/lideranca": {
-      "eyebrow": "Sobre",
-      "title": "Liderança",
-      "lead": "A liderança existe para servir, ensinar e cuidar — nunca para dominar a fé de ninguém.",
+      "eyebrow": "About",
+      "title": "Leadership",
+      "lead": "Leadership exists to serve, teach and care — never to dominate anyone's faith.",
       "sections": [
         {
-          "heading": "Como entendemos a liderança",
+          "heading": "How we understand leadership",
           "body": [
-            "Os líderes desta comunidade são pastores, anciãos e diáconos que respondem primeiro a Deus e depois à igreja, com vidas abertas ao escrutínio.",
-            "A autoridade que exercem é a da Palavra, não a da personalidade. Onde a Escritura não fala, a consciência de cada crente é respeitada."
+            "The leaders of this community are pastors, elders and deacons who answer first to God and then to the church, with lives open to scrutiny.",
+            "The authority they exercise is that of the Word, not of personality. Where Scripture does not speak, each believer's conscience is respected."
           ]
         },
         {
-          "heading": "Equipa",
+          "heading": "Team",
           "body": [
-            "Os nomes, funções e fotografias da equipa pastoral e diaconal serão publicados aqui assim que a liderança validar esta página.",
-            "Até então, pode falar com qualquer pessoa da equipa no fim do culto ou escrever-nos pelo formulário de contacto."
+            "The names, roles and photographs of the pastoral and diaconal team will be published here as soon as the leadership approves this page.",
+            "Until then, you can speak with anyone on the team after the service or write to us through the contact form."
           ]
         }
       ],
       "cta": {
-        "label": "Falar com a liderança"
+        "label": "Talk with the leadership"
       }
     },
     "/sobre/valores": {
-      "eyebrow": "Sobre",
-      "title": "Valores",
-      "lead": "Quatro pilares sustentam tudo o que fazemos: Bíblia, Cristo, Ágape e Missão.",
+      "eyebrow": "About",
+      "title": "Values",
+      "lead": "Four pillars sustain everything we do: Bible, Christ, Agape and Mission.",
       "sections": [
         {
-          "heading": "Bíblia",
+          "heading": "Bible",
           "body": [
-            "As Escrituras são a nossa autoridade final em matéria de fé e de vida. Ensinamos textos, não apenas temas."
+            "Scripture is our final authority in matters of faith and life. We teach texts, not just topics."
           ]
         },
         {
-          "heading": "Cristo",
+          "heading": "Christ",
           "body": [
-            "Jesus é o centro: a salvação é pela graça, mediante a fé nele, e não por mérito nosso."
+            "Jesus is the center: salvation is by grace, through faith in him, and not by our own merit."
           ]
         },
         {
-          "heading": "Ágape",
+          "heading": "Agape",
           "body": [
-            "O amor fraterno é a marca visível dos discípulos. Praticamo-lo em hospitalidade, perdão e ajuda concreta."
+            "Brotherly love is the visible mark of disciples. We practice it through hospitality, forgiveness and concrete help."
           ]
         },
         {
-          "heading": "Missão",
+          "heading": "Mission",
           "body": [
-            "Somos enviados ao trabalho, à escola, à vizinhança. A missão começa à porta de casa."
+            "We are sent to work, to school, to the neighborhood. Mission begins at our own front door."
           ]
         },
         {
-          "heading": "Liberdade no não essencial",
+          "heading": "Freedom on non-essentials",
           "body": [
-            "Firmeza no essencial, liberdade no acessório, amor em tudo — como Romanos 14 nos ensina a viver com quem pensa diferente."
+            "Firmness on the essentials, freedom on secondary matters, love in everything — as Romans 14 teaches us to live with those who think differently."
           ]
         }
       ],
       "verse": {
-        "text": "O meu mandamento é este: que vos ameis uns aos outros, assim como eu vos amei.",
-        "ref": "João 15:12"
+        "text": "This is my commandment: that you love one another, just as I have loved you.",
+        "ref": "John 15:12"
       }
     },
     "/vida-da-igreja/cultos": {
-      "eyebrow": "Vida da Igreja",
-      "title": "Cultos",
-      "lead": "Domingo é o dia em que toda a comunidade se reúne. Chegue como estiver.",
+      "eyebrow": "Church Life",
+      "title": "Services",
+      "lead": "Sunday is the day when the whole community gathers. Come as you are.",
       "sections": [
         {
-          "heading": "Horários",
+          "heading": "Schedule",
           "body": [
-            "Culto de domingo — 10h30. Louvor, oração, leitura e pregação da Bíblia, com tempo de comunhão no fim.",
-            "Estudo bíblico — durante a semana, em horário anunciado na agenda. Encontro de oração — semanal, aberto a todos."
+            "Sunday service — 10:30 am. Worship, prayer, Bible reading and preaching, with fellowship time at the end.",
+            "Bible study — during the week, at a time announced on the calendar. Prayer meeting — weekly, open to everyone."
           ]
         },
         {
-          "heading": "O que esperar",
+          "heading": "What to expect",
           "body": [
-            "Cerca de 90 minutos: cânticos, oração, uma passagem bíblica explicada e aplicada, e avisos da comunidade.",
-            "Há espaço para crianças e alguém disponível para receber quem vem pela primeira vez."
+            "About 90 minutes: songs, prayer, a Bible passage explained and applied, and community announcements.",
+            "There is space for children and someone available to welcome first-time visitors."
           ]
         },
         {
-          "heading": "Onde",
+          "heading": "Where",
           "body": [
-            "Via Pontebbana 1, Fiume Veneto (PN), Itália. Estacionamento no local."
+            "Via Pontebbana 1, Fiume Veneto (PN), Italy. On-site parking."
           ]
         }
       ],
       "cta": {
-        "label": "Ver a agenda completa"
+        "label": "See the full calendar"
       }
     },
     "/vida-da-igreja/ministerios": {
-      "eyebrow": "Vida da Igreja",
-      "title": "Ministérios",
-      "lead": "Áreas de serviço onde os dons de cada pessoa encontram um lugar concreto.",
+      "eyebrow": "Church Life",
+      "title": "Ministries",
+      "lead": "Areas of service where each person's gifts find a concrete place.",
       "sections": [
         {
-          "heading": "Louvor",
+          "heading": "Worship",
           "body": [
-            "Músicos e cantores que preparam o culto semanal com ensaios e oração."
+            "Musicians and singers who prepare the weekly service with rehearsals and prayer."
           ]
         },
         {
-          "heading": "Crianças e adolescentes",
+          "heading": "Children and youth",
           "body": [
-            "Ensino bíblico adequado a cada idade, com equipas formadas e atenção à segurança."
+            "Age-appropriate biblical teaching, with trained teams and attention to safety."
           ]
         },
         {
-          "heading": "Acolhimento",
+          "heading": "Welcome",
           "body": [
-            "Quem recebe à porta, explica o que vai acontecer e garante que ninguém sai sem ter falado com alguém."
+            "Those who greet at the door, explain what will happen, and make sure no one leaves without having spoken to someone."
           ]
         },
         {
-          "heading": "Ação social e missões",
+          "heading": "Social action and missions",
           "body": [
-            "Apoio a famílias em dificuldade e parcerias com trabalhos missionários dentro e fora de Itália."
+            "Support for families in need and partnerships with mission work within and beyond Italy."
           ]
         }
       ],
       "cta": {
-        "label": "Quero servir"
+        "label": "I want to serve"
       }
     },
     "/vida-da-igreja/pequenos-grupos": {
-      "eyebrow": "Vida da Igreja",
-      "title": "Pequenos Grupos",
-      "lead": "Durante a semana, em casas: Bíblia aberta, oração e vida partilhada em grupos pequenos.",
+      "eyebrow": "Church Life",
+      "title": "Small Groups",
+      "lead": "During the week, in homes: open Bible, prayer and shared life in small groups.",
       "sections": [
         {
-          "heading": "Porque existem",
+          "heading": "Why they exist",
           "body": [
-            "No domingo ouvimos juntos; no pequeno grupo respondemos juntos. É onde as perguntas cabem e onde o cuidado se torna prático.",
-            "Cada grupo tem entre 6 e 12 pessoas e um casal ou líder responsável."
+            "On Sunday we listen together; in the small group we respond together. It is where questions fit and where care becomes practical.",
+            "Each group has between 6 and 12 people and a couple or leader responsible for it."
           ]
         },
         {
-          "heading": "Como entrar",
+          "heading": "How to join",
           "body": [
-            "Diga-nos a zona onde vive e o dia que lhe é possível — indicamos o grupo mais próximo."
+            "Tell us the area where you live and the day that works for you — we will point you to the closest group."
           ]
         }
       ],
       "cta": {
-        "label": "Quero entrar num grupo"
+        "label": "I want to join a group"
       }
     },
     "/vida-da-igreja/voluntariado": {
-      "eyebrow": "Vida da Igreja",
-      "title": "Voluntariado",
-      "lead": "Cada pessoa recebeu algo para dar. Aqui há lugar para o seu dom.",
+      "eyebrow": "Church Life",
+      "title": "Volunteering",
+      "lead": "Every person has received something to give. There is a place here for your gift.",
       "sections": [
         {
-          "heading": "Onde ajudar",
+          "heading": "Where to help",
           "body": [
-            "Acolhimento, louvor, som e projeção, crianças, café e limpeza, transporte de idosos, comunicação e apoio social.",
-            "Não é preciso experiência: há sempre alguém que acompanha os primeiros passos."
+            "Welcome, worship, sound and projection, children, coffee and cleaning, transport for the elderly, communication and social support.",
+            "No experience is needed: there is always someone to walk with you through the first steps."
           ]
         },
         {
-          "heading": "Como começar",
+          "heading": "How to start",
           "body": [
-            "Preencha o formulário de «Quero fazer parte» indicando a área de interesse. Alguém da equipa entra em contacto."
+            "Fill out the \"I Want to Join\" form indicating your area of interest. Someone from the team will get in touch."
           ]
         }
       ],
       "cta": {
-        "label": "Inscrever-me"
+        "label": "Sign up"
       }
     },
     "/vida-da-igreja/eventos": {
-      "eyebrow": "Vida da Igreja",
-      "title": "Eventos",
-      "lead": "Batismos, ceias, almoços comunitários, encontros de famílias e jovens, conferências.",
+      "eyebrow": "Church Life",
+      "title": "Events",
+      "lead": "Baptisms, communion services, community meals, family and youth gatherings, conferences.",
       "sections": [
         {
-          "heading": "Ritmo do ano",
+          "heading": "The rhythm of the year",
           "body": [
-            "Ao longo do ano marcamos momentos que reúnem a comunidade além do domingo: batismos por imersão, celebrações da Ceia do Senhor, almoços de ágape e encontros para famílias e jovens.",
-            "Cada evento é aberto a convidados — trazer alguém é sempre bem-vindo."
+            "Throughout the year we mark moments that bring the community together beyond Sunday: baptisms by immersion, celebrations of the Lord's Supper, agape meals and gatherings for families and young people.",
+            "Every event is open to guests — bringing someone along is always welcome."
           ]
         }
       ],
       "cta": {
-        "label": "Próximas datas na agenda"
+        "label": "Upcoming dates on the calendar"
       }
     },
     "/conteudos/pregacoes": {
-      "eyebrow": "Conteúdos",
-      "title": "Pregações",
-      "lead": "As mensagens de domingo, para ouvir de novo ou partilhar com alguém.",
+      "eyebrow": "Content",
+      "title": "Sermons",
+      "lead": "Sunday messages, to listen to again or share with someone.",
       "sections": [
         {
-          "heading": "Arquivo",
+          "heading": "Archive",
           "body": [
-            "Estamos a organizar o arquivo de áudio das séries pregadas na igreja, por livro da Bíblia e por data.",
-            "Enquanto isso, pode pedir uma mensagem específica pelo formulário de contacto e enviamos o ficheiro."
+            "We are organizing the audio archive of the series preached at the church, by book of the Bible and by date.",
+            "In the meantime, you can request a specific message through the contact form and we will send you the file."
           ]
         },
         {
-          "heading": "Como usamos a Palavra",
+          "heading": "How we use the Word",
           "body": [
-            "Pregamos texto a texto, procurando dizer o que a passagem diz — não o que gostaríamos que dissesse."
+            "We preach text by text, seeking to say what the passage says — not what we would like it to say."
           ]
         }
       ],
       "cta": {
-        "label": "Pedir uma pregação"
+        "label": "Request a sermon"
       }
     },
     "/conteudos/videos": {
-      "eyebrow": "Conteúdos",
-      "title": "Vídeos",
-      "lead": "Cultos gravados, testemunhos e vídeos curtos sobre a fé.",
+      "eyebrow": "Content",
+      "title": "Videos",
+      "lead": "Recorded services, testimonies and short videos about faith.",
       "sections": [
         {
-          "heading": "Canal da comunidade",
+          "heading": "Community channel",
           "body": [
-            "Os vídeos dos cultos e dos eventos serão publicados aqui e no canal da igreja.",
-            "Se quiser ajudar na captação e edição, a equipa de comunicação está a crescer."
+            "Videos of services and events will be published here and on the church's channel.",
+            "If you'd like to help with filming and editing, the communications team is growing."
           ]
         }
       ],
       "cta": {
-        "label": "Ajudar na comunicação"
+        "label": "Help with communications"
       }
     },
     "/conteudos/devocionais": {
-      "eyebrow": "Conteúdos",
-      "title": "Devocionais",
-      "lead": "Textos curtos para começar o dia com uma passagem e uma oração.",
+      "eyebrow": "Content",
+      "title": "Devotionals",
+      "lead": "Short texts to start the day with a passage and a prayer.",
       "sections": [
         {
-          "heading": "Um hábito, não um desempenho",
+          "heading": "A habit, not a performance",
           "body": [
-            "Cinco minutos com a Bíblia aberta valem mais do que uma hora planeada e nunca cumprida. Os devocionais aqui publicados são simples de propósito.",
-            "Cada texto traz a passagem, duas ou três frases de aplicação e uma oração breve."
+            "Five minutes with an open Bible are worth more than a planned hour that never happens. The devotionals published here are simple on purpose.",
+            "Each text includes the passage, two or three sentences of application, and a short prayer."
           ]
         },
         {
-          "heading": "Receber por e-mail",
+          "heading": "Receive by email",
           "body": [
-            "Em breve poderá receber o devocional semanal por e-mail. Deixe o seu contacto e avisamos quando abrir."
+            "Soon you will be able to receive the weekly devotional by email. Leave your contact and we will let you know when it opens."
           ]
         }
       ],
       "cta": {
-        "label": "Deixar o meu contacto"
+        "label": "Leave my contact"
       }
     },
     "/conteudos/estudos": {
-      "eyebrow": "Conteúdos",
-      "title": "Estudos",
-      "lead": "Material para estudar a Bíblia sozinho, em família ou em pequeno grupo.",
+      "eyebrow": "Content",
+      "title": "Studies",
+      "lead": "Material to study the Bible alone, with your family or in a small group.",
       "sections": [
         {
-          "heading": "Séries disponíveis",
+          "heading": "Available series",
           "body": [
-            "Estamos a preparar guias de estudo sobre o Evangelho de João, Atos dos Apóstolos e as doutrinas fundamentais da fé cristã.",
-            "Cada guia traz perguntas de observação, interpretação e aplicação — pensado para ser usado em conversa, não em silêncio."
+            "We are preparing study guides on the Gospel of John, the Acts of the Apostles, and the foundational doctrines of the Christian faith.",
+            "Each guide includes observation, interpretation and application questions — designed to be used in conversation, not in silence."
           ]
         },
         {
-          "heading": "Para líderes de grupo",
+          "heading": "For group leaders",
           "body": [
-            "Quem conduz um pequeno grupo recebe também notas de apoio e sugestões de ritmo para cada encontro."
+            "Anyone leading a small group also receives supporting notes and pacing suggestions for each meeting."
           ]
         }
       ],
       "cta": {
-        "label": "Entrar num pequeno grupo"
+        "label": "Join a small group"
       }
     },
     "/conteudos/testemunhos": {
-      "eyebrow": "Conteúdos",
-      "title": "Testemunhos",
-      "lead": "Histórias de pessoas reais que encontraram graça — e continuam a caminhar.",
+      "eyebrow": "Content",
+      "title": "Testimonies",
+      "lead": "Stories of real people who found grace — and keep on walking.",
       "sections": [
         {
-          "heading": "Porque contamos",
+          "heading": "Why we share",
           "body": [
-            "Um testemunho não é uma vida perfeita exposta: é a memória concreta do que Deus fez, contada para encorajar quem ainda está no meio da luta.",
-            "Publicamos apenas com autorização de quem conta, no tempo de cada pessoa."
+            "A testimony is not a perfect life on display: it is the concrete memory of what God has done, told to encourage those still in the midst of the struggle.",
+            "We publish only with the person's permission, in their own time."
           ]
         },
         {
-          "heading": "Partilhar o seu",
+          "heading": "Share yours",
           "body": [
-            "Se quer contar o que Deus fez na sua vida, escreva-nos. Podemos publicar em texto ou vídeo, com o nome ou de forma reservada."
+            "If you want to share what God has done in your life, write to us. We can publish it as text or video, with your name or anonymously."
           ]
         }
       ],
       "cta": {
-        "label": "Contar a minha história"
+        "label": "Tell my story"
       }
     }
   },
   "cards": {
     "culto-de-domingo": {
-      "titleTop": "Adoração &\nPalavra",
-      "titleMasked": "Culto de\nDomingo.",
-      "year": "Domingo, 10h30",
+      "titleTop": "Worship &\nWord",
+      "titleMasked": "Sunday\nService.",
+      "year": "Sunday, 10:30 am",
       "location": "Via Pontebbana 1, Fiume Veneto",
-      "description": "O encontro central da semana: louvor, oração e a pregação da Palavra. Um culto simples e aberto a todos — se é a sua primeira vez, basta chegar; não é preciso avisar nem se inscrever."
+      "description": "The central gathering of the week: worship, prayer and the preaching of the Word. A simple service open to everyone — if it's your first time, just come; no need to notify us or sign up."
     },
     "estudo-biblico": {
-      "titleTop": "Ensino dos\nApóstolos",
-      "titleMasked": "Estudo\nBíblico.",
-      "year": "Quarta-feira, 20h30",
-      "location": "Sede da igreja e casas",
-      "description": "Estudamos a Bíblia como autoridade e fonte de verdade para a fé e a conduta. Um tempo de leitura atenta, perguntas honestas e aplicação à vida real, seguindo Atos 2:42."
+      "titleTop": "Teaching of the\nApostles",
+      "titleMasked": "Bible\nStudy.",
+      "year": "Wednesday, 8:30 pm",
+      "location": "Church building and homes",
+      "description": "We study the Bible as the authority and source of truth for faith and conduct. A time of careful reading, honest questions and application to real life, following Acts 2:42."
     },
     "oracao": {
-      "titleTop": "Juntos diante\nde Deus",
-      "titleMasked": "Encontro de\nOração.",
-      "year": "Semanal",
-      "location": "Sede da igreja",
-      "description": "Oração pela igreja, pela cidade e pelas necessidades de cada família. Um espaço onde ninguém precisa ter as palavras certas — só o desejo de estar diante de Deus com os outros."
+      "titleTop": "Together before\nGod",
+      "titleMasked": "Prayer\nMeeting.",
+      "year": "Weekly",
+      "location": "Church building",
+      "description": "Prayer for the church, for the city and for the needs of each family. A space where no one needs to have the right words — only the desire to be before God with others."
     },
     "ceia-do-senhor": {
-      "titleTop": "Pão &\nVinho",
-      "titleMasked": "Ceia do\nSenhor.",
-      "year": "Mensal",
-      "location": "No culto",
-      "description": "Partimos o pão e partilhamos o vinho em memória do sacrifício de Cristo. Não é um rito decorativo: é o centro da nossa fé lembrado em comunidade."
+      "titleTop": "Bread &\nWine",
+      "titleMasked": "The Lord's\nSupper.",
+      "year": "Monthly",
+      "location": "During the service",
+      "description": "We break bread and share the wine in remembrance of Christ's sacrifice. It is not a decorative ritual: it is the center of our faith, remembered in community."
     },
     "batismo": {
-      "titleTop": "Testemunho\nPúblico",
-      "titleMasked": "Batismo\npor Imersão.",
-      "year": "Ao longo do ano",
-      "location": "A combinar",
-      "description": "Cremos no batismo de adultos, por escolha pessoal e por imersão, como testemunho público de uma fé já viva. Quem deseja dar este passo é acompanhado antes com conversa e ensino."
+      "titleTop": "Public\nTestimony",
+      "titleMasked": "Baptism\nby Immersion.",
+      "year": "Throughout the year",
+      "location": "To be arranged",
+      "description": "We believe in the baptism of adults, by personal choice and by immersion, as a public testimony of a faith already alive. Anyone who wishes to take this step is accompanied beforehand with conversation and teaching."
     },
     "missao": {
-      "titleTop": "Ir, pregar,\nfazer discípulos",
-      "titleMasked": "Missão &\nEvangelho.",
-      "year": "Todo o ano",
-      "location": "Fiume Veneto e região",
-      "description": "Obedecer ao mandato de Jesus em Mateus 28:19–20 é parte da nossa identidade. Estamos na rua, nas casas e nos encontros da região, com ações e eventos abertos à cidade."
+      "titleTop": "Go, preach,\nmake disciples",
+      "titleMasked": "Mission &\nGospel.",
+      "year": "All year round",
+      "location": "Fiume Veneto and the region",
+      "description": "Obeying Jesus' command in Matthew 28:19–20 is part of our identity. We are on the street, in homes and at gatherings across the region, with outreach and events open to the city."
     },
     "comunhao": {
-      "titleTop": "Amor\nFraterno",
-      "titleMasked": "Comunhão\n& Ágape.",
+      "titleTop": "Brotherly\nLove",
+      "titleMasked": "Fellowship\n& Agape.",
       "year": "Regular",
-      "location": "Casas da comunidade",
-      "description": "Ágape é amor desinteressado, fraterno e imenso — e por isso é o nome desta igreja. Refeições partilhadas, cuidado prático e amizade que não termina quando o culto acaba."
+      "location": "Homes of the community",
+      "description": "Agape is selfless, brotherly and immense love — and that is why it is the name of this church. Shared meals, practical care and friendship that doesn't end when the service is over."
     },
     "familias": {
-      "titleTop": "Crianças &\nFamílias",
-      "titleMasked": "Famílias\nna Fé.",
-      "year": "Durante o culto",
-      "location": "Sala das crianças",
-      "description": "Ensino bíblico adequado à idade, num ambiente seguro e acolhedor, enquanto os pais participam do culto. Apoiamos as famílias na formação da fé em casa, não apenas no domingo."
+      "titleTop": "Children &\nFamilies",
+      "titleMasked": "Families\nin Faith.",
+      "year": "During the service",
+      "location": "Children's room",
+      "description": "Age-appropriate biblical teaching, in a safe and welcoming environment, while parents take part in the service. We support families in nurturing faith at home, not only on Sunday."
     },
     "jovens": {
-      "titleTop": "Convicção\nsem uniformidade",
-      "titleMasked": "Jovens\n& Perguntas.",
-      "year": "Mensal",
-      "location": "Sede da igreja",
-      "description": "Um espaço para adolescentes e jovens adultos trazerem dúvidas reais. Firmes no essencial, livres no que não é essencial (Romanos 14), e tudo ligado ao amor."
+      "titleTop": "Conviction\nwithout uniformity",
+      "titleMasked": "Youth\n& Questions.",
+      "year": "Monthly",
+      "location": "Church building",
+      "description": "A space for teenagers and young adults to bring real questions. Firm on the essentials, free on the non-essentials (Romans 14), and all of it bound to love."
     }
   }
 }

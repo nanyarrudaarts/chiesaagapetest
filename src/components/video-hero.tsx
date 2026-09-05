@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { Link } from "react-router-dom";
 import heroVideo from "@/assets/hero-video.mp4.asset.json";
+import { useI18n } from "@/i18n";
 
 /**
  * Entrada do site: vídeo em ecrã inteiro com parallax.
@@ -9,6 +10,7 @@ import heroVideo from "@/assets/hero-video.mp4.asset.json";
  * Tudo é feito num único requestAnimationFrame por frame de scroll.
  */
 export function VideoHero() {
+  const { t } = useI18n();
   const wrapRef = useRef<HTMLDivElement>(null);
   const videoRef = useRef<HTMLDivElement>(null);
   const contentRef = useRef<HTMLDivElement>(null);
@@ -80,28 +82,28 @@ export function VideoHero() {
         className="relative z-10 flex h-full flex-col items-center justify-center px-6 text-center text-brand-cream will-change-transform"
       >
         <p className="animate-fade-in text-xs uppercase tracking-[0.4em] text-brand-cream/70">
-          Chiesa Evangelica Agape · Fiume Veneto
+          {t("ui.hero.eyebrow")}
         </p>
         <h1 className="mt-6 max-w-4xl text-5xl font-bold leading-[0.95] tracking-tight sm:text-7xl md:text-8xl">
-          Amados
+          {t("ui.hero.titleLine1")}
           <br />
-          para amar.
+          {t("ui.hero.titleLine2")}
         </h1>
         <p className="mt-8 max-w-xl text-base leading-relaxed text-brand-cream/80 sm:text-lg">
-          Uma comunidade cristã centrada na Bíblia, em Cristo, no ágape e na missão.
+          {t("ui.hero.lead")}
         </p>
         <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
           <Link
             to="/quero-fazer-parte"
             className="border border-brand-cream bg-brand-cream px-8 py-3 text-sm uppercase tracking-widest text-brand-navy transition-colors hover:bg-transparent hover:text-brand-cream"
           >
-            Quero fazer parte
+            {t("ui.hero.ctaJoin")}
           </Link>
           <Link
             to="/vida-da-igreja/cultos"
             className="border border-brand-cream/60 px-8 py-3 text-sm uppercase tracking-widest transition-colors hover:bg-brand-cream hover:text-brand-navy"
           >
-            Horários dos cultos
+            {t("ui.hero.ctaServices")}
           </Link>
         </div>
       </div>
