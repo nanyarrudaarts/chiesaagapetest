@@ -1,14 +1,20 @@
 import { SiteNav } from "@/components/site-nav";
 import { SiteFooter } from "@/components/site-footer";
 import { useState } from "react";
+import { useI18n } from "@/i18n";
 
 const Contact = () => {
+  const { t } = useI18n();
   const [submitted, setSubmitted] = useState(false);
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     setSubmitted(true);
   };
+
+  const input =
+    "w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-brand-cream focus:outline-none transition-colors";
+  const labelClass = "text-xs text-brand-cream/60 mb-1 block";
 
   return (
     <div className="min-h-screen bg-brand-navy text-brand-cream">
@@ -19,32 +25,29 @@ const Contact = () => {
           {/* Coluna esquerda */}
           <div>
             <h1 className="text-4xl md:text-5xl font-bold tracking-tight mb-6">
-              Fale com a igreja
+              {t("ui.contact.title")}
             </h1>
             <p className="text-brand-cream/70 text-base leading-relaxed mb-12">
-              Quer visitar-nos no domingo, pedir oração, marcar uma conversa ou
-              simplesmente entender melhor o que cremos? Escreva-nos — respondemos com
-              o cuidado que gostaríamos de receber.
+              {t("ui.contact.lead")}
             </p>
 
             <div className="border-t border-brand-cream/20 pt-8 space-y-6">
               <div className="text-brand-cream/70 text-sm">
                 <p className="uppercase tracking-widest text-xs text-brand-cream/50 mb-2">
-                  Endereço
+                  {t("ui.contact.addressLabel")}
                 </p>
-                <p>Via Pontebbana 1</p>
-                <p>33080 Fiume Veneto (PN), Itália</p>
+                <p>{t("ui.footer.address")}</p>
               </div>
               <div className="text-brand-cream/70 text-sm">
                 <p className="uppercase tracking-widest text-xs text-brand-cream/50 mb-2">
-                  Encontros
+                  {t("ui.contact.meetingsLabel")}
                 </p>
-                <p>Domingo, 10h30 — culto</p>
-                <p>Quarta-feira, 20h30 — estudo bíblico</p>
+                <p>{t("ui.contact.meeting1")}</p>
+                <p>{t("ui.contact.meeting2")}</p>
               </div>
               <div className="text-brand-cream/70 text-sm">
                 <p className="uppercase tracking-widest text-xs text-brand-cream/50 mb-2">
-                  Contato
+                  {t("ui.contact.contactLabel")}
                 </p>
                 <p>chiesacristianapn.org</p>
               </div>
@@ -55,73 +58,56 @@ const Contact = () => {
           <div>
             {submitted ? (
               <div className="flex items-center justify-center h-full">
-                <p className="text-xl text-brand-cream/70">
-                  Obrigado! Entraremos em contato em breve.
-                </p>
+                <p className="text-xl text-brand-cream/70">{t("ui.contact.thanks")}</p>
               </div>
             ) : (
               <form onSubmit={handleSubmit} className="space-y-6 max-w-[40rem]">
                 <div className="grid grid-cols-2 gap-4">
                   <div>
-                    <label className="text-xs text-brand-cream/60 mb-1 block">
-                      Nome <span className="text-brand-cream/50">(obrigatório)</span>
+                    <label className={labelClass}>
+                      {t("ui.contact.firstName")}{" "}
+                      <span className="text-brand-cream/50">{t("ui.contact.required")}</span>
                     </label>
-                    <input
-                      type="text"
-                      required
-                      className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-brand-cream focus:outline-none transition-colors"
-                    />
+                    <input type="text" required className={input} />
                   </div>
                   <div>
-                    <label className="text-xs text-brand-cream/60 mb-1 block">
-                      Sobrenome <span className="text-brand-cream/50">(obrigatório)</span>
+                    <label className={labelClass}>
+                      {t("ui.contact.lastName")}{" "}
+                      <span className="text-brand-cream/50">{t("ui.contact.required")}</span>
                     </label>
-                    <input
-                      type="text"
-                      required
-                      className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-brand-cream focus:outline-none transition-colors"
-                    />
+                    <input type="text" required className={input} />
                   </div>
                 </div>
 
                 <div>
-                  <label className="text-xs text-brand-cream/60 mb-1 block">
-                    E-mail <span className="text-brand-cream/50">(obrigatório)</span>
+                  <label className={labelClass}>
+                    {t("ui.contact.email")}{" "}
+                    <span className="text-brand-cream/50">{t("ui.contact.required")}</span>
                   </label>
-                  <input
-                    type="email"
-                    required
-                    className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-brand-cream focus:outline-none transition-colors"
-                  />
+                  <input type="email" required className={input} />
                 </div>
 
                 <div>
-                  <label className="text-xs text-brand-cream/60 mb-1 block">
-                    Assunto <span className="text-brand-cream/50">(obrigatório)</span>
+                  <label className={labelClass}>
+                    {t("ui.contact.subject")}{" "}
+                    <span className="text-brand-cream/50">{t("ui.contact.required")}</span>
                   </label>
-                  <input
-                    type="text"
-                    required
-                    className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-brand-cream focus:outline-none transition-colors"
-                  />
+                  <input type="text" required className={input} />
                 </div>
 
                 <div>
-                  <label className="text-xs text-brand-cream/60 mb-1 block">
-                    Mensagem <span className="text-brand-cream/50">(obrigatório)</span>
+                  <label className={labelClass}>
+                    {t("ui.contact.message")}{" "}
+                    <span className="text-brand-cream/50">{t("ui.contact.required")}</span>
                   </label>
-                  <textarea
-                    required
-                    rows={6}
-                    className="w-full bg-transparent border border-brand-cream/20 px-4 py-3 text-brand-cream text-sm focus:border-brand-cream focus:outline-none transition-colors resize-y"
-                  />
+                  <textarea required rows={6} className={`${input} resize-y`} />
                 </div>
 
                 <button
                   type="submit"
                   className="bg-brand-cream text-brand-navy px-8 py-3 text-sm uppercase tracking-widest font-medium hover:bg-brand-cream/85 transition-colors"
                 >
-                  Enviar
+                  {t("ui.contact.submit")}
                 </button>
               </form>
             )}

@@ -1,740 +1,740 @@
 {
   "ui": {
     "common": {
-      "enter": "Entrar",
-      "panel": "Painel",
-      "openMenu": "Abrir menu",
-      "closeMenu": "Fechar menu",
-      "menu": "Menu",
-      "loading": "A carregar…",
-      "sending": "A enviar…",
-      "or": "ou",
-      "logoAria": "Chiesa Evangelica Agape — início",
-      "footerNav": "Rodapé",
-      "language": "Idioma"
+      "enter": "Anmelden",
+      "panel": "Bereich",
+      "openMenu": "Menü öffnen",
+      "closeMenu": "Menü schließen",
+      "menu": "Menü",
+      "loading": "Wird geladen…",
+      "sending": "Wird gesendet…",
+      "or": "oder",
+      "logoAria": "Chiesa Evangelica Agape — Startseite",
+      "footerNav": "Fußzeile",
+      "language": "Sprache"
     },
     "hero": {
       "eyebrow": "Chiesa Evangelica Agape · Fiume Veneto",
-      "titleLine1": "Amados",
-      "titleLine2": "para amar.",
-      "lead": "Uma comunidade cristã centrada na Bíblia, em Cristo, no ágape e na missão.",
-      "ctaJoin": "Quero fazer parte",
-      "ctaServices": "Horários dos cultos"
+      "titleLine1": "Geliebt,",
+      "titleLine2": "um zu lieben.",
+      "lead": "Eine christliche Gemeinschaft, zentriert auf die Bibel, auf Christus, auf die Agape-Liebe und auf die Mission.",
+      "ctaJoin": "Ich möchte dazugehören",
+      "ctaServices": "Gottesdienstzeiten"
     },
     "home": {
-      "introTitleLine1": "Bíblia, Cristo,",
-      "introTitleLine2": "Ágape, Missão",
-      "intro1": "Somos uma comunidade cristã evangélica em Fiume Veneto, na província de Pordenone. Não nos definimos por um edifício ou por um programa, mas por pessoas que creem em Jesus Cristo como Salvador e desejam seguir a vontade de Deus.",
-      "intro2": "«Ágape» não é apenas o nome desta igreja: é o amor desinteressado, fraterno e imenso que Cristo nos ordenou — amar a Deus e amar o próximo. É por isso que tudo o que fazemos passa pela comunhão, pelo ensino bíblico, pela oração e pela missão.",
-      "introCta": "O que cremos",
+      "introTitleLine1": "Bibel, Christus,",
+      "introTitleLine2": "Agape, Mission",
+      "intro1": "Wir sind eine evangelische christliche Gemeinschaft in Fiume Veneto, in der Provinz Pordenone. Wir definieren uns nicht durch ein Gebäude oder ein Programm, sondern durch Menschen, die an Jesus Christus als Retter glauben und den Willen Gottes suchen wollen.",
+      "intro2": "„Agape“ ist nicht nur der Name dieser Gemeinde: Es ist die selbstlose, brüderliche und grenzenlose Liebe, die Christus uns geboten hat — Gott zu lieben und den Nächsten zu lieben. Deshalb geht alles, was wir tun, über Gemeinschaft, biblische Lehre, Gebet und Mission.",
+      "introCta": "Was wir glauben",
       "pillars": [
         {
-          "title": "Bíblia",
-          "text": "As Escrituras são a nossa autoridade. Ensinamos texto a texto, sem atalhos."
+          "title": "Bibel",
+          "text": "Die Schrift ist unsere Autorität. Wir lehren Text für Text, ohne Abkürzungen."
         },
         {
-          "title": "Cristo",
-          "text": "A salvação é pela graça, pela fé em Jesus — não pelo nosso mérito."
+          "title": "Christus",
+          "text": "Die Errettung geschieht aus Gnade, durch den Glauben an Jesus — nicht durch unser Verdienst."
         },
         {
-          "title": "Ágape",
-          "text": "O amor fraterno é a marca visível dos discípulos: hospitalidade, perdão, ajuda concreta."
+          "title": "Agape",
+          "text": "Die brüderliche Liebe ist das sichtbare Kennzeichen der Jünger: Gastfreundschaft, Vergebung, konkrete Hilfe."
         },
         {
-          "title": "Missão",
-          "text": "Somos enviados ao trabalho, à escola, à vizinhança. Começa à porta de casa."
+          "title": "Mission",
+          "text": "Wir sind gesandt zur Arbeit, zur Schule, zur Nachbarschaft. Sie beginnt vor der eigenen Haustür."
         }
       ],
-      "finalTitle": "Domingo, 10h30. Venha como está.",
-      "finalText": "Via Pontebbana 1 — 33080 Fiume Veneto (PN), Itália. Se preferir avisar antes, escreva-nos: alguém estará à sua espera à porta.",
-      "finalCtaJoin": "Quero fazer parte",
-      "finalCtaAgenda": "Ver a agenda"
+      "finalTitle": "Sonntag, 10:30 Uhr. Kommen Sie, wie Sie sind.",
+      "finalText": "Via Pontebbana 1 — 33080 Fiume Veneto (PN), Italien. Wenn Sie lieber vorher Bescheid geben möchten, schreiben Sie uns: Jemand wird an der Tür auf Sie warten.",
+      "finalCtaJoin": "Ich möchte dazugehören",
+      "finalCtaAgenda": "Zum Terminkalender"
     },
     "faith": {
-      "title": "Nossa Fé",
-      "lead": "O que cremos, em linguagem simples. Não são fórmulas para decorar: é aquilo que sustenta a vida desta comunidade e que estamos disponíveis para conversar com quem quiser entender melhor.",
-      "versesTitle": "Textos que nos guiam",
-      "cta": "Tenho uma pergunta",
+      "title": "Unser Glaube",
+      "lead": "Was wir glauben, in einfacher Sprache. Es sind keine Formeln zum Auswendiglernen: Es ist das, was das Leben dieser Gemeinschaft trägt, und wir sind gerne bereit, mit jedem darüber zu sprechen, der mehr verstehen möchte.",
+      "versesTitle": "Texte, die uns leiten",
+      "cta": "Ich habe eine Frage",
       "beliefs": [
         {
-          "title": "As Escrituras",
-          "text": "A Bíblia é a autoridade e a fonte de verdade para a fé e a conduta. Nada do que ensinamos pode contradizê-la."
+          "title": "Die Heilige Schrift",
+          "text": "Die Bibel ist die Autorität und die Quelle der Wahrheit für Glauben und Lebensführung. Nichts, was wir lehren, darf ihr widersprechen."
         },
         {
-          "title": "Deus",
-          "text": "Um único Deus, Criador, eterno, revelado como Pai, Filho e Espírito Santo."
+          "title": "Gott",
+          "text": "Ein einziger Gott, Schöpfer, ewig, offenbart als Vater, Sohn und Heiliger Geist."
         },
         {
-          "title": "Jesus Cristo",
-          "text": "Divino e humano: nascimento virginal, vida sem pecado, crucificação e ressurreição. A salvação vem pela sua obra."
+          "title": "Jesus Christus",
+          "text": "Göttlich und menschlich: jungfräuliche Geburt, sündloses Leben, Kreuzigung und Auferstehung. Die Errettung kommt durch sein Werk."
         },
         {
-          "title": "Espírito Santo",
-          "text": "Recebido no arrependimento e na fé em Jesus como Salvador e Senhor, dando vida e força à igreja."
+          "title": "Heiliger Geist",
+          "text": "Empfangen in der Buße und im Glauben an Jesus als Retter und Herr, der der Gemeinde Leben und Kraft schenkt."
         },
         {
-          "title": "Salvação",
-          "text": "Pela graça, mediante a fé em Jesus Cristo, com arrependimento e transformação real da vida."
+          "title": "Errettung",
+          "text": "Aus Gnade, durch den Glauben an Jesus Christus, mit Buße und wirklicher Verwandlung des Lebens."
         },
         {
-          "title": "A Igreja",
-          "text": "Distinguimos a Igreja universal — todos os que são de Cristo — das igrejas locais, como esta comunidade."
+          "title": "Die Gemeinde",
+          "text": "Wir unterscheiden zwischen der weltweiten Gemeinde — allen, die Christus gehören — und den örtlichen Gemeinden, wie dieser Gemeinschaft."
         },
         {
-          "title": "Batismo",
-          "text": "De adultos, por escolha pessoal e por imersão, como testemunho público da fé."
+          "title": "Taufe",
+          "text": "Von Erwachsenen, aus persönlicher Entscheidung und durch Untertauchen, als öffentliches Zeugnis des Glaubens."
         },
         {
-          "title": "Ceia do Senhor",
-          "text": "Pão e vinho, em memória do sacrifício de Cristo, partilhados em comunidade."
+          "title": "Abendmahl",
+          "text": "Brot und Wein, zum Gedenken an das Opfer Christi, gemeinsam in der Gemeinschaft geteilt."
         },
         {
-          "title": "Essencial e não essencial",
-          "text": "Firmeza no essencial e liberdade nas questões secundárias (Romanos 14), com todas as convicções ligadas ao amor."
+          "title": "Wesentliches und Nebensächliches",
+          "text": "Festigkeit im Wesentlichen und Freiheit in Nebenfragen (Römer 14), wobei alle Überzeugungen mit der Liebe verbunden sind."
         }
       ],
       "verses": [
         {
-          "ref": "Atos 2:42",
-          "text": "Ensino, comunhão, partir do pão e oração."
+          "ref": "Apostelgeschichte 2,42",
+          "text": "Lehre, Gemeinschaft, Brotbrechen und Gebet."
         },
         {
-          "ref": "Mateus 22:38–40",
-          "text": "Amar a Deus e amar o próximo."
+          "ref": "Matthäus 22,38–40",
+          "text": "Gott lieben und den Nächsten lieben."
         },
         {
-          "ref": "João 15:12",
-          "text": "Que vos ameis uns aos outros como eu vos amei."
+          "ref": "Johannes 15,12",
+          "text": "Dass ihr einander liebt, wie ich euch geliebt habe."
         },
         {
-          "ref": "Mateus 28:19–20",
-          "text": "Ide, fazei discípulos, batizando-os e ensinando-os."
+          "ref": "Matthäus 28,19–20",
+          "text": "Geht hin, macht zu Jüngern, tauft sie und lehrt sie."
         }
       ]
     },
     "contact": {
-      "title": "Fale com a igreja",
-      "lead": "Quer visitar-nos no domingo, pedir oração, marcar uma conversa ou simplesmente entender melhor o que cremos? Escreva-nos — respondemos com o cuidado que gostaríamos de receber.",
-      "addressLabel": "Endereço",
-      "meetingsLabel": "Encontros",
-      "contactLabel": "Contato",
-      "meeting1": "Domingo, 10h30 — culto",
-      "meeting2": "Quarta-feira, 20h30 — estudo bíblico",
-      "thanks": "Obrigado! Entraremos em contato em breve.",
-      "required": "(obrigatório)",
-      "firstName": "Nome",
-      "lastName": "Sobrenome",
-      "email": "E-mail",
-      "subject": "Assunto",
-      "message": "Mensagem",
-      "submit": "Enviar"
+      "title": "Sprechen Sie mit der Gemeinde",
+      "lead": "Möchten Sie uns am Sonntag besuchen, um Gebet bitten, ein Gespräch vereinbaren oder einfach besser verstehen, was wir glauben? Schreiben Sie uns — wir antworten mit der Sorgfalt, die wir uns selbst wünschen würden.",
+      "addressLabel": "Adresse",
+      "meetingsLabel": "Termine",
+      "contactLabel": "Kontakt",
+      "meeting1": "Sonntag, 10:30 Uhr — Gottesdienst",
+      "meeting2": "Mittwoch, 20:30 Uhr — Bibelstudium",
+      "thanks": "Danke! Wir melden uns in Kürze bei Ihnen.",
+      "required": "(erforderlich)",
+      "firstName": "Vorname",
+      "lastName": "Nachname",
+      "email": "E-Mail",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "submit": "Senden"
     },
     "agenda": {
-      "eyebrow": "Agenda",
-      "title": "Próximos encontros",
-      "lead": "Cultos, estudos, oração e eventos especiais. Todos os encontros são abertos — traga quem quiser.",
-      "loading": "A carregar a agenda…",
-      "empty": "Nenhum encontro publicado por agora. O culto de domingo acontece sempre às 10h30.",
-      "featured": "destaque",
-      "cta": "Enviar um pedido de oração"
+      "eyebrow": "Terminkalender",
+      "title": "Nächste Termine",
+      "lead": "Gottesdienste, Bibelstudien, Gebet und besondere Veranstaltungen. Alle Treffen sind offen — bringen Sie mit, wen Sie möchten.",
+      "loading": "Termine werden geladen…",
+      "empty": "Derzeit sind keine Termine veröffentlicht. Der Sonntagsgottesdienst findet immer um 10:30 Uhr statt.",
+      "featured": "hervorgehoben",
+      "cta": "Ein Gebetsanliegen senden"
     },
     "prayer": {
-      "eyebrow": "Pedido de Oração",
-      "title": "Podemos orar por você?",
-      "lead": "Não há pedido pequeno demais. A equipa pastoral ora por cada mensagem recebida — e, se preferir, o seu pedido fica reservado apenas à liderança.",
-      "sentTitle": "Recebemos o seu pedido.",
-      "sentText": "Vamos orar. Se deixou o e-mail, alguém da equipa poderá escrever-lhe para acompanhar de perto.",
-      "name": "Nome",
-      "emailOptional": "E-mail (opcional)",
-      "request": "O seu pedido",
-      "confidential": "Manter confidencial — apenas a liderança verá este pedido.",
-      "submit": "Enviar pedido",
-      "error": "Não foi possível enviar o pedido. Tente novamente."
+      "eyebrow": "Gebetsanliegen",
+      "title": "Dürfen wir für Sie beten?",
+      "lead": "Kein Anliegen ist zu klein. Das Leitungsteam betet für jede eingegangene Nachricht — und wenn Sie es wünschen, bleibt Ihr Anliegen ausschließlich der Leitung vorbehalten.",
+      "sentTitle": "Wir haben Ihr Anliegen erhalten.",
+      "sentText": "Wir werden beten. Wenn Sie Ihre E-Mail hinterlassen haben, kann sich jemand aus dem Team bei Ihnen melden, um mit Ihnen in engem Kontakt zu bleiben.",
+      "name": "Name",
+      "emailOptional": "E-Mail (optional)",
+      "request": "Ihr Anliegen",
+      "confidential": "Vertraulich behandeln — nur die Leitung sieht dieses Anliegen.",
+      "submit": "Anliegen senden",
+      "error": "Das Anliegen konnte nicht gesendet werden. Bitte versuchen Sie es erneut."
     },
     "join": {
-      "eyebrow": "Quero Fazer Parte",
-      "title": "Há lugar para você aqui.",
-      "lead": "Diga-nos apenas por onde quer começar. Alguém da equipa entra em contacto e acompanha os primeiros passos — sem pressa e sem compromisso.",
-      "sentTitle": "Inscrição recebida.",
-      "sentText": "Obrigado por dar este passo. Entramos em contacto em breve pelo e-mail que deixou.",
-      "name": "Nome completo",
-      "email": "E-mail",
-      "phone": "Telefone (opcional)",
-      "message": "Quer contar-nos algo? (opcional)",
-      "submit": "Enviar inscrição",
-      "error": "Não foi possível enviar. Tente novamente.",
+      "eyebrow": "Ich möchte dazugehören",
+      "title": "Hier ist Platz für Sie.",
+      "lead": "Sagen Sie uns einfach, womit Sie beginnen möchten. Jemand aus dem Team nimmt Kontakt mit Ihnen auf und begleitet Sie bei den ersten Schritten — ohne Eile und ohne Verpflichtung.",
+      "sentTitle": "Anmeldung erhalten.",
+      "sentText": "Danke, dass Sie diesen Schritt gehen. Wir melden uns in Kürze über die von Ihnen hinterlassene E-Mail-Adresse.",
+      "name": "Vollständiger Name",
+      "email": "E-Mail",
+      "phone": "Telefon (optional)",
+      "message": "Möchten Sie uns etwas mitteilen? (optional)",
+      "submit": "Anmeldung senden",
+      "error": "Senden nicht möglich. Bitte versuchen Sie es erneut.",
       "interests": [
-        "Visitar um culto",
-        "Entrar num pequeno grupo",
-        "Servir num ministério",
-        "Batismo",
-        "Conversar com a liderança"
+        "Einen Gottesdienst besuchen",
+        "Einer Kleingruppe beitreten",
+        "In einem Dienst mitarbeiten",
+        "Taufe",
+        "Mit der Leitung sprechen"
       ]
     },
     "donations": {
-      "eyebrow": "Doações",
-      "title": "Contribuir com alegria.",
-      "lead": "Tudo o que recebemos sustenta o ensino da Palavra, o cuidado das famílias, a ação social e a missão. Cada contribuição é voluntária — «Deus ama a quem dá com alegria».",
-      "howTitle": "Como contribuir",
-      "how1": "Pode entregar a sua oferta presencialmente durante o culto de domingo, ou por transferência bancária para a conta da comunidade.",
-      "how2": "Os dados bancários (IBAN e titular) serão publicados aqui após validação da liderança. Até então, peça-os pelo formulário de contacto e enviamos com segurança.",
-      "whereTitle": "Para onde vai",
+      "eyebrow": "Spenden",
+      "title": "Mit Freude beitragen.",
+      "lead": "Alles, was wir erhalten, unterstützt die Lehre des Wortes, die Fürsorge für Familien, die soziale Arbeit und die Mission. Jeder Beitrag ist freiwillig — „Gott liebt einen fröhlichen Geber“.",
+      "howTitle": "Wie Sie beitragen können",
+      "how1": "Sie können Ihre Gabe persönlich während des Sonntagsgottesdienstes geben oder per Banküberweisung auf das Konto der Gemeinschaft.",
+      "how2": "Die Bankdaten (IBAN und Kontoinhaber) werden hier nach Freigabe durch die Leitung veröffentlicht. Bis dahin können Sie sie über das Kontaktformular erfragen, und wir senden sie Ihnen sicher zu.",
+      "whereTitle": "Wofür verwendet",
       "where": [
-        "Ensino, materiais bíblicos e formação de líderes.",
-        "Apoio a famílias da comunidade e da vizinhança em dificuldade.",
-        "Espaço de reunião, energia e manutenção.",
-        "Missões e parcerias dentro e fora de Itália."
+        "Lehre, biblisches Material und Ausbildung von Leitern.",
+        "Unterstützung von Familien in der Gemeinschaft und der Nachbarschaft, die in Not sind.",
+        "Versammlungsraum, Energie und Instandhaltung.",
+        "Missionen und Partnerschaften innerhalb und außerhalb Italiens."
       ],
-      "transparencyTitle": "Transparência",
-      "transparencyText": "As contas são apresentadas periodicamente à comunidade. Qualquer membro pode pedir esclarecimentos à liderança.",
-      "cta": "Pedir os dados bancários"
+      "transparencyTitle": "Transparenz",
+      "transparencyText": "Die Finanzen werden regelmäßig der Gemeinschaft vorgelegt. Jedes Mitglied kann bei der Leitung um Auskunft bitten.",
+      "cta": "Bankdaten anfordern"
     },
     "auth": {
-      "loginTitle": "Entrar",
-      "signupTitle": "Criar conta",
-      "resetTitle": "Recuperar senha",
-      "loginLead": "Área reservada aos membros, líderes e pastores da comunidade.",
-      "signupLead": "Crie a sua conta para acompanhar a vida da igreja de perto.",
-      "resetLead": "Indique o seu e-mail e enviamos um link para definir nova senha.",
-      "fullName": "Nome completo",
-      "email": "E-mail",
-      "password": "Senha",
-      "wait": "Aguarde…",
-      "loginSubmit": "Entrar",
-      "signupSubmit": "Criar conta",
-      "resetSubmit": "Enviar link",
-      "google": "Entrar com Google",
-      "forgot": "Esqueci a senha",
-      "noAccount": "Ainda não tenho conta",
-      "backToLogin": "Voltar a entrar",
-      "signupOk": "Conta criada. Verifique o seu e-mail para confirmar.",
-      "resetOk": "Enviámos um link de recuperação para o seu e-mail.",
-      "genericError": "Não foi possível concluir.",
-      "googleError": "Não foi possível entrar com o Google."
+      "loginTitle": "Anmelden",
+      "signupTitle": "Konto erstellen",
+      "resetTitle": "Passwort zurücksetzen",
+      "loginLead": "Bereich für Mitglieder, Leiter und Pastoren der Gemeinschaft.",
+      "signupLead": "Erstellen Sie Ihr Konto, um das Gemeindeleben aus der Nähe zu verfolgen.",
+      "resetLead": "Geben Sie Ihre E-Mail-Adresse an, und wir senden Ihnen einen Link, um ein neues Passwort festzulegen.",
+      "fullName": "Vollständiger Name",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "wait": "Bitte warten…",
+      "loginSubmit": "Anmelden",
+      "signupSubmit": "Konto erstellen",
+      "resetSubmit": "Link senden",
+      "google": "Mit Google anmelden",
+      "forgot": "Passwort vergessen",
+      "noAccount": "Ich habe noch kein Konto",
+      "backToLogin": "Zurück zur Anmeldung",
+      "signupOk": "Konto erstellt. Bitte bestätigen Sie es über Ihre E-Mail.",
+      "resetOk": "Wir haben Ihnen einen Link zum Zurücksetzen per E-Mail gesendet.",
+      "genericError": "Der Vorgang konnte nicht abgeschlossen werden.",
+      "googleError": "Anmeldung mit Google nicht möglich."
     },
     "dashboard": {
-      "roleMembro": "Membro",
-      "roleLider": "Líder",
+      "roleMembro": "Mitglied",
+      "roleLider": "Leiter",
       "rolePastor": "Pastor",
-      "areaPrefix": "Área",
-      "areaFallback": "reservada",
-      "greeting": "Olá",
-      "leadPastor": "Visão pastoral da comunidade: pedidos de oração, novos interessados e agenda.",
-      "leadLider": "Painel de liderança: acompanhe pedidos, inscrições e a agenda dos encontros.",
-      "leadMembro": "O seu espaço na comunidade: agenda, pedidos de oração e vida da igreja.",
-      "signOut": "Sair",
-      "prayerCta": "Enviar pedido de oração",
-      "eventsTitle": "Próximos encontros",
-      "eventsEmpty": "Nenhum encontro agendado por agora.",
-      "prayersTitle": "Pedidos de oração",
-      "prayersEmpty": "Sem pedidos por agora.",
-      "confidentialRequest": "Pedido confidencial",
-      "communityTitle": "Caminhar em comunidade",
-      "communityText": "Entre num pequeno grupo, sirva num ministério ou fale com a liderança. A vida da igreja acontece durante a semana, não só no domingo.",
-      "linkGroups": "Pequenos grupos",
-      "linkVolunteer": "Voluntariado",
-      "linkStudies": "Estudos bíblicos",
-      "membersTitle": "Quem quer fazer parte",
-      "membersEmpty": "Sem inscrições por agora.",
+      "areaPrefix": "Bereich",
+      "areaFallback": "reserviert",
+      "greeting": "Hallo",
+      "leadPastor": "Pastoraler Überblick über die Gemeinschaft: Gebetsanliegen, neue Interessenten und Termine.",
+      "leadLider": "Leitungsbereich: Verfolgen Sie Anliegen, Anmeldungen und den Terminkalender.",
+      "leadMembro": "Ihr Bereich in der Gemeinschaft: Termine, Gebetsanliegen und Gemeindeleben.",
+      "signOut": "Abmelden",
+      "prayerCta": "Ein Gebetsanliegen senden",
+      "eventsTitle": "Nächste Termine",
+      "eventsEmpty": "Derzeit sind keine Termine geplant.",
+      "prayersTitle": "Gebetsanliegen",
+      "prayersEmpty": "Derzeit keine Anliegen.",
+      "confidentialRequest": "Vertrauliches Anliegen",
+      "communityTitle": "In Gemeinschaft unterwegs",
+      "communityText": "Treten Sie einer Kleingruppe bei, dienen Sie in einem Dienst oder sprechen Sie mit der Leitung. Das Gemeindeleben findet unter der Woche statt, nicht nur am Sonntag.",
+      "linkGroups": "Kleingruppen",
+      "linkVolunteer": "Ehrenamt",
+      "linkStudies": "Bibelstudien",
+      "membersTitle": "Wer dazugehören möchte",
+      "membersEmpty": "Derzeit keine Anmeldungen.",
       "interestLabel": "Interesse",
-      "pastorNoteTitle": "Nota pastoral",
-      "pastorNoteText": "Como pastor, vê todos os pedidos e inscrições da comunidade e pode criar ou editar eventos da agenda. Os papéis de cada pessoa são geridos na base da comunidade."
+      "pastorNoteTitle": "Pastorale Anmerkung",
+      "pastorNoteText": "Als Pastor sehen Sie alle Anliegen und Anmeldungen der Gemeinschaft und können Termine im Kalender erstellen oder bearbeiten. Die Rollen der einzelnen Personen werden in der Datenbank der Gemeinschaft verwaltet."
     },
     "project": {
-      "notFound": "Página não encontrada",
-      "back": "Voltar ao início",
-      "home": "Início",
-      "when": "Quando",
-      "where": "Onde",
-      "alsoSee": "Veja também"
+      "notFound": "Seite nicht gefunden",
+      "back": "Zurück zur Startseite",
+      "home": "Startseite",
+      "when": "Wann",
+      "where": "Wo",
+      "alsoSee": "Siehe auch"
     },
     "notFound": {
-      "title": "Página não encontrada",
-      "text": "Esta página não existe ou foi movida. Volte ao início e continue a partir daí.",
-      "cta": "Voltar ao início"
+      "title": "Seite nicht gefunden",
+      "text": "Diese Seite existiert nicht oder wurde verschoben. Kehren Sie zur Startseite zurück und fahren Sie von dort aus fort.",
+      "cta": "Zurück zur Startseite"
     },
     "footer": {
-      "community": "Comunidade",
-      "address": "Via Pontebbana 1 — 33080 Fiume Veneto (PN), Itália",
-      "services": "Culto de domingo às 10h30 — todos são bem-vindos"
+      "community": "Gemeinschaft",
+      "address": "Via Pontebbana 1 — 33080 Fiume Veneto (PN), Italien",
+      "services": "Sonntagsgottesdienst um 10:30 Uhr — alle sind willkommen"
     }
   },
   "nav": {
-    "/": "Início",
-    "Sobre": "Sobre",
-    "/sobre/quem-somos": "Quem Somos",
-    "/sobre/nossa-historia": "Nossa História",
-    "/sobre/nossa-visao": "Nossa Visão",
-    "/sobre/lideranca": "Liderança",
-    "/sobre/valores": "Valores",
-    "Vida da Igreja": "Vida da Igreja",
-    "/vida-da-igreja/cultos": "Cultos",
-    "/vida-da-igreja/ministerios": "Ministérios",
-    "/vida-da-igreja/pequenos-grupos": "Pequenos Grupos",
-    "/vida-da-igreja/voluntariado": "Voluntariado",
-    "/vida-da-igreja/eventos": "Eventos",
-    "Conteúdos": "Conteúdos",
-    "/conteudos/pregacoes": "Pregações",
-    "/conteudos/videos": "Vídeos",
-    "/conteudos/devocionais": "Devocionais",
-    "/conteudos/estudos": "Estudos",
-    "/conteudos/testemunhos": "Testemunhos",
-    "/agenda": "Agenda",
-    "/pedido-de-oracao": "Pedido de Oração",
-    "/quero-fazer-parte": "Quero Fazer Parte",
-    "/doacoes": "Doações",
-    "/contact": "Contato"
+    "/": "Startseite",
+    "Sobre": "Über uns",
+    "/sobre/quem-somos": "Wer wir sind",
+    "/sobre/nossa-historia": "Unsere Geschichte",
+    "/sobre/nossa-visao": "Unsere Vision",
+    "/sobre/lideranca": "Leitung",
+    "/sobre/valores": "Werte",
+    "Vida da Igreja": "Gemeindeleben",
+    "/vida-da-igreja/cultos": "Gottesdienste",
+    "/vida-da-igreja/ministerios": "Dienste",
+    "/vida-da-igreja/pequenos-grupos": "Kleingruppen",
+    "/vida-da-igreja/voluntariado": "Ehrenamt",
+    "/vida-da-igreja/eventos": "Veranstaltungen",
+    "Conteúdos": "Inhalte",
+    "/conteudos/pregacoes": "Predigten",
+    "/conteudos/videos": "Videos",
+    "/conteudos/devocionais": "Andachten",
+    "/conteudos/estudos": "Studien",
+    "/conteudos/testemunhos": "Zeugnisse",
+    "/agenda": "Terminkalender",
+    "/pedido-de-oracao": "Gebetsanliegen",
+    "/quero-fazer-parte": "Ich möchte dazugehören",
+    "/doacoes": "Spenden",
+    "/contact": "Kontakt"
   },
   "pages": {
     "/sobre/quem-somos": {
-      "eyebrow": "Sobre",
-      "title": "Quem Somos",
-      "lead": "Somos uma comunidade cristã evangélica em Fiume Veneto, na província de Pordenone. Pessoas comuns que creem em Jesus Cristo e caminham juntas.",
+      "eyebrow": "Über uns",
+      "title": "Wer wir sind",
+      "lead": "Wir sind eine evangelische christliche Gemeinschaft in Fiume Veneto, in der Provinz Pordenone. Ganz normale Menschen, die an Jesus Christus glauben und gemeinsam unterwegs sind.",
       "sections": [
         {
-          "heading": "Uma família, não um edifício",
+          "heading": "Eine Familie, kein Gebäude",
           "body": [
-            "A igreja não é o prédio nem o programa: são as pessoas. Reunimo-nos para adorar a Deus, aprender das Escrituras, orar e cuidar uns dos outros.",
-            "Quem chega pela primeira vez não precisa de nada além de vontade de estar. Não há um traje, um vocabulário ou um passado exigido à entrada."
+            "Die Gemeinde ist weder das Gebäude noch das Programm: Es sind die Menschen. Wir treffen uns, um Gott anzubeten, aus der Schrift zu lernen, zu beten und füreinander zu sorgen.",
+            "Wer zum ersten Mal kommt, braucht nichts weiter als den Wunsch, dabei zu sein. Es gibt keine Kleiderordnung, kein besonderes Vokabular und keine Vergangenheit, die vorausgesetzt wird."
           ]
         },
         {
-          "heading": "Porque «Ágape»",
+          "heading": "Warum „Agape“",
           "body": [
-            "Ágape é a palavra grega para o amor desinteressado que Cristo nos mostrou e nos ordenou: amar a Deus acima de tudo e amar o próximo como a nós mesmos.",
-            "É por isso que este nome não descreve um estilo, mas um compromisso — o critério pelo qual queremos ser medidos."
+            "Agape ist das griechische Wort für die selbstlose Liebe, die Christus uns gezeigt und uns geboten hat: Gott über alles zu lieben und den Nächsten wie sich selbst.",
+            "Deshalb beschreibt dieser Name keinen Stil, sondern eine Verpflichtung — den Maßstab, an dem wir gemessen werden möchten."
           ]
         }
       ],
       "verse": {
-        "text": "E perseveravam na doutrina dos apóstolos, na comunhão, no partir do pão e nas orações.",
-        "ref": "Atos 2:42"
+        "text": "Sie blieben aber beständig in der Lehre der Apostel und in der Gemeinschaft und im Brotbrechen und im Gebet.",
+        "ref": "Apostelgeschichte 2,42"
       },
       "cta": {
-        "label": "Visite-nos num domingo"
+        "label": "Besuchen Sie uns an einem Sonntag"
       }
     },
     "/sobre/nossa-historia": {
-      "eyebrow": "Sobre",
-      "title": "Nossa História",
-      "lead": "Uma história feita de encontros simples: casas, mesas, Bíblias abertas e a decisão de continuar juntos.",
+      "eyebrow": "Über uns",
+      "title": "Unsere Geschichte",
+      "lead": "Eine Geschichte aus einfachen Begegnungen: Häusern, Tischen, aufgeschlagenen Bibeln und der Entscheidung, gemeinsam weiterzugehen.",
       "sections": [
         {
-          "heading": "O início",
+          "heading": "Der Anfang",
           "body": [
-            "A comunidade nasceu do desejo de um pequeno grupo de famílias de ter um lugar onde a Palavra fosse ensinada com clareza e onde ninguém ficasse anónimo.",
-            "Os primeiros encontros aconteceram em casas, à volta de uma mesa. Muito do que somos hoje continua a ter essa forma."
+            "Die Gemeinschaft entstand aus dem Wunsch einiger weniger Familien nach einem Ort, an dem das Wort klar gelehrt wird und niemand anonym bleibt.",
+            "Die ersten Treffen fanden in Häusern statt, rund um einen Tisch. Vieles von dem, was wir heute sind, trägt noch immer diese Form."
           ]
         },
         {
-          "heading": "Crescer sem perder o rosto",
+          "heading": "Wachsen, ohne das Gesicht zu verlieren",
           "body": [
-            "Com o tempo chegaram novas pessoas, novos idiomas e novas histórias — italianos, brasileiros e outros que fizeram desta terra a sua casa.",
-            "Crescer trouxe estrutura, mas a intenção permanece: uma comunidade onde cada pessoa é conhecida pelo nome."
+            "Mit der Zeit kamen neue Menschen, neue Sprachen und neue Geschichten hinzu — Italiener, Brasilianer und andere, die dieses Land zu ihrer Heimat gemacht haben.",
+            "Das Wachstum brachte Struktur mit sich, doch die Absicht bleibt: eine Gemeinschaft, in der jede Person beim Namen bekannt ist."
           ]
         },
         {
-          "heading": "Hoje",
+          "heading": "Heute",
           "body": [
-            "Reunimo-nos semanalmente em Fiume Veneto para culto, estudo bíblico e oração, com pequenos grupos ao longo da semana.",
-            "Esta página é um resumo provisório: a liderança está a recolher datas, testemunhos e fotografias para contar a história completa."
+            "Wir treffen uns wöchentlich in Fiume Veneto zum Gottesdienst, zum Bibelstudium und zum Gebet, mit Kleingruppen unter der Woche.",
+            "Diese Seite ist eine vorläufige Zusammenfassung: Die Leitung sammelt derzeit Daten, Zeugnisse und Fotografien, um die vollständige Geschichte zu erzählen."
           ]
         }
       ]
     },
     "/sobre/nossa-visao": {
-      "eyebrow": "Sobre",
-      "title": "Nossa Visão",
-      "lead": "Ver homens e mulheres desta região encontrarem em Cristo perdão, propósito e uma família.",
+      "eyebrow": "Über uns",
+      "title": "Unsere Vision",
+      "lead": "Zu sehen, wie Männer und Frauen dieser Region in Christus Vergebung, Bestimmung und eine Familie finden.",
       "sections": [
         {
-          "heading": "Para onde caminhamos",
+          "heading": "Wohin wir unterwegs sind",
           "body": [
-            "Queremos ser uma igreja onde a Bíblia é ensinada sem atalhos, onde a oração não é um item do programa e onde o cuidado mútuo é concreto.",
-            "Sonhamos com pequenos grupos espalhados pela zona, cada um funcionando como uma porta aberta para vizinhos, colegas e amigos."
+            "Wir möchten eine Gemeinde sein, in der die Bibel ohne Abkürzungen gelehrt wird, in der das Gebet kein Programmpunkt ist und in der gegenseitige Fürsorge konkret ist.",
+            "Wir träumen von Kleingruppen, die über die ganze Gegend verteilt sind, jede von ihnen wie eine offene Tür für Nachbarn, Kollegen und Freunde."
           ]
         },
         {
-          "heading": "Missão",
+          "heading": "Mission",
           "body": [
-            "«Ide, portanto, e fazei discípulos de todas as nações» não é uma tarefa para especialistas: é o modo normal de vida de quem foi alcançado.",
-            "Por isso investimos em formar pessoas — não apenas em encher salas."
+            "„Geht nun hin und macht zu Jüngern alle Völker“ ist keine Aufgabe für Spezialisten: Es ist die normale Lebensweise eines jeden, der erreicht wurde.",
+            "Deshalb investieren wir darin, Menschen auszubilden — nicht nur darin, Säle zu füllen."
           ]
         }
       ],
       "verse": {
-        "text": "Ide, portanto, e fazei discípulos de todas as nações... ensinando-os a guardar todas as coisas que eu vos tenho ordenado.",
-        "ref": "Mateus 28:19-20"
+        "text": "Darum geht hin und macht zu Jüngern alle Völker … und lehrt sie, alles zu befolgen, was ich euch geboten habe.",
+        "ref": "Matthäus 28,19–20"
       },
       "cta": {
-        "label": "Quero servir nesta visão"
+        "label": "Ich möchte dieser Vision dienen"
       }
     },
     "/sobre/lideranca": {
-      "eyebrow": "Sobre",
-      "title": "Liderança",
-      "lead": "A liderança existe para servir, ensinar e cuidar — nunca para dominar a fé de ninguém.",
+      "eyebrow": "Über uns",
+      "title": "Leitung",
+      "lead": "Die Leitung existiert, um zu dienen, zu lehren und zu sorgen — niemals um über den Glauben eines anderen zu herrschen.",
       "sections": [
         {
-          "heading": "Como entendemos a liderança",
+          "heading": "Wie wir Leitung verstehen",
           "body": [
-            "Os líderes desta comunidade são pastores, anciãos e diáconos que respondem primeiro a Deus e depois à igreja, com vidas abertas ao escrutínio.",
-            "A autoridade que exercem é a da Palavra, não a da personalidade. Onde a Escritura não fala, a consciência de cada crente é respeitada."
+            "Die Leiter dieser Gemeinschaft sind Pastoren, Älteste und Diakone, die sich zuerst vor Gott und dann vor der Gemeinde verantworten, mit einem Leben, das offen für Prüfung ist.",
+            "Die Autorität, die sie ausüben, ist die des Wortes, nicht der Persönlichkeit. Wo die Schrift nicht spricht, wird das Gewissen jedes Gläubigen respektiert."
           ]
         },
         {
-          "heading": "Equipa",
+          "heading": "Team",
           "body": [
-            "Os nomes, funções e fotografias da equipa pastoral e diaconal serão publicados aqui assim que a liderança validar esta página.",
-            "Até então, pode falar com qualquer pessoa da equipa no fim do culto ou escrever-nos pelo formulário de contacto."
+            "Die Namen, Funktionen und Fotografien des pastoralen und diakonischen Teams werden hier veröffentlicht, sobald die Leitung diese Seite freigegeben hat.",
+            "Bis dahin können Sie nach dem Gottesdienst mit jedem aus dem Team sprechen oder uns über das Kontaktformular schreiben."
           ]
         }
       ],
       "cta": {
-        "label": "Falar com a liderança"
+        "label": "Mit der Leitung sprechen"
       }
     },
     "/sobre/valores": {
-      "eyebrow": "Sobre",
-      "title": "Valores",
-      "lead": "Quatro pilares sustentam tudo o que fazemos: Bíblia, Cristo, Ágape e Missão.",
+      "eyebrow": "Über uns",
+      "title": "Werte",
+      "lead": "Vier Säulen tragen alles, was wir tun: Bibel, Christus, Agape und Mission.",
       "sections": [
         {
-          "heading": "Bíblia",
+          "heading": "Bibel",
           "body": [
-            "As Escrituras são a nossa autoridade final em matéria de fé e de vida. Ensinamos textos, não apenas temas."
+            "Die Heilige Schrift ist unsere letzte Autorität in Fragen des Glaubens und des Lebens. Wir lehren Texte, nicht nur Themen."
           ]
         },
         {
-          "heading": "Cristo",
+          "heading": "Christus",
           "body": [
-            "Jesus é o centro: a salvação é pela graça, mediante a fé nele, e não por mérito nosso."
+            "Jesus ist der Mittelpunkt: Die Errettung geschieht aus Gnade, durch den Glauben an ihn, und nicht durch unser Verdienst."
           ]
         },
         {
-          "heading": "Ágape",
+          "heading": "Agape",
           "body": [
-            "O amor fraterno é a marca visível dos discípulos. Praticamo-lo em hospitalidade, perdão e ajuda concreta."
+            "Die brüderliche Liebe ist das sichtbare Kennzeichen der Jünger. Wir üben sie in Gastfreundschaft, Vergebung und konkreter Hilfe."
           ]
         },
         {
-          "heading": "Missão",
+          "heading": "Mission",
           "body": [
-            "Somos enviados ao trabalho, à escola, à vizinhança. A missão começa à porta de casa."
+            "Wir sind gesandt zur Arbeit, zur Schule, zur Nachbarschaft. Die Mission beginnt vor der eigenen Haustür."
           ]
         },
         {
-          "heading": "Liberdade no não essencial",
+          "heading": "Freiheit im Nebensächlichen",
           "body": [
-            "Firmeza no essencial, liberdade no acessório, amor em tudo — como Romanos 14 nos ensina a viver com quem pensa diferente."
+            "Festigkeit im Wesentlichen, Freiheit im Nebensächlichen, Liebe in allem — so lehrt uns Römer 14, mit denen zu leben, die anders denken."
           ]
         }
       ],
       "verse": {
-        "text": "O meu mandamento é este: que vos ameis uns aos outros, assim como eu vos amei.",
-        "ref": "João 15:12"
+        "text": "Das ist mein Gebot, dass ihr einander liebt, wie ich euch geliebt habe.",
+        "ref": "Johannes 15,12"
       }
     },
     "/vida-da-igreja/cultos": {
-      "eyebrow": "Vida da Igreja",
-      "title": "Cultos",
-      "lead": "Domingo é o dia em que toda a comunidade se reúne. Chegue como estiver.",
+      "eyebrow": "Gemeindeleben",
+      "title": "Gottesdienste",
+      "lead": "Der Sonntag ist der Tag, an dem sich die ganze Gemeinschaft versammelt. Kommen Sie, wie Sie sind.",
       "sections": [
         {
-          "heading": "Horários",
+          "heading": "Zeiten",
           "body": [
-            "Culto de domingo — 10h30. Louvor, oração, leitura e pregação da Bíblia, com tempo de comunhão no fim.",
-            "Estudo bíblico — durante a semana, em horário anunciado na agenda. Encontro de oração — semanal, aberto a todos."
+            "Sonntagsgottesdienst — 10:30 Uhr. Lobpreis, Gebet, Schriftlesung und Predigt der Bibel, mit anschließender Zeit der Gemeinschaft.",
+            "Bibelstudium — unter der Woche, zu einer im Terminkalender bekannt gegebenen Zeit. Gebetstreffen — wöchentlich, offen für alle."
           ]
         },
         {
-          "heading": "O que esperar",
+          "heading": "Was Sie erwartet",
           "body": [
-            "Cerca de 90 minutos: cânticos, oração, uma passagem bíblica explicada e aplicada, e avisos da comunidade.",
-            "Há espaço para crianças e alguém disponível para receber quem vem pela primeira vez."
+            "Etwa 90 Minuten: Lieder, Gebet, eine erklärte und angewendete Bibelstelle sowie Ankündigungen der Gemeinschaft.",
+            "Es gibt Platz für Kinder und jemanden, der bereitsteht, um Erstbesucher zu empfangen."
           ]
         },
         {
-          "heading": "Onde",
+          "heading": "Wo",
           "body": [
-            "Via Pontebbana 1, Fiume Veneto (PN), Itália. Estacionamento no local."
+            "Via Pontebbana 1, Fiume Veneto (PN), Italien. Parkplatz vor Ort."
           ]
         }
       ],
       "cta": {
-        "label": "Ver a agenda completa"
+        "label": "Den vollständigen Terminkalender ansehen"
       }
     },
     "/vida-da-igreja/ministerios": {
-      "eyebrow": "Vida da Igreja",
-      "title": "Ministérios",
-      "lead": "Áreas de serviço onde os dons de cada pessoa encontram um lugar concreto.",
+      "eyebrow": "Gemeindeleben",
+      "title": "Dienste",
+      "lead": "Dienstbereiche, in denen die Gaben jeder Person einen konkreten Platz finden.",
       "sections": [
         {
-          "heading": "Louvor",
+          "heading": "Lobpreis",
           "body": [
-            "Músicos e cantores que preparam o culto semanal com ensaios e oração."
+            "Musiker und Sänger, die den wöchentlichen Gottesdienst mit Proben und Gebet vorbereiten."
           ]
         },
         {
-          "heading": "Crianças e adolescentes",
+          "heading": "Kinder und Jugendliche",
           "body": [
-            "Ensino bíblico adequado a cada idade, com equipas formadas e atenção à segurança."
+            "Altersgerechte biblische Unterweisung, mit geschulten Teams und Aufmerksamkeit für die Sicherheit."
           ]
         },
         {
-          "heading": "Acolhimento",
+          "heading": "Empfang",
           "body": [
-            "Quem recebe à porta, explica o que vai acontecer e garante que ninguém sai sem ter falado com alguém."
+            "Wer an der Tür empfängt, erklärt, was geschehen wird, und stellt sicher, dass niemand geht, ohne mit jemandem gesprochen zu haben."
           ]
         },
         {
-          "heading": "Ação social e missões",
+          "heading": "Soziale Arbeit und Missionen",
           "body": [
-            "Apoio a famílias em dificuldade e parcerias com trabalhos missionários dentro e fora de Itália."
+            "Unterstützung von Familien in Not und Partnerschaften mit missionarischen Werken innerhalb und außerhalb Italiens."
           ]
         }
       ],
       "cta": {
-        "label": "Quero servir"
+        "label": "Ich möchte mitarbeiten"
       }
     },
     "/vida-da-igreja/pequenos-grupos": {
-      "eyebrow": "Vida da Igreja",
-      "title": "Pequenos Grupos",
-      "lead": "Durante a semana, em casas: Bíblia aberta, oração e vida partilhada em grupos pequenos.",
+      "eyebrow": "Gemeindeleben",
+      "title": "Kleingruppen",
+      "lead": "Unter der Woche, in Häusern: aufgeschlagene Bibel, Gebet und geteiltes Leben in kleinen Gruppen.",
       "sections": [
         {
-          "heading": "Porque existem",
+          "heading": "Warum es sie gibt",
           "body": [
-            "No domingo ouvimos juntos; no pequeno grupo respondemos juntos. É onde as perguntas cabem e onde o cuidado se torna prático.",
-            "Cada grupo tem entre 6 e 12 pessoas e um casal ou líder responsável."
+            "Am Sonntag hören wir gemeinsam zu; in der Kleingruppe antworten wir gemeinsam. Dort finden Fragen Platz, und dort wird die Fürsorge praktisch.",
+            "Jede Gruppe besteht aus 6 bis 12 Personen und einem verantwortlichen Ehepaar oder Leiter."
           ]
         },
         {
-          "heading": "Como entrar",
+          "heading": "Wie man beitritt",
           "body": [
-            "Diga-nos a zona onde vive e o dia que lhe é possível — indicamos o grupo mais próximo."
+            "Sagen Sie uns, in welchem Gebiet Sie wohnen und welcher Tag für Sie möglich ist — wir nennen Ihnen die nächstgelegene Gruppe."
           ]
         }
       ],
       "cta": {
-        "label": "Quero entrar num grupo"
+        "label": "Ich möchte einer Gruppe beitreten"
       }
     },
     "/vida-da-igreja/voluntariado": {
-      "eyebrow": "Vida da Igreja",
-      "title": "Voluntariado",
-      "lead": "Cada pessoa recebeu algo para dar. Aqui há lugar para o seu dom.",
+      "eyebrow": "Gemeindeleben",
+      "title": "Ehrenamt",
+      "lead": "Jede Person hat etwas empfangen, um es weiterzugeben. Hier gibt es einen Platz für Ihre Gabe.",
       "sections": [
         {
-          "heading": "Onde ajudar",
+          "heading": "Wo Sie helfen können",
           "body": [
-            "Acolhimento, louvor, som e projeção, crianças, café e limpeza, transporte de idosos, comunicação e apoio social.",
-            "Não é preciso experiência: há sempre alguém que acompanha os primeiros passos."
+            "Empfang, Lobpreis, Ton und Projektion, Kinder, Café und Reinigung, Fahrdienst für Senioren, Kommunikation und soziale Unterstützung.",
+            "Erfahrung ist nicht nötig: Es gibt immer jemanden, der die ersten Schritte begleitet."
           ]
         },
         {
-          "heading": "Como começar",
+          "heading": "Wie Sie beginnen",
           "body": [
-            "Preencha o formulário de «Quero fazer parte» indicando a área de interesse. Alguém da equipa entra em contacto."
+            "Füllen Sie das Formular „Ich möchte dazugehören“ aus und geben Sie Ihren Interessenbereich an. Jemand aus dem Team nimmt Kontakt mit Ihnen auf."
           ]
         }
       ],
       "cta": {
-        "label": "Inscrever-me"
+        "label": "Ich möchte mich anmelden"
       }
     },
     "/vida-da-igreja/eventos": {
-      "eyebrow": "Vida da Igreja",
-      "title": "Eventos",
-      "lead": "Batismos, ceias, almoços comunitários, encontros de famílias e jovens, conferências.",
+      "eyebrow": "Gemeindeleben",
+      "title": "Veranstaltungen",
+      "lead": "Taufen, Abendmahlsfeiern, Gemeinschaftsessen, Familien- und Jugendtreffen, Konferenzen.",
       "sections": [
         {
-          "heading": "Ritmo do ano",
+          "heading": "Der Rhythmus des Jahres",
           "body": [
-            "Ao longo do ano marcamos momentos que reúnem a comunidade além do domingo: batismos por imersão, celebrações da Ceia do Senhor, almoços de ágape e encontros para famílias e jovens.",
-            "Cada evento é aberto a convidados — trazer alguém é sempre bem-vindo."
+            "Im Laufe des Jahres gestalten wir Momente, die die Gemeinschaft über den Sonntag hinaus zusammenbringen: Taufen durch Untertauchen, Feiern des Abendmahls, Agape-Mahlzeiten und Treffen für Familien und Jugendliche.",
+            "Jede Veranstaltung ist offen für Gäste — jemanden mitzubringen ist immer willkommen."
           ]
         }
       ],
       "cta": {
-        "label": "Próximas datas na agenda"
+        "label": "Nächste Termine im Kalender"
       }
     },
     "/conteudos/pregacoes": {
-      "eyebrow": "Conteúdos",
-      "title": "Pregações",
-      "lead": "As mensagens de domingo, para ouvir de novo ou partilhar com alguém.",
+      "eyebrow": "Inhalte",
+      "title": "Predigten",
+      "lead": "Die Sonntagsbotschaften, um sie erneut zu hören oder mit jemandem zu teilen.",
       "sections": [
         {
-          "heading": "Arquivo",
+          "heading": "Archiv",
           "body": [
-            "Estamos a organizar o arquivo de áudio das séries pregadas na igreja, por livro da Bíblia e por data.",
-            "Enquanto isso, pode pedir uma mensagem específica pelo formulário de contacto e enviamos o ficheiro."
+            "Wir organisieren gerade das Audioarchiv der in der Gemeinde gepredigten Reihen, nach Bibelbuch und Datum.",
+            "In der Zwischenzeit können Sie über das Kontaktformular eine bestimmte Botschaft anfragen, und wir senden Ihnen die Datei."
           ]
         },
         {
-          "heading": "Como usamos a Palavra",
+          "heading": "Wie wir das Wort verwenden",
           "body": [
-            "Pregamos texto a texto, procurando dizer o que a passagem diz — não o que gostaríamos que dissesse."
+            "Wir predigen Text für Text und versuchen zu sagen, was die Stelle sagt — nicht, was wir gerne hätten, dass sie sagt."
           ]
         }
       ],
       "cta": {
-        "label": "Pedir uma pregação"
+        "label": "Eine Predigt anfragen"
       }
     },
     "/conteudos/videos": {
-      "eyebrow": "Conteúdos",
-      "title": "Vídeos",
-      "lead": "Cultos gravados, testemunhos e vídeos curtos sobre a fé.",
+      "eyebrow": "Inhalte",
+      "title": "Videos",
+      "lead": "Aufgezeichnete Gottesdienste, Zeugnisse und kurze Videos über den Glauben.",
       "sections": [
         {
-          "heading": "Canal da comunidade",
+          "heading": "Kanal der Gemeinschaft",
           "body": [
-            "Os vídeos dos cultos e dos eventos serão publicados aqui e no canal da igreja.",
-            "Se quiser ajudar na captação e edição, a equipa de comunicação está a crescer."
+            "Die Videos der Gottesdienste und Veranstaltungen werden hier und auf dem Kanal der Gemeinde veröffentlicht.",
+            "Wenn Sie bei der Aufnahme und dem Schnitt helfen möchten, wächst das Kommunikationsteam."
           ]
         }
       ],
       "cta": {
-        "label": "Ajudar na comunicação"
+        "label": "Bei der Kommunikation helfen"
       }
     },
     "/conteudos/devocionais": {
-      "eyebrow": "Conteúdos",
-      "title": "Devocionais",
-      "lead": "Textos curtos para começar o dia com uma passagem e uma oração.",
+      "eyebrow": "Inhalte",
+      "title": "Andachten",
+      "lead": "Kurze Texte, um den Tag mit einer Bibelstelle und einem Gebet zu beginnen.",
       "sections": [
         {
-          "heading": "Um hábito, não um desempenho",
+          "heading": "Eine Gewohnheit, keine Leistung",
           "body": [
-            "Cinco minutos com a Bíblia aberta valem mais do que uma hora planeada e nunca cumprida. Os devocionais aqui publicados são simples de propósito.",
-            "Cada texto traz a passagem, duas ou três frases de aplicação e uma oração breve."
+            "Fünf Minuten mit aufgeschlagener Bibel sind mehr wert als eine geplante, aber nie eingehaltene Stunde. Die hier veröffentlichten Andachten sind bewusst einfach gehalten.",
+            "Jeder Text enthält die Bibelstelle, zwei oder drei Sätze zur Anwendung und ein kurzes Gebet."
           ]
         },
         {
-          "heading": "Receber por e-mail",
+          "heading": "Per E-Mail erhalten",
           "body": [
-            "Em breve poderá receber o devocional semanal por e-mail. Deixe o seu contacto e avisamos quando abrir."
+            "Bald können Sie die wöchentliche Andacht per E-Mail erhalten. Hinterlassen Sie Ihre Kontaktdaten, und wir informieren Sie, sobald es startet."
           ]
         }
       ],
       "cta": {
-        "label": "Deixar o meu contacto"
+        "label": "Meine Kontaktdaten hinterlassen"
       }
     },
     "/conteudos/estudos": {
-      "eyebrow": "Conteúdos",
-      "title": "Estudos",
-      "lead": "Material para estudar a Bíblia sozinho, em família ou em pequeno grupo.",
+      "eyebrow": "Inhalte",
+      "title": "Studien",
+      "lead": "Material, um die Bibel allein, in der Familie oder in der Kleingruppe zu studieren.",
       "sections": [
         {
-          "heading": "Séries disponíveis",
+          "heading": "Verfügbare Reihen",
           "body": [
-            "Estamos a preparar guias de estudo sobre o Evangelho de João, Atos dos Apóstolos e as doutrinas fundamentais da fé cristã.",
-            "Cada guia traz perguntas de observação, interpretação e aplicação — pensado para ser usado em conversa, não em silêncio."
+            "Wir bereiten Studienleitfäden über das Johannesevangelium, die Apostelgeschichte und die grundlegenden Lehren des christlichen Glaubens vor.",
+            "Jeder Leitfaden enthält Fragen zur Beobachtung, Auslegung und Anwendung — gedacht, um im Gespräch verwendet zu werden, nicht im Stillen."
           ]
         },
         {
-          "heading": "Para líderes de grupo",
+          "heading": "Für Gruppenleiter",
           "body": [
-            "Quem conduz um pequeno grupo recebe também notas de apoio e sugestões de ritmo para cada encontro."
+            "Wer eine Kleingruppe leitet, erhält zusätzlich Begleitnotizen und Vorschläge zum Ablauf für jedes Treffen."
           ]
         }
       ],
       "cta": {
-        "label": "Entrar num pequeno grupo"
+        "label": "Einer Kleingruppe beitreten"
       }
     },
     "/conteudos/testemunhos": {
-      "eyebrow": "Conteúdos",
-      "title": "Testemunhos",
-      "lead": "Histórias de pessoas reais que encontraram graça — e continuam a caminhar.",
+      "eyebrow": "Inhalte",
+      "title": "Zeugnisse",
+      "lead": "Geschichten realer Menschen, die Gnade gefunden haben — und weiterhin unterwegs sind.",
       "sections": [
         {
-          "heading": "Porque contamos",
+          "heading": "Warum wir erzählen",
           "body": [
-            "Um testemunho não é uma vida perfeita exposta: é a memória concreta do que Deus fez, contada para encorajar quem ainda está no meio da luta.",
-            "Publicamos apenas com autorização de quem conta, no tempo de cada pessoa."
+            "Ein Zeugnis ist kein zur Schau gestelltes perfektes Leben: Es ist die konkrete Erinnerung an das, was Gott getan hat, erzählt, um jene zu ermutigen, die sich noch mitten im Kampf befinden.",
+            "Wir veröffentlichen nur mit Zustimmung der erzählenden Person, zu ihrem eigenen Zeitpunkt."
           ]
         },
         {
-          "heading": "Partilhar o seu",
+          "heading": "Ihres teilen",
           "body": [
-            "Se quer contar o que Deus fez na sua vida, escreva-nos. Podemos publicar em texto ou vídeo, com o nome ou de forma reservada."
+            "Wenn Sie erzählen möchten, was Gott in Ihrem Leben getan hat, schreiben Sie uns. Wir können es als Text oder Video veröffentlichen, mit Namen oder anonym."
           ]
         }
       ],
       "cta": {
-        "label": "Contar a minha história"
+        "label": "Meine Geschichte erzählen"
       }
     }
   },
   "cards": {
     "culto-de-domingo": {
-      "titleTop": "Adoração &\nPalavra",
-      "titleMasked": "Culto de\nDomingo.",
-      "year": "Domingo, 10h30",
+      "titleTop": "Anbetung &\nWort",
+      "titleMasked": "Sonntags-\ngottesdienst.",
+      "year": "Sonntag, 10:30 Uhr",
       "location": "Via Pontebbana 1, Fiume Veneto",
-      "description": "O encontro central da semana: louvor, oração e a pregação da Palavra. Um culto simples e aberto a todos — se é a sua primeira vez, basta chegar; não é preciso avisar nem se inscrever."
+      "description": "Das zentrale Treffen der Woche: Lobpreis, Gebet und die Predigt des Wortes. Ein schlichter Gottesdienst, offen für alle — wenn es Ihr erstes Mal ist, kommen Sie einfach; eine Anmeldung ist nicht nötig."
     },
     "estudo-biblico": {
-      "titleTop": "Ensino dos\nApóstolos",
-      "titleMasked": "Estudo\nBíblico.",
-      "year": "Quarta-feira, 20h30",
-      "location": "Sede da igreja e casas",
-      "description": "Estudamos a Bíblia como autoridade e fonte de verdade para a fé e a conduta. Um tempo de leitura atenta, perguntas honestas e aplicação à vida real, seguindo Atos 2:42."
+      "titleTop": "Lehre der\nApostel",
+      "titleMasked": "Bibel-\nstudium.",
+      "year": "Mittwoch, 20:30 Uhr",
+      "location": "Gemeindezentrum und Häuser",
+      "description": "Wir studieren die Bibel als Autorität und Quelle der Wahrheit für Glauben und Lebensführung. Eine Zeit aufmerksamer Lektüre, ehrlicher Fragen und Anwendung auf das reale Leben, gemäß Apostelgeschichte 2,42."
     },
     "oracao": {
-      "titleTop": "Juntos diante\nde Deus",
-      "titleMasked": "Encontro de\nOração.",
-      "year": "Semanal",
-      "location": "Sede da igreja",
-      "description": "Oração pela igreja, pela cidade e pelas necessidades de cada família. Um espaço onde ninguém precisa ter as palavras certas — só o desejo de estar diante de Deus com os outros."
+      "titleTop": "Gemeinsam vor\nGott",
+      "titleMasked": "Gebets-\ntreffen.",
+      "year": "Wöchentlich",
+      "location": "Gemeindezentrum",
+      "description": "Gebet für die Gemeinde, für die Stadt und für die Bedürfnisse jeder Familie. Ein Ort, an dem niemand die richtigen Worte finden muss — nur den Wunsch, gemeinsam mit anderen vor Gott zu stehen."
     },
     "ceia-do-senhor": {
-      "titleTop": "Pão &\nVinho",
-      "titleMasked": "Ceia do\nSenhor.",
-      "year": "Mensal",
-      "location": "No culto",
-      "description": "Partimos o pão e partilhamos o vinho em memória do sacrifício de Cristo. Não é um rito decorativo: é o centro da nossa fé lembrado em comunidade."
+      "titleTop": "Brot &\nWein",
+      "titleMasked": "Abendmahl\ndes Herrn.",
+      "year": "Monatlich",
+      "location": "Im Gottesdienst",
+      "description": "Wir brechen das Brot und teilen den Wein zum Gedenken an das Opfer Christi. Es ist kein schmückendes Ritual: Es ist der Mittelpunkt unseres Glaubens, gemeinsam erinnert."
     },
     "batismo": {
-      "titleTop": "Testemunho\nPúblico",
-      "titleMasked": "Batismo\npor Imersão.",
-      "year": "Ao longo do ano",
-      "location": "A combinar",
-      "description": "Cremos no batismo de adultos, por escolha pessoal e por imersão, como testemunho público de uma fé já viva. Quem deseja dar este passo é acompanhado antes com conversa e ensino."
+      "titleTop": "Öffentliches\nZeugnis",
+      "titleMasked": "Taufe durch\nUntertauchen.",
+      "year": "Das ganze Jahr über",
+      "location": "Nach Vereinbarung",
+      "description": "Wir glauben an die Taufe von Erwachsenen, aus persönlicher Entscheidung und durch Untertauchen, als öffentliches Zeugnis eines bereits lebendigen Glaubens. Wer diesen Schritt gehen möchte, wird zuvor durch Gespräch und Unterweisung begleitet."
     },
     "missao": {
-      "titleTop": "Ir, pregar,\nfazer discípulos",
-      "titleMasked": "Missão &\nEvangelho.",
-      "year": "Todo o ano",
-      "location": "Fiume Veneto e região",
-      "description": "Obedecer ao mandato de Jesus em Mateus 28:19–20 é parte da nossa identidade. Estamos na rua, nas casas e nos encontros da região, com ações e eventos abertos à cidade."
+      "titleTop": "Gehen, predigen,\nJünger machen",
+      "titleMasked": "Mission &\nEvangelium.",
+      "year": "Das ganze Jahr",
+      "location": "Fiume Veneto und Umgebung",
+      "description": "Dem Auftrag Jesu in Matthäus 28,19–20 zu gehorchen, ist Teil unserer Identität. Wir sind auf der Straße, in den Häusern und bei Treffen in der Region unterwegs, mit Aktionen und Veranstaltungen, die der ganzen Stadt offenstehen."
     },
     "comunhao": {
-      "titleTop": "Amor\nFraterno",
-      "titleMasked": "Comunhão\n& Ágape.",
-      "year": "Regular",
-      "location": "Casas da comunidade",
-      "description": "Ágape é amor desinteressado, fraterno e imenso — e por isso é o nome desta igreja. Refeições partilhadas, cuidado prático e amizade que não termina quando o culto acaba."
+      "titleTop": "Brüderliche\nLiebe",
+      "titleMasked": "Gemeinschaft\n& Agape.",
+      "year": "Regelmäßig",
+      "location": "Häuser der Gemeinschaft",
+      "description": "Agape ist selbstlose, brüderliche und grenzenlose Liebe — deshalb trägt diese Gemeinde ihren Namen. Gemeinsame Mahlzeiten, praktische Fürsorge und Freundschaft, die nicht endet, wenn der Gottesdienst vorbei ist."
     },
     "familias": {
-      "titleTop": "Crianças &\nFamílias",
-      "titleMasked": "Famílias\nna Fé.",
-      "year": "Durante o culto",
-      "location": "Sala das crianças",
-      "description": "Ensino bíblico adequado à idade, num ambiente seguro e acolhedor, enquanto os pais participam do culto. Apoiamos as famílias na formação da fé em casa, não apenas no domingo."
+      "titleTop": "Kinder &\nFamilien",
+      "titleMasked": "Familien\nim Glauben.",
+      "year": "Während des Gottesdienstes",
+      "location": "Kinderraum",
+      "description": "Altersgerechte biblische Unterweisung in einer sicheren und einladenden Umgebung, während die Eltern am Gottesdienst teilnehmen. Wir unterstützen Familien bei der Glaubensbildung zu Hause, nicht nur am Sonntag."
     },
     "jovens": {
-      "titleTop": "Convicção\nsem uniformidade",
-      "titleMasked": "Jovens\n& Perguntas.",
-      "year": "Mensal",
-      "location": "Sede da igreja",
-      "description": "Um espaço para adolescentes e jovens adultos trazerem dúvidas reais. Firmes no essencial, livres no que não é essencial (Romanos 14), e tudo ligado ao amor."
+      "titleTop": "Überzeugung\nohne Gleichförmigkeit",
+      "titleMasked": "Jugend\n& Fragen.",
+      "year": "Monatlich",
+      "location": "Gemeindezentrum",
+      "description": "Ein Raum für Jugendliche und junge Erwachsene, um echte Fragen zu stellen. Fest im Wesentlichen, frei im Nebensächlichen (Römer 14), und alles verbunden mit der Liebe."
     }
   }
 }
