@@ -1,0 +1,740 @@
+{
+  "ui": {
+    "common": {
+      "enter": "Anmelden",
+      "panel": "Bereich",
+      "openMenu": "Menü öffnen",
+      "closeMenu": "Menü schließen",
+      "menu": "Menü",
+      "loading": "Wird geladen…",
+      "sending": "Wird gesendet…",
+      "or": "oder",
+      "logoAria": "Chiesa Evangelica Agape — Startseite",
+      "footerNav": "Fußzeile",
+      "language": "Sprache"
+    },
+    "hero": {
+      "eyebrow": "Chiesa Evangelica Agape · Fiume Veneto",
+      "titleLine1": "Geliebt,",
+      "titleLine2": "um zu lieben.",
+      "lead": "Eine christliche Gemeinschaft, zentriert auf die Bibel, auf Christus, auf die Agape-Liebe und auf die Mission.",
+      "ctaJoin": "Ich möchte dazugehören",
+      "ctaServices": "Gottesdienstzeiten"
+    },
+    "home": {
+      "introTitleLine1": "Bibel, Christus,",
+      "introTitleLine2": "Agape, Mission",
+      "intro1": "Wir sind eine evangelische christliche Gemeinschaft in Fiume Veneto, in der Provinz Pordenone. Wir definieren uns nicht durch ein Gebäude oder ein Programm, sondern durch Menschen, die an Jesus Christus als Retter glauben und den Willen Gottes suchen wollen.",
+      "intro2": "„Agape“ ist nicht nur der Name dieser Gemeinde: Es ist die selbstlose, brüderliche und grenzenlose Liebe, die Christus uns geboten hat — Gott zu lieben und den Nächsten zu lieben. Deshalb geht alles, was wir tun, über Gemeinschaft, biblische Lehre, Gebet und Mission.",
+      "introCta": "Was wir glauben",
+      "pillars": [
+        {
+          "title": "Bibel",
+          "text": "Die Schrift ist unsere Autorität. Wir lehren Text für Text, ohne Abkürzungen."
+        },
+        {
+          "title": "Christus",
+          "text": "Die Errettung geschieht aus Gnade, durch den Glauben an Jesus — nicht durch unser Verdienst."
+        },
+        {
+          "title": "Agape",
+          "text": "Die brüderliche Liebe ist das sichtbare Kennzeichen der Jünger: Gastfreundschaft, Vergebung, konkrete Hilfe."
+        },
+        {
+          "title": "Mission",
+          "text": "Wir sind gesandt zur Arbeit, zur Schule, zur Nachbarschaft. Sie beginnt vor der eigenen Haustür."
+        }
+      ],
+      "finalTitle": "Sonntag, 10:30 Uhr. Kommen Sie, wie Sie sind.",
+      "finalText": "Via Pontebbana 1 — 33080 Fiume Veneto (PN), Italien. Wenn Sie lieber vorher Bescheid geben möchten, schreiben Sie uns: Jemand wird an der Tür auf Sie warten.",
+      "finalCtaJoin": "Ich möchte dazugehören",
+      "finalCtaAgenda": "Zum Terminkalender"
+    },
+    "faith": {
+      "title": "Unser Glaube",
+      "lead": "Was wir glauben, in einfacher Sprache. Es sind keine Formeln zum Auswendiglernen: Es ist das, was das Leben dieser Gemeinschaft trägt, und wir sind gerne bereit, mit jedem darüber zu sprechen, der mehr verstehen möchte.",
+      "versesTitle": "Texte, die uns leiten",
+      "cta": "Ich habe eine Frage",
+      "beliefs": [
+        {
+          "title": "Die Heilige Schrift",
+          "text": "Die Bibel ist die Autorität und die Quelle der Wahrheit für Glauben und Lebensführung. Nichts, was wir lehren, darf ihr widersprechen."
+        },
+        {
+          "title": "Gott",
+          "text": "Ein einziger Gott, Schöpfer, ewig, offenbart als Vater, Sohn und Heiliger Geist."
+        },
+        {
+          "title": "Jesus Christus",
+          "text": "Göttlich und menschlich: jungfräuliche Geburt, sündloses Leben, Kreuzigung und Auferstehung. Die Errettung kommt durch sein Werk."
+        },
+        {
+          "title": "Heiliger Geist",
+          "text": "Empfangen in der Buße und im Glauben an Jesus als Retter und Herr, der der Gemeinde Leben und Kraft schenkt."
+        },
+        {
+          "title": "Errettung",
+          "text": "Aus Gnade, durch den Glauben an Jesus Christus, mit Buße und wirklicher Verwandlung des Lebens."
+        },
+        {
+          "title": "Die Gemeinde",
+          "text": "Wir unterscheiden zwischen der weltweiten Gemeinde — allen, die Christus gehören — und den örtlichen Gemeinden, wie dieser Gemeinschaft."
+        },
+        {
+          "title": "Taufe",
+          "text": "Von Erwachsenen, aus persönlicher Entscheidung und durch Untertauchen, als öffentliches Zeugnis des Glaubens."
+        },
+        {
+          "title": "Abendmahl",
+          "text": "Brot und Wein, zum Gedenken an das Opfer Christi, gemeinsam in der Gemeinschaft geteilt."
+        },
+        {
+          "title": "Wesentliches und Nebensächliches",
+          "text": "Festigkeit im Wesentlichen und Freiheit in Nebenfragen (Römer 14), wobei alle Überzeugungen mit der Liebe verbunden sind."
+        }
+      ],
+      "verses": [
+        {
+          "ref": "Apostelgeschichte 2,42",
+          "text": "Lehre, Gemeinschaft, Brotbrechen und Gebet."
+        },
+        {
+          "ref": "Matthäus 22,38–40",
+          "text": "Gott lieben und den Nächsten lieben."
+        },
+        {
+          "ref": "Johannes 15,12",
+          "text": "Dass ihr einander liebt, wie ich euch geliebt habe."
+        },
+        {
+          "ref": "Matthäus 28,19–20",
+          "text": "Geht hin, macht zu Jüngern, tauft sie und lehrt sie."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Sprechen Sie mit der Gemeinde",
+      "lead": "Möchten Sie uns am Sonntag besuchen, um Gebet bitten, ein Gespräch vereinbaren oder einfach besser verstehen, was wir glauben? Schreiben Sie uns — wir antworten mit der Sorgfalt, die wir uns selbst wünschen würden.",
+      "addressLabel": "Adresse",
+      "meetingsLabel": "Termine",
+      "contactLabel": "Kontakt",
+      "meeting1": "Sonntag, 10:30 Uhr — Gottesdienst",
+      "meeting2": "Mittwoch, 20:30 Uhr — Bibelstudium",
+      "thanks": "Danke! Wir melden uns in Kürze bei Ihnen.",
+      "required": "(erforderlich)",
+      "firstName": "Vorname",
+      "lastName": "Nachname",
+      "email": "E-Mail",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "submit": "Senden"
+    },
+    "agenda": {
+      "eyebrow": "Terminkalender",
+      "title": "Nächste Termine",
+      "lead": "Gottesdienste, Bibelstudien, Gebet und besondere Veranstaltungen. Alle Treffen sind offen — bringen Sie mit, wen Sie möchten.",
+      "loading": "Termine werden geladen…",
+      "empty": "Derzeit sind keine Termine veröffentlicht. Der Sonntagsgottesdienst findet immer um 10:30 Uhr statt.",
+      "featured": "hervorgehoben",
+      "cta": "Ein Gebetsanliegen senden"
+    },
+    "prayer": {
+      "eyebrow": "Gebetsanliegen",
+      "title": "Dürfen wir für Sie beten?",
+      "lead": "Kein Anliegen ist zu klein. Das Leitungsteam betet für jede eingegangene Nachricht — und wenn Sie es wünschen, bleibt Ihr Anliegen ausschließlich der Leitung vorbehalten.",
+      "sentTitle": "Wir haben Ihr Anliegen erhalten.",
+      "sentText": "Wir werden beten. Wenn Sie Ihre E-Mail hinterlassen haben, kann sich jemand aus dem Team bei Ihnen melden, um mit Ihnen in engem Kontakt zu bleiben.",
+      "name": "Name",
+      "emailOptional": "E-Mail (optional)",
+      "request": "Ihr Anliegen",
+      "confidential": "Vertraulich behandeln — nur die Leitung sieht dieses Anliegen.",
+      "submit": "Anliegen senden",
+      "error": "Das Anliegen konnte nicht gesendet werden. Bitte versuchen Sie es erneut."
+    },
+    "join": {
+      "eyebrow": "Ich möchte dazugehören",
+      "title": "Hier ist Platz für Sie.",
+      "lead": "Sagen Sie uns einfach, womit Sie beginnen möchten. Jemand aus dem Team nimmt Kontakt mit Ihnen auf und begleitet Sie bei den ersten Schritten — ohne Eile und ohne Verpflichtung.",
+      "sentTitle": "Anmeldung erhalten.",
+      "sentText": "Danke, dass Sie diesen Schritt gehen. Wir melden uns in Kürze über die von Ihnen hinterlassene E-Mail-Adresse.",
+      "name": "Vollständiger Name",
+      "email": "E-Mail",
+      "phone": "Telefon (optional)",
+      "message": "Möchten Sie uns etwas mitteilen? (optional)",
+      "submit": "Anmeldung senden",
+      "error": "Senden nicht möglich. Bitte versuchen Sie es erneut.",
+      "interests": [
+        "Einen Gottesdienst besuchen",
+        "Einer Kleingruppe beitreten",
+        "In einem Dienst mitarbeiten",
+        "Taufe",
+        "Mit der Leitung sprechen"
+      ]
+    },
+    "donations": {
+      "eyebrow": "Spenden",
+      "title": "Mit Freude beitragen.",
+      "lead": "Alles, was wir erhalten, unterstützt die Lehre des Wortes, die Fürsorge für Familien, die soziale Arbeit und die Mission. Jeder Beitrag ist freiwillig — „Gott liebt einen fröhlichen Geber“.",
+      "howTitle": "Wie Sie beitragen können",
+      "how1": "Sie können Ihre Gabe persönlich während des Sonntagsgottesdienstes geben oder per Banküberweisung auf das Konto der Gemeinschaft.",
+      "how2": "Die Bankdaten (IBAN und Kontoinhaber) werden hier nach Freigabe durch die Leitung veröffentlicht. Bis dahin können Sie sie über das Kontaktformular erfragen, und wir senden sie Ihnen sicher zu.",
+      "whereTitle": "Wofür verwendet",
+      "where": [
+        "Lehre, biblisches Material und Ausbildung von Leitern.",
+        "Unterstützung von Familien in der Gemeinschaft und der Nachbarschaft, die in Not sind.",
+        "Versammlungsraum, Energie und Instandhaltung.",
+        "Missionen und Partnerschaften innerhalb und außerhalb Italiens."
+      ],
+      "transparencyTitle": "Transparenz",
+      "transparencyText": "Die Finanzen werden regelmäßig der Gemeinschaft vorgelegt. Jedes Mitglied kann bei der Leitung um Auskunft bitten.",
+      "cta": "Bankdaten anfordern"
+    },
+    "auth": {
+      "loginTitle": "Anmelden",
+      "signupTitle": "Konto erstellen",
+      "resetTitle": "Passwort zurücksetzen",
+      "loginLead": "Bereich für Mitglieder, Leiter und Pastoren der Gemeinschaft.",
+      "signupLead": "Erstellen Sie Ihr Konto, um das Gemeindeleben aus der Nähe zu verfolgen.",
+      "resetLead": "Geben Sie Ihre E-Mail-Adresse an, und wir senden Ihnen einen Link, um ein neues Passwort festzulegen.",
+      "fullName": "Vollständiger Name",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "wait": "Bitte warten…",
+      "loginSubmit": "Anmelden",
+      "signupSubmit": "Konto erstellen",
+      "resetSubmit": "Link senden",
+      "google": "Mit Google anmelden",
+      "forgot": "Passwort vergessen",
+      "noAccount": "Ich habe noch kein Konto",
+      "backToLogin": "Zurück zur Anmeldung",
+      "signupOk": "Konto erstellt. Bitte bestätigen Sie es über Ihre E-Mail.",
+      "resetOk": "Wir haben Ihnen einen Link zum Zurücksetzen per E-Mail gesendet.",
+      "genericError": "Der Vorgang konnte nicht abgeschlossen werden.",
+      "googleError": "Anmeldung mit Google nicht möglich."
+    },
+    "dashboard": {
+      "roleMembro": "Mitglied",
+      "roleLider": "Leiter",
+      "rolePastor": "Pastor",
+      "areaPrefix": "Bereich",
+      "areaFallback": "reserviert",
+      "greeting": "Hallo",
+      "leadPastor": "Pastoraler Überblick über die Gemeinschaft: Gebetsanliegen, neue Interessenten und Termine.",
+      "leadLider": "Leitungsbereich: Verfolgen Sie Anliegen, Anmeldungen und den Terminkalender.",
+      "leadMembro": "Ihr Bereich in der Gemeinschaft: Termine, Gebetsanliegen und Gemeindeleben.",
+      "signOut": "Abmelden",
+      "prayerCta": "Ein Gebetsanliegen senden",
+      "eventsTitle": "Nächste Termine",
+      "eventsEmpty": "Derzeit sind keine Termine geplant.",
+      "prayersTitle": "Gebetsanliegen",
+      "prayersEmpty": "Derzeit keine Anliegen.",
+      "confidentialRequest": "Vertrauliches Anliegen",
+      "communityTitle": "In Gemeinschaft unterwegs",
+      "communityText": "Treten Sie einer Kleingruppe bei, dienen Sie in einem Dienst oder sprechen Sie mit der Leitung. Das Gemeindeleben findet unter der Woche statt, nicht nur am Sonntag.",
+      "linkGroups": "Kleingruppen",
+      "linkVolunteer": "Ehrenamt",
+      "linkStudies": "Bibelstudien",
+      "membersTitle": "Wer dazugehören möchte",
+      "membersEmpty": "Derzeit keine Anmeldungen.",
+      "interestLabel": "Interesse",
+      "pastorNoteTitle": "Pastorale Anmerkung",
+      "pastorNoteText": "Als Pastor sehen Sie alle Anliegen und Anmeldungen der Gemeinschaft und können Termine im Kalender erstellen oder bearbeiten. Die Rollen der einzelnen Personen werden in der Datenbank der Gemeinschaft verwaltet."
+    },
+    "project": {
+      "notFound": "Seite nicht gefunden",
+      "back": "Zurück zur Startseite",
+      "home": "Startseite",
+      "when": "Wann",
+      "where": "Wo",
+      "alsoSee": "Siehe auch"
+    },
+    "notFound": {
+      "title": "Seite nicht gefunden",
+      "text": "Diese Seite existiert nicht oder wurde verschoben. Kehren Sie zur Startseite zurück und fahren Sie von dort aus fort.",
+      "cta": "Zurück zur Startseite"
+    },
+    "footer": {
+      "community": "Gemeinschaft",
+      "address": "Via Pontebbana 1 — 33080 Fiume Veneto (PN), Italien",
+      "services": "Sonntagsgottesdienst um 10:30 Uhr — alle sind willkommen"
+    }
+  },
+  "nav": {
+    "/": "Startseite",
+    "Sobre": "Über uns",
+    "/sobre/quem-somos": "Wer wir sind",
+    "/sobre/nossa-historia": "Unsere Geschichte",
+    "/sobre/nossa-visao": "Unsere Vision",
+    "/sobre/lideranca": "Leitung",
+    "/sobre/valores": "Werte",
+    "Vida da Igreja": "Gemeindeleben",
+    "/vida-da-igreja/cultos": "Gottesdienste",
+    "/vida-da-igreja/ministerios": "Dienste",
+    "/vida-da-igreja/pequenos-grupos": "Kleingruppen",
+    "/vida-da-igreja/voluntariado": "Ehrenamt",
+    "/vida-da-igreja/eventos": "Veranstaltungen",
+    "Conteúdos": "Inhalte",
+    "/conteudos/pregacoes": "Predigten",
+    "/conteudos/videos": "Videos",
+    "/conteudos/devocionais": "Andachten",
+    "/conteudos/estudos": "Studien",
+    "/conteudos/testemunhos": "Zeugnisse",
+    "/agenda": "Terminkalender",
+    "/pedido-de-oracao": "Gebetsanliegen",
+    "/quero-fazer-parte": "Ich möchte dazugehören",
+    "/doacoes": "Spenden",
+    "/contact": "Kontakt"
+  },
+  "pages": {
+    "/sobre/quem-somos": {
+      "eyebrow": "Über uns",
+      "title": "Wer wir sind",
+      "lead": "Wir sind eine evangelische christliche Gemeinschaft in Fiume Veneto, in der Provinz Pordenone. Ganz normale Menschen, die an Jesus Christus glauben und gemeinsam unterwegs sind.",
+      "sections": [
+        {
+          "heading": "Eine Familie, kein Gebäude",
+          "body": [
+            "Die Gemeinde ist weder das Gebäude noch das Programm: Es sind die Menschen. Wir treffen uns, um Gott anzubeten, aus der Schrift zu lernen, zu beten und füreinander zu sorgen.",
+            "Wer zum ersten Mal kommt, braucht nichts weiter als den Wunsch, dabei zu sein. Es gibt keine Kleiderordnung, kein besonderes Vokabular und keine Vergangenheit, die vorausgesetzt wird."
+          ]
+        },
+        {
+          "heading": "Warum „Agape“",
+          "body": [
+            "Agape ist das griechische Wort für die selbstlose Liebe, die Christus uns gezeigt und uns geboten hat: Gott über alles zu lieben und den Nächsten wie sich selbst.",
+            "Deshalb beschreibt dieser Name keinen Stil, sondern eine Verpflichtung — den Maßstab, an dem wir gemessen werden möchten."
+          ]
+        }
+      ],
+      "verse": {
+        "text": "Sie blieben aber beständig in der Lehre der Apostel und in der Gemeinschaft und im Brotbrechen und im Gebet.",
+        "ref": "Apostelgeschichte 2,42"
+      },
+      "cta": {
+        "label": "Besuchen Sie uns an einem Sonntag"
+      }
+    },
+    "/sobre/nossa-historia": {
+      "eyebrow": "Über uns",
+      "title": "Unsere Geschichte",
+      "lead": "Eine Geschichte aus einfachen Begegnungen: Häusern, Tischen, aufgeschlagenen Bibeln und der Entscheidung, gemeinsam weiterzugehen.",
+      "sections": [
+        {
+          "heading": "Der Anfang",
+          "body": [
+            "Die Gemeinschaft entstand aus dem Wunsch einiger weniger Familien nach einem Ort, an dem das Wort klar gelehrt wird und niemand anonym bleibt.",
+            "Die ersten Treffen fanden in Häusern statt, rund um einen Tisch. Vieles von dem, was wir heute sind, trägt noch immer diese Form."
+          ]
+        },
+        {
+          "heading": "Wachsen, ohne das Gesicht zu verlieren",
+          "body": [
+            "Mit der Zeit kamen neue Menschen, neue Sprachen und neue Geschichten hinzu — Italiener, Brasilianer und andere, die dieses Land zu ihrer Heimat gemacht haben.",
+            "Das Wachstum brachte Struktur mit sich, doch die Absicht bleibt: eine Gemeinschaft, in der jede Person beim Namen bekannt ist."
+          ]
+        },
+        {
+          "heading": "Heute",
+          "body": [
+            "Wir treffen uns wöchentlich in Fiume Veneto zum Gottesdienst, zum Bibelstudium und zum Gebet, mit Kleingruppen unter der Woche.",
+            "Diese Seite ist eine vorläufige Zusammenfassung: Die Leitung sammelt derzeit Daten, Zeugnisse und Fotografien, um die vollständige Geschichte zu erzählen."
+          ]
+        }
+      ]
+    },
+    "/sobre/nossa-visao": {
+      "eyebrow": "Über uns",
+      "title": "Unsere Vision",
+      "lead": "Zu sehen, wie Männer und Frauen dieser Region in Christus Vergebung, Bestimmung und eine Familie finden.",
+      "sections": [
+        {
+          "heading": "Wohin wir unterwegs sind",
+          "body": [
+            "Wir möchten eine Gemeinde sein, in der die Bibel ohne Abkürzungen gelehrt wird, in der das Gebet kein Programmpunkt ist und in der gegenseitige Fürsorge konkret ist.",
+            "Wir träumen von Kleingruppen, die über die ganze Gegend verteilt sind, jede von ihnen wie eine offene Tür für Nachbarn, Kollegen und Freunde."
+          ]
+        },
+        {
+          "heading": "Mission",
+          "body": [
+            "„Geht nun hin und macht zu Jüngern alle Völker“ ist keine Aufgabe für Spezialisten: Es ist die normale Lebensweise eines jeden, der erreicht wurde.",
+            "Deshalb investieren wir darin, Menschen auszubilden — nicht nur darin, Säle zu füllen."
+          ]
+        }
+      ],
+      "verse": {
+        "text": "Darum geht hin und macht zu Jüngern alle Völker … und lehrt sie, alles zu befolgen, was ich euch geboten habe.",
+        "ref": "Matthäus 28,19–20"
+      },
+      "cta": {
+        "label": "Ich möchte dieser Vision dienen"
+      }
+    },
+    "/sobre/lideranca": {
+      "eyebrow": "Über uns",
+      "title": "Leitung",
+      "lead": "Die Leitung existiert, um zu dienen, zu lehren und zu sorgen — niemals um über den Glauben eines anderen zu herrschen.",
+      "sections": [
+        {
+          "heading": "Wie wir Leitung verstehen",
+          "body": [
+            "Die Leiter dieser Gemeinschaft sind Pastoren, Älteste und Diakone, die sich zuerst vor Gott und dann vor der Gemeinde verantworten, mit einem Leben, das offen für Prüfung ist.",
+            "Die Autorität, die sie ausüben, ist die des Wortes, nicht der Persönlichkeit. Wo die Schrift nicht spricht, wird das Gewissen jedes Gläubigen respektiert."
+          ]
+        },
+        {
+          "heading": "Team",
+          "body": [
+            "Die Namen, Funktionen und Fotografien des pastoralen und diakonischen Teams werden hier veröffentlicht, sobald die Leitung diese Seite freigegeben hat.",
+            "Bis dahin können Sie nach dem Gottesdienst mit jedem aus dem Team sprechen oder uns über das Kontaktformular schreiben."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Mit der Leitung sprechen"
+      }
+    },
+    "/sobre/valores": {
+      "eyebrow": "Über uns",
+      "title": "Werte",
+      "lead": "Vier Säulen tragen alles, was wir tun: Bibel, Christus, Agape und Mission.",
+      "sections": [
+        {
+          "heading": "Bibel",
+          "body": [
+            "Die Heilige Schrift ist unsere letzte Autorität in Fragen des Glaubens und des Lebens. Wir lehren Texte, nicht nur Themen."
+          ]
+        },
+        {
+          "heading": "Christus",
+          "body": [
+            "Jesus ist der Mittelpunkt: Die Errettung geschieht aus Gnade, durch den Glauben an ihn, und nicht durch unser Verdienst."
+          ]
+        },
+        {
+          "heading": "Agape",
+          "body": [
+            "Die brüderliche Liebe ist das sichtbare Kennzeichen der Jünger. Wir üben sie in Gastfreundschaft, Vergebung und konkreter Hilfe."
+          ]
+        },
+        {
+          "heading": "Mission",
+          "body": [
+            "Wir sind gesandt zur Arbeit, zur Schule, zur Nachbarschaft. Die Mission beginnt vor der eigenen Haustür."
+          ]
+        },
+        {
+          "heading": "Freiheit im Nebensächlichen",
+          "body": [
+            "Festigkeit im Wesentlichen, Freiheit im Nebensächlichen, Liebe in allem — so lehrt uns Römer 14, mit denen zu leben, die anders denken."
+          ]
+        }
+      ],
+      "verse": {
+        "text": "Das ist mein Gebot, dass ihr einander liebt, wie ich euch geliebt habe.",
+        "ref": "Johannes 15,12"
+      }
+    },
+    "/vida-da-igreja/cultos": {
+      "eyebrow": "Gemeindeleben",
+      "title": "Gottesdienste",
+      "lead": "Der Sonntag ist der Tag, an dem sich die ganze Gemeinschaft versammelt. Kommen Sie, wie Sie sind.",
+      "sections": [
+        {
+          "heading": "Zeiten",
+          "body": [
+            "Sonntagsgottesdienst — 10:30 Uhr. Lobpreis, Gebet, Schriftlesung und Predigt der Bibel, mit anschließender Zeit der Gemeinschaft.",
+            "Bibelstudium — unter der Woche, zu einer im Terminkalender bekannt gegebenen Zeit. Gebetstreffen — wöchentlich, offen für alle."
+          ]
+        },
+        {
+          "heading": "Was Sie erwartet",
+          "body": [
+            "Etwa 90 Minuten: Lieder, Gebet, eine erklärte und angewendete Bibelstelle sowie Ankündigungen der Gemeinschaft.",
+            "Es gibt Platz für Kinder und jemanden, der bereitsteht, um Erstbesucher zu empfangen."
+          ]
+        },
+        {
+          "heading": "Wo",
+          "body": [
+            "Via Pontebbana 1, Fiume Veneto (PN), Italien. Parkplatz vor Ort."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Den vollständigen Terminkalender ansehen"
+      }
+    },
+    "/vida-da-igreja/ministerios": {
+      "eyebrow": "Gemeindeleben",
+      "title": "Dienste",
+      "lead": "Dienstbereiche, in denen die Gaben jeder Person einen konkreten Platz finden.",
+      "sections": [
+        {
+          "heading": "Lobpreis",
+          "body": [
+            "Musiker und Sänger, die den wöchentlichen Gottesdienst mit Proben und Gebet vorbereiten."
+          ]
+        },
+        {
+          "heading": "Kinder und Jugendliche",
+          "body": [
+            "Altersgerechte biblische Unterweisung, mit geschulten Teams und Aufmerksamkeit für die Sicherheit."
+          ]
+        },
+        {
+          "heading": "Empfang",
+          "body": [
+            "Wer an der Tür empfängt, erklärt, was geschehen wird, und stellt sicher, dass niemand geht, ohne mit jemandem gesprochen zu haben."
+          ]
+        },
+        {
+          "heading": "Soziale Arbeit und Missionen",
+          "body": [
+            "Unterstützung von Familien in Not und Partnerschaften mit missionarischen Werken innerhalb und außerhalb Italiens."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Ich möchte mitarbeiten"
+      }
+    },
+    "/vida-da-igreja/pequenos-grupos": {
+      "eyebrow": "Gemeindeleben",
+      "title": "Kleingruppen",
+      "lead": "Unter der Woche, in Häusern: aufgeschlagene Bibel, Gebet und geteiltes Leben in kleinen Gruppen.",
+      "sections": [
+        {
+          "heading": "Warum es sie gibt",
+          "body": [
+            "Am Sonntag hören wir gemeinsam zu; in der Kleingruppe antworten wir gemeinsam. Dort finden Fragen Platz, und dort wird die Fürsorge praktisch.",
+            "Jede Gruppe besteht aus 6 bis 12 Personen und einem verantwortlichen Ehepaar oder Leiter."
+          ]
+        },
+        {
+          "heading": "Wie man beitritt",
+          "body": [
+            "Sagen Sie uns, in welchem Gebiet Sie wohnen und welcher Tag für Sie möglich ist — wir nennen Ihnen die nächstgelegene Gruppe."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Ich möchte einer Gruppe beitreten"
+      }
+    },
+    "/vida-da-igreja/voluntariado": {
+      "eyebrow": "Gemeindeleben",
+      "title": "Ehrenamt",
+      "lead": "Jede Person hat etwas empfangen, um es weiterzugeben. Hier gibt es einen Platz für Ihre Gabe.",
+      "sections": [
+        {
+          "heading": "Wo Sie helfen können",
+          "body": [
+            "Empfang, Lobpreis, Ton und Projektion, Kinder, Café und Reinigung, Fahrdienst für Senioren, Kommunikation und soziale Unterstützung.",
+            "Erfahrung ist nicht nötig: Es gibt immer jemanden, der die ersten Schritte begleitet."
+          ]
+        },
+        {
+          "heading": "Wie Sie beginnen",
+          "body": [
+            "Füllen Sie das Formular „Ich möchte dazugehören“ aus und geben Sie Ihren Interessenbereich an. Jemand aus dem Team nimmt Kontakt mit Ihnen auf."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Ich möchte mich anmelden"
+      }
+    },
+    "/vida-da-igreja/eventos": {
+      "eyebrow": "Gemeindeleben",
+      "title": "Veranstaltungen",
+      "lead": "Taufen, Abendmahlsfeiern, Gemeinschaftsessen, Familien- und Jugendtreffen, Konferenzen.",
+      "sections": [
+        {
+          "heading": "Der Rhythmus des Jahres",
+          "body": [
+            "Im Laufe des Jahres gestalten wir Momente, die die Gemeinschaft über den Sonntag hinaus zusammenbringen: Taufen durch Untertauchen, Feiern des Abendmahls, Agape-Mahlzeiten und Treffen für Familien und Jugendliche.",
+            "Jede Veranstaltung ist offen für Gäste — jemanden mitzubringen ist immer willkommen."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Nächste Termine im Kalender"
+      }
+    },
+    "/conteudos/pregacoes": {
+      "eyebrow": "Inhalte",
+      "title": "Predigten",
+      "lead": "Die Sonntagsbotschaften, um sie erneut zu hören oder mit jemandem zu teilen.",
+      "sections": [
+        {
+          "heading": "Archiv",
+          "body": [
+            "Wir organisieren gerade das Audioarchiv der in der Gemeinde gepredigten Reihen, nach Bibelbuch und Datum.",
+            "In der Zwischenzeit können Sie über das Kontaktformular eine bestimmte Botschaft anfragen, und wir senden Ihnen die Datei."
+          ]
+        },
+        {
+          "heading": "Wie wir das Wort verwenden",
+          "body": [
+            "Wir predigen Text für Text und versuchen zu sagen, was die Stelle sagt — nicht, was wir gerne hätten, dass sie sagt."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Eine Predigt anfragen"
+      }
+    },
+    "/conteudos/videos": {
+      "eyebrow": "Inhalte",
+      "title": "Videos",
+      "lead": "Aufgezeichnete Gottesdienste, Zeugnisse und kurze Videos über den Glauben.",
+      "sections": [
+        {
+          "heading": "Kanal der Gemeinschaft",
+          "body": [
+            "Die Videos der Gottesdienste und Veranstaltungen werden hier und auf dem Kanal der Gemeinde veröffentlicht.",
+            "Wenn Sie bei der Aufnahme und dem Schnitt helfen möchten, wächst das Kommunikationsteam."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Bei der Kommunikation helfen"
+      }
+    },
+    "/conteudos/devocionais": {
+      "eyebrow": "Inhalte",
+      "title": "Andachten",
+      "lead": "Kurze Texte, um den Tag mit einer Bibelstelle und einem Gebet zu beginnen.",
+      "sections": [
+        {
+          "heading": "Eine Gewohnheit, keine Leistung",
+          "body": [
+            "Fünf Minuten mit aufgeschlagener Bibel sind mehr wert als eine geplante, aber nie eingehaltene Stunde. Die hier veröffentlichten Andachten sind bewusst einfach gehalten.",
+            "Jeder Text enthält die Bibelstelle, zwei oder drei Sätze zur Anwendung und ein kurzes Gebet."
+          ]
+        },
+        {
+          "heading": "Per E-Mail erhalten",
+          "body": [
+            "Bald können Sie die wöchentliche Andacht per E-Mail erhalten. Hinterlassen Sie Ihre Kontaktdaten, und wir informieren Sie, sobald es startet."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Meine Kontaktdaten hinterlassen"
+      }
+    },
+    "/conteudos/estudos": {
+      "eyebrow": "Inhalte",
+      "title": "Studien",
+      "lead": "Material, um die Bibel allein, in der Familie oder in der Kleingruppe zu studieren.",
+      "sections": [
+        {
+          "heading": "Verfügbare Reihen",
+          "body": [
+            "Wir bereiten Studienleitfäden über das Johannesevangelium, die Apostelgeschichte und die grundlegenden Lehren des christlichen Glaubens vor.",
+            "Jeder Leitfaden enthält Fragen zur Beobachtung, Auslegung und Anwendung — gedacht, um im Gespräch verwendet zu werden, nicht im Stillen."
+          ]
+        },
+        {
+          "heading": "Für Gruppenleiter",
+          "body": [
+            "Wer eine Kleingruppe leitet, erhält zusätzlich Begleitnotizen und Vorschläge zum Ablauf für jedes Treffen."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Einer Kleingruppe beitreten"
+      }
+    },
+    "/conteudos/testemunhos": {
+      "eyebrow": "Inhalte",
+      "title": "Zeugnisse",
+      "lead": "Geschichten realer Menschen, die Gnade gefunden haben — und weiterhin unterwegs sind.",
+      "sections": [
+        {
+          "heading": "Warum wir erzählen",
+          "body": [
+            "Ein Zeugnis ist kein zur Schau gestelltes perfektes Leben: Es ist die konkrete Erinnerung an das, was Gott getan hat, erzählt, um jene zu ermutigen, die sich noch mitten im Kampf befinden.",
+            "Wir veröffentlichen nur mit Zustimmung der erzählenden Person, zu ihrem eigenen Zeitpunkt."
+          ]
+        },
+        {
+          "heading": "Ihres teilen",
+          "body": [
+            "Wenn Sie erzählen möchten, was Gott in Ihrem Leben getan hat, schreiben Sie uns. Wir können es als Text oder Video veröffentlichen, mit Namen oder anonym."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Meine Geschichte erzählen"
+      }
+    }
+  },
+  "cards": {
+    "culto-de-domingo": {
+      "titleTop": "Anbetung &\nWort",
+      "titleMasked": "Sonntags-\ngottesdienst.",
+      "year": "Sonntag, 10:30 Uhr",
+      "location": "Via Pontebbana 1, Fiume Veneto",
+      "description": "Das zentrale Treffen der Woche: Lobpreis, Gebet und die Predigt des Wortes. Ein schlichter Gottesdienst, offen für alle — wenn es Ihr erstes Mal ist, kommen Sie einfach; eine Anmeldung ist nicht nötig."
+    },
+    "estudo-biblico": {
+      "titleTop": "Lehre der\nApostel",
+      "titleMasked": "Bibel-\nstudium.",
+      "year": "Mittwoch, 20:30 Uhr",
+      "location": "Gemeindezentrum und Häuser",
+      "description": "Wir studieren die Bibel als Autorität und Quelle der Wahrheit für Glauben und Lebensführung. Eine Zeit aufmerksamer Lektüre, ehrlicher Fragen und Anwendung auf das reale Leben, gemäß Apostelgeschichte 2,42."
+    },
+    "oracao": {
+      "titleTop": "Gemeinsam vor\nGott",
+      "titleMasked": "Gebets-\ntreffen.",
+      "year": "Wöchentlich",
+      "location": "Gemeindezentrum",
+      "description": "Gebet für die Gemeinde, für die Stadt und für die Bedürfnisse jeder Familie. Ein Ort, an dem niemand die richtigen Worte finden muss — nur den Wunsch, gemeinsam mit anderen vor Gott zu stehen."
+    },
+    "ceia-do-senhor": {
+      "titleTop": "Brot &\nWein",
+      "titleMasked": "Abendmahl\ndes Herrn.",
+      "year": "Monatlich",
+      "location": "Im Gottesdienst",
+      "description": "Wir brechen das Brot und teilen den Wein zum Gedenken an das Opfer Christi. Es ist kein schmückendes Ritual: Es ist der Mittelpunkt unseres Glaubens, gemeinsam erinnert."
+    },
+    "batismo": {
+      "titleTop": "Öffentliches\nZeugnis",
+      "titleMasked": "Taufe durch\nUntertauchen.",
+      "year": "Das ganze Jahr über",
+      "location": "Nach Vereinbarung",
+      "description": "Wir glauben an die Taufe von Erwachsenen, aus persönlicher Entscheidung und durch Untertauchen, als öffentliches Zeugnis eines bereits lebendigen Glaubens. Wer diesen Schritt gehen möchte, wird zuvor durch Gespräch und Unterweisung begleitet."
+    },
+    "missao": {
+      "titleTop": "Gehen, predigen,\nJünger machen",
+      "titleMasked": "Mission &\nEvangelium.",
+      "year": "Das ganze Jahr",
+      "location": "Fiume Veneto und Umgebung",
+      "description": "Dem Auftrag Jesu in Matthäus 28,19–20 zu gehorchen, ist Teil unserer Identität. Wir sind auf der Straße, in den Häusern und bei Treffen in der Region unterwegs, mit Aktionen und Veranstaltungen, die der ganzen Stadt offenstehen."
+    },
+    "comunhao": {
+      "titleTop": "Brüderliche\nLiebe",
+      "titleMasked": "Gemeinschaft\n& Agape.",
+      "year": "Regelmäßig",
+      "location": "Häuser der Gemeinschaft",
+      "description": "Agape ist selbstlose, brüderliche und grenzenlose Liebe — deshalb trägt diese Gemeinde ihren Namen. Gemeinsame Mahlzeiten, praktische Fürsorge und Freundschaft, die nicht endet, wenn der Gottesdienst vorbei ist."
+    },
+    "familias": {
+      "titleTop": "Kinder &\nFamilien",
+      "titleMasked": "Familien\nim Glauben.",
+      "year": "Während des Gottesdienstes",
+      "location": "Kinderraum",
+      "description": "Altersgerechte biblische Unterweisung in einer sicheren und einladenden Umgebung, während die Eltern am Gottesdienst teilnehmen. Wir unterstützen Familien bei der Glaubensbildung zu Hause, nicht nur am Sonntag."
+    },
+    "jovens": {
+      "titleTop": "Überzeugung\nohne Gleichförmigkeit",
+      "titleMasked": "Jugend\n& Fragen.",
+      "year": "Monatlich",
+      "location": "Gemeindezentrum",
+      "description": "Ein Raum für Jugendliche und junge Erwachsene, um echte Fragen zu stellen. Fest im Wesentlichen, frei im Nebensächlichen (Römer 14), und alles verbunden mit der Liebe."
+    }
+  }
+}

@@ -1,0 +1,740 @@
+{
+  "ui": {
+    "common": {
+      "enter": "Accedi",
+      "panel": "Pannello",
+      "openMenu": "Apri menu",
+      "closeMenu": "Chiudi menu",
+      "menu": "Menu",
+      "loading": "Caricamento…",
+      "sending": "Invio…",
+      "or": "oppure",
+      "logoAria": "Chiesa Evangelica Agape — home",
+      "footerNav": "Piè di pagina",
+      "language": "Lingua"
+    },
+    "hero": {
+      "eyebrow": "Chiesa Evangelica Agape · Fiume Veneto",
+      "titleLine1": "Amati",
+      "titleLine2": "per amare.",
+      "lead": "Una comunità cristiana centrata sulla Bibbia, su Cristo, sull'agape e sulla missione.",
+      "ctaJoin": "Voglio farne parte",
+      "ctaServices": "Orari dei culti"
+    },
+    "home": {
+      "introTitleLine1": "Bibbia, Cristo,",
+      "introTitleLine2": "Agape, Missione",
+      "intro1": "Siamo una comunità cristiana evangelica a Fiume Veneto, in provincia di Pordenone. Non ci definiamo per un edificio o per un programma, ma per persone che credono in Gesù Cristo come Salvatore e desiderano seguire la volontà di Dio.",
+      "intro2": "«Agape» non è solo il nome di questa chiesa: è l'amore disinteressato, fraterno e immenso che Cristo ci ha comandato — amare Dio e amare il prossimo. Per questo tutto ciò che facciamo passa attraverso la comunione, l'insegnamento biblico, la preghiera e la missione.",
+      "introCta": "Cosa crediamo",
+      "pillars": [
+        {
+          "title": "Bibbia",
+          "text": "Le Scritture sono la nostra autorità. Insegniamo testo per testo, senza scorciatoie."
+        },
+        {
+          "title": "Cristo",
+          "text": "La salvezza è per grazia, mediante la fede in Gesù — non per nostro merito."
+        },
+        {
+          "title": "Agape",
+          "text": "L'amore fraterno è il segno visibile dei discepoli: ospitalità, perdono, aiuto concreto."
+        },
+        {
+          "title": "Missione",
+          "text": "Siamo mandati sul lavoro, a scuola, nel vicinato. Comincia sulla soglia di casa."
+        }
+      ],
+      "finalTitle": "Domenica, ore 10:30. Vieni come sei.",
+      "finalText": "Via Pontebbana 1 — 33080 Fiume Veneto (PN), Italia. Se preferisci avvisare prima, scrivici: qualcuno ti aspetterà alla porta.",
+      "finalCtaJoin": "Voglio farne parte",
+      "finalCtaAgenda": "Vedi l'agenda"
+    },
+    "faith": {
+      "title": "La Nostra Fede",
+      "lead": "Ciò che crediamo, in linguaggio semplice. Non sono formule da memorizzare: è ciò che sostiene la vita di questa comunità, e siamo disponibili a parlarne con chiunque voglia capire meglio.",
+      "versesTitle": "Testi che ci guidano",
+      "cta": "Ho una domanda",
+      "beliefs": [
+        {
+          "title": "Le Scritture",
+          "text": "La Bibbia è l'autorità e la fonte di verità per la fede e la condotta. Nulla di ciò che insegniamo può contraddirla."
+        },
+        {
+          "title": "Dio",
+          "text": "Un solo Dio, Creatore, eterno, rivelato come Padre, Figlio e Spirito Santo."
+        },
+        {
+          "title": "Gesù Cristo",
+          "text": "Divino e umano: nascita verginale, vita senza peccato, crocifissione e risurrezione. La salvezza viene dalla sua opera."
+        },
+        {
+          "title": "Spirito Santo",
+          "text": "Ricevuto nel pentimento e nella fede in Gesù come Salvatore e Signore, dando vita e forza alla chiesa."
+        },
+        {
+          "title": "Salvezza",
+          "text": "Per grazia, mediante la fede in Gesù Cristo, con pentimento e trasformazione reale della vita."
+        },
+        {
+          "title": "La Chiesa",
+          "text": "Distinguiamo la Chiesa universale — tutti coloro che sono di Cristo — dalle chiese locali, come questa comunità."
+        },
+        {
+          "title": "Battesimo",
+          "text": "Di adulti, per scelta personale e per immersione, come testimonianza pubblica della fede."
+        },
+        {
+          "title": "Cena del Signore",
+          "text": "Pane e vino, in memoria del sacrificio di Cristo, condivisi in comunità."
+        },
+        {
+          "title": "Essenziale e non essenziale",
+          "text": "Fermezza nell'essenziale e libertà nelle questioni secondarie (Romani 14), con tutte le convinzioni legate all'amore."
+        }
+      ],
+      "verses": [
+        {
+          "ref": "Atti 2:42",
+          "text": "Insegnamento, comunione, frazione del pane e preghiera."
+        },
+        {
+          "ref": "Matteo 22:38–40",
+          "text": "Amare Dio e amare il prossimo."
+        },
+        {
+          "ref": "Giovanni 15:12",
+          "text": "Che vi amiate gli uni gli altri, come io vi ho amati."
+        },
+        {
+          "ref": "Matteo 28:19–20",
+          "text": "Andate, fate discepoli, battezzandoli e insegnando loro."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Parla con la chiesa",
+      "lead": "Vuoi visitarci di domenica, chiedere preghiera, fissare un colloquio o semplicemente capire meglio ciò che crediamo? Scrivici — rispondiamo con la cura che vorremmo ricevere.",
+      "addressLabel": "Indirizzo",
+      "meetingsLabel": "Incontri",
+      "contactLabel": "Contatto",
+      "meeting1": "Domenica, ore 10:30 — culto",
+      "meeting2": "Mercoledì, ore 20:30 — studio biblico",
+      "thanks": "Grazie! Ti risponderemo a breve.",
+      "required": "(obbligatorio)",
+      "firstName": "Nome",
+      "lastName": "Cognome",
+      "email": "E-mail",
+      "subject": "Oggetto",
+      "message": "Messaggio",
+      "submit": "Invia"
+    },
+    "agenda": {
+      "eyebrow": "Agenda",
+      "title": "Prossimi incontri",
+      "lead": "Culti, studi, preghiera ed eventi speciali. Tutti gli incontri sono aperti — porta chi vuoi.",
+      "loading": "Caricamento dell'agenda…",
+      "empty": "Nessun incontro pubblicato al momento. Il culto della domenica si tiene sempre alle 10:30.",
+      "featured": "in evidenza",
+      "cta": "Invia una richiesta di preghiera"
+    },
+    "prayer": {
+      "eyebrow": "Richiesta di Preghiera",
+      "title": "Possiamo pregare per te?",
+      "lead": "Nessuna richiesta è troppo piccola. Il team pastorale prega per ogni messaggio ricevuto — e, se preferisci, la tua richiesta resta riservata solo alla leadership.",
+      "sentTitle": "Abbiamo ricevuto la tua richiesta.",
+      "sentText": "Pregheremo. Se hai lasciato l'e-mail, qualcuno del team potrà scriverti per seguirti da vicino.",
+      "name": "Nome",
+      "emailOptional": "E-mail (facoltativa)",
+      "request": "La tua richiesta",
+      "confidential": "Mantieni riservato — solo la leadership vedrà questa richiesta.",
+      "submit": "Invia richiesta",
+      "error": "Non è stato possibile inviare la richiesta. Riprova."
+    },
+    "join": {
+      "eyebrow": "Voglio Farne Parte",
+      "title": "C'è posto per te qui.",
+      "lead": "Dicci solo da dove vuoi iniziare. Qualcuno del team ti contatterà e ti accompagnerà nei primi passi — senza fretta e senza impegno.",
+      "sentTitle": "Iscrizione ricevuta.",
+      "sentText": "Grazie per aver fatto questo passo. Ti contatteremo a breve all'e-mail che hai lasciato.",
+      "name": "Nome completo",
+      "email": "E-mail",
+      "phone": "Telefono (facoltativo)",
+      "message": "Vuoi raccontarci qualcosa? (facoltativo)",
+      "submit": "Invia iscrizione",
+      "error": "Non è stato possibile inviare. Riprova.",
+      "interests": [
+        "Visitare un culto",
+        "Entrare in un piccolo gruppo",
+        "Servire in un ministero",
+        "Battesimo",
+        "Parlare con la leadership"
+      ]
+    },
+    "donations": {
+      "eyebrow": "Donazioni",
+      "title": "Contribuire con gioia.",
+      "lead": "Tutto ciò che riceviamo sostiene l'insegnamento della Parola, la cura delle famiglie, l'azione sociale e la missione. Ogni contributo è volontario — «Dio ama chi dona con gioia».",
+      "howTitle": "Come contribuire",
+      "how1": "Puoi consegnare la tua offerta di persona durante il culto della domenica, oppure con bonifico bancario sul conto della comunità.",
+      "how2": "I dati bancari (IBAN e intestatario) saranno pubblicati qui dopo l'approvazione della leadership. Fino ad allora, richiedili tramite il modulo di contatto e te li invieremo in modo sicuro.",
+      "whereTitle": "Dove va",
+      "where": [
+        "Insegnamento, materiali biblici e formazione dei responsabili.",
+        "Sostegno alle famiglie della comunità e del vicinato in difficoltà.",
+        "Spazio d'incontro, energia e manutenzione.",
+        "Missioni e collaborazioni dentro e fuori l'Italia."
+      ],
+      "transparencyTitle": "Trasparenza",
+      "transparencyText": "I conti vengono presentati periodicamente alla comunità. Qualsiasi membro può chiedere chiarimenti alla leadership.",
+      "cta": "Richiedere i dati bancari"
+    },
+    "auth": {
+      "loginTitle": "Accedi",
+      "signupTitle": "Crea account",
+      "resetTitle": "Recupera password",
+      "loginLead": "Area riservata a membri, responsabili e pastori della comunità.",
+      "signupLead": "Crea il tuo account per seguire da vicino la vita della chiesa.",
+      "resetLead": "Indica la tua e-mail e ti invieremo un link per impostare una nuova password.",
+      "fullName": "Nome completo",
+      "email": "E-mail",
+      "password": "Password",
+      "wait": "Attendere…",
+      "loginSubmit": "Accedi",
+      "signupSubmit": "Crea account",
+      "resetSubmit": "Invia link",
+      "google": "Accedi con Google",
+      "forgot": "Ho dimenticato la password",
+      "noAccount": "Non ho ancora un account",
+      "backToLogin": "Torna al login",
+      "signupOk": "Account creato. Controlla la tua e-mail per confermare.",
+      "resetOk": "Abbiamo inviato un link di recupero alla tua e-mail.",
+      "genericError": "Non è stato possibile completare l'operazione.",
+      "googleError": "Non è stato possibile accedere con Google."
+    },
+    "dashboard": {
+      "roleMembro": "Membro",
+      "roleLider": "Responsabile",
+      "rolePastor": "Pastore",
+      "areaPrefix": "Area",
+      "areaFallback": "riservata",
+      "greeting": "Ciao",
+      "leadPastor": "Visione pastorale della comunità: richieste di preghiera, nuovi interessati e agenda.",
+      "leadLider": "Pannello di leadership: segui richieste, iscrizioni e l'agenda degli incontri.",
+      "leadMembro": "Il tuo spazio nella comunità: agenda, richieste di preghiera e vita della chiesa.",
+      "signOut": "Esci",
+      "prayerCta": "Invia richiesta di preghiera",
+      "eventsTitle": "Prossimi incontri",
+      "eventsEmpty": "Nessun incontro programmato al momento.",
+      "prayersTitle": "Richieste di preghiera",
+      "prayersEmpty": "Nessuna richiesta al momento.",
+      "confidentialRequest": "Richiesta riservata",
+      "communityTitle": "Camminare in comunità",
+      "communityText": "Entra in un piccolo gruppo, servi in un ministero o parla con la leadership. La vita della chiesa si svolge durante la settimana, non solo la domenica.",
+      "linkGroups": "Piccoli gruppi",
+      "linkVolunteer": "Volontariato",
+      "linkStudies": "Studi biblici",
+      "membersTitle": "Chi vuole farne parte",
+      "membersEmpty": "Nessuna iscrizione al momento.",
+      "interestLabel": "Interesse",
+      "pastorNoteTitle": "Nota pastorale",
+      "pastorNoteText": "Come pastore, vedi tutte le richieste e le iscrizioni della comunità e puoi creare o modificare gli eventi dell'agenda. I ruoli di ciascuna persona sono gestiti alla base della comunità."
+    },
+    "project": {
+      "notFound": "Pagina non trovata",
+      "back": "Torna alla home",
+      "home": "Home",
+      "when": "Quando",
+      "where": "Dove",
+      "alsoSee": "Vedi anche"
+    },
+    "notFound": {
+      "title": "Pagina non trovata",
+      "text": "Questa pagina non esiste o è stata spostata. Torna alla home e continua da lì.",
+      "cta": "Torna alla home"
+    },
+    "footer": {
+      "community": "Comunità",
+      "address": "Via Pontebbana 1 — 33080 Fiume Veneto (PN), Italia",
+      "services": "Culto della domenica alle 10:30 — tutti sono benvenuti"
+    }
+  },
+  "nav": {
+    "/": "Home",
+    "Sobre": "Chi Siamo",
+    "/sobre/quem-somos": "Chi Siamo",
+    "/sobre/nossa-historia": "La Nostra Storia",
+    "/sobre/nossa-visao": "La Nostra Visione",
+    "/sobre/lideranca": "Leadership",
+    "/sobre/valores": "Valori",
+    "Vida da Igreja": "Vita della Chiesa",
+    "/vida-da-igreja/cultos": "Culti",
+    "/vida-da-igreja/ministerios": "Ministeri",
+    "/vida-da-igreja/pequenos-grupos": "Piccoli Gruppi",
+    "/vida-da-igreja/voluntariado": "Volontariato",
+    "/vida-da-igreja/eventos": "Eventi",
+    "Conteúdos": "Contenuti",
+    "/conteudos/pregacoes": "Predicazioni",
+    "/conteudos/videos": "Video",
+    "/conteudos/devocionais": "Devozionali",
+    "/conteudos/estudos": "Studi",
+    "/conteudos/testemunhos": "Testimonianze",
+    "/agenda": "Agenda",
+    "/pedido-de-oracao": "Richiesta di Preghiera",
+    "/quero-fazer-parte": "Voglio Farne Parte",
+    "/doacoes": "Donazioni",
+    "/contact": "Contatto"
+  },
+  "pages": {
+    "/sobre/quem-somos": {
+      "eyebrow": "Chi Siamo",
+      "title": "Chi Siamo",
+      "lead": "Siamo una comunità cristiana evangelica a Fiume Veneto, in provincia di Pordenone. Persone comuni che credono in Gesù Cristo e camminano insieme.",
+      "sections": [
+        {
+          "heading": "Una famiglia, non un edificio",
+          "body": [
+            "La chiesa non è l'edificio né il programma: sono le persone. Ci riuniamo per adorare Dio, imparare dalle Scritture, pregare e prenderci cura gli uni degli altri.",
+            "Chi arriva per la prima volta non ha bisogno di altro che della volontà di esserci. Non è richiesto un abbigliamento, un vocabolario o un passato particolare per entrare."
+          ]
+        },
+        {
+          "heading": "Perché «Agape»",
+          "body": [
+            "Agape è la parola greca per l'amore disinteressato che Cristo ci ha mostrato e ci ha comandato: amare Dio sopra ogni cosa e amare il prossimo come noi stessi.",
+            "Per questo, questo nome non descrive uno stile, ma un impegno — il criterio in base al quale vogliamo essere giudicati."
+          ]
+        }
+      ],
+      "verse": {
+        "text": "Ed erano perseveranti nell'insegnamento degli apostoli, nella comunione, nel rompere il pane e nelle preghiere.",
+        "ref": "Atti 2:42"
+      },
+      "cta": {
+        "label": "Vieni a trovarci di domenica"
+      }
+    },
+    "/sobre/nossa-historia": {
+      "eyebrow": "Chi Siamo",
+      "title": "La Nostra Storia",
+      "lead": "Una storia fatta di incontri semplici: case, tavole, Bibbie aperte e la decisione di continuare insieme.",
+      "sections": [
+        {
+          "heading": "L'inizio",
+          "body": [
+            "La comunità è nata dal desiderio di un piccolo gruppo di famiglie di avere un luogo dove la Parola fosse insegnata con chiarezza e dove nessuno restasse anonimo.",
+            "I primi incontri si tenevano nelle case, attorno a una tavola. Molto di ciò che siamo oggi conserva ancora quella forma."
+          ]
+        },
+        {
+          "heading": "Crescere senza perdere il volto",
+          "body": [
+            "Con il tempo sono arrivate nuove persone, nuove lingue e nuove storie — italiani, brasiliani e altri che hanno fatto di questa terra la loro casa.",
+            "Crescere ha portato struttura, ma l'intenzione rimane: una comunità dove ogni persona è conosciuta per nome."
+          ]
+        },
+        {
+          "heading": "Oggi",
+          "body": [
+            "Ci riuniamo settimanalmente a Fiume Veneto per il culto, lo studio biblico e la preghiera, con piccoli gruppi durante la settimana.",
+            "Questa pagina è un riassunto provvisorio: la leadership sta raccogliendo date, testimonianze e fotografie per raccontare la storia completa."
+          ]
+        }
+      ]
+    },
+    "/sobre/nossa-visao": {
+      "eyebrow": "Chi Siamo",
+      "title": "La Nostra Visione",
+      "lead": "Vedere uomini e donne di questa regione trovare in Cristo perdono, scopo e una famiglia.",
+      "sections": [
+        {
+          "heading": "Verso dove camminiamo",
+          "body": [
+            "Vogliamo essere una chiesa dove la Bibbia è insegnata senza scorciatoie, dove la preghiera non è una voce del programma e dove la cura reciproca è concreta.",
+            "Sogniamo piccoli gruppi diffusi nella zona, ognuno come una porta aperta verso vicini, colleghi e amici."
+          ]
+        },
+        {
+          "heading": "Missione",
+          "body": [
+            "«Andate dunque e fate discepoli di tutte le nazioni» non è un compito per specialisti: è il modo normale di vivere di chi è stato raggiunto.",
+            "Per questo investiamo nel formare persone — non solo nel riempire sale."
+          ]
+        }
+      ],
+      "verse": {
+        "text": "Andate dunque e fate discepoli di tutte le nazioni... insegnando loro a osservare tutte le cose che vi ho comandate.",
+        "ref": "Matteo 28:19-20"
+      },
+      "cta": {
+        "label": "Voglio servire in questa visione"
+      }
+    },
+    "/sobre/lideranca": {
+      "eyebrow": "Chi Siamo",
+      "title": "Leadership",
+      "lead": "La leadership esiste per servire, insegnare e prendersi cura — mai per dominare la fede di nessuno.",
+      "sections": [
+        {
+          "heading": "Come intendiamo la leadership",
+          "body": [
+            "I responsabili di questa comunità sono pastori, anziani e diaconi che rispondono prima a Dio e poi alla chiesa, con vite aperte allo scrutinio.",
+            "L'autorità che esercitano è quella della Parola, non della personalità. Dove la Scrittura non parla, la coscienza di ogni credente è rispettata."
+          ]
+        },
+        {
+          "heading": "Il team",
+          "body": [
+            "I nomi, i ruoli e le fotografie del team pastorale e diaconale saranno pubblicati qui non appena la leadership approverà questa pagina.",
+            "Fino ad allora, puoi parlare con chiunque del team alla fine del culto o scriverci tramite il modulo di contatto."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Parlare con la leadership"
+      }
+    },
+    "/sobre/valores": {
+      "eyebrow": "Chi Siamo",
+      "title": "Valori",
+      "lead": "Quattro pilastri sostengono tutto ciò che facciamo: Bibbia, Cristo, Agape e Missione.",
+      "sections": [
+        {
+          "heading": "Bibbia",
+          "body": [
+            "Le Scritture sono la nostra autorità finale in materia di fede e di vita. Insegniamo testi, non solo temi."
+          ]
+        },
+        {
+          "heading": "Cristo",
+          "body": [
+            "Gesù è il centro: la salvezza è per grazia, mediante la fede in lui, e non per nostro merito."
+          ]
+        },
+        {
+          "heading": "Agape",
+          "body": [
+            "L'amore fraterno è il segno visibile dei discepoli. Lo pratichiamo con ospitalità, perdono e aiuto concreto."
+          ]
+        },
+        {
+          "heading": "Missione",
+          "body": [
+            "Siamo mandati sul lavoro, a scuola, nel vicinato. La missione comincia sulla soglia di casa."
+          ]
+        },
+        {
+          "heading": "Libertà nel non essenziale",
+          "body": [
+            "Fermezza nell'essenziale, libertà nell'accessorio, amore in ogni cosa — come Romani 14 ci insegna a vivere con chi pensa diversamente."
+          ]
+        }
+      ],
+      "verse": {
+        "text": "Questo è il mio comandamento: che vi amiate gli uni gli altri, come io ho amato voi.",
+        "ref": "Giovanni 15:12"
+      }
+    },
+    "/vida-da-igreja/cultos": {
+      "eyebrow": "Vita della Chiesa",
+      "title": "Culti",
+      "lead": "La domenica è il giorno in cui tutta la comunità si riunisce. Vieni come sei.",
+      "sections": [
+        {
+          "heading": "Orari",
+          "body": [
+            "Culto della domenica — ore 10:30. Lode, preghiera, lettura e predicazione della Bibbia, con un momento di comunione alla fine.",
+            "Studio biblico — durante la settimana, all'orario annunciato in agenda. Incontro di preghiera — settimanale, aperto a tutti."
+          ]
+        },
+        {
+          "heading": "Cosa aspettarsi",
+          "body": [
+            "Circa 90 minuti: canti, preghiera, un brano biblico spiegato e applicato, e comunicazioni della comunità.",
+            "C'è spazio per i bambini e qualcuno disponibile ad accogliere chi viene per la prima volta."
+          ]
+        },
+        {
+          "heading": "Dove",
+          "body": [
+            "Via Pontebbana 1, Fiume Veneto (PN), Italia. Parcheggio in loco."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Vedi l'agenda completa"
+      }
+    },
+    "/vida-da-igreja/ministerios": {
+      "eyebrow": "Vita della Chiesa",
+      "title": "Ministeri",
+      "lead": "Aree di servizio dove i doni di ciascuna persona trovano un posto concreto.",
+      "sections": [
+        {
+          "heading": "Lode",
+          "body": [
+            "Musicisti e cantanti che preparano il culto settimanale con prove e preghiera."
+          ]
+        },
+        {
+          "heading": "Bambini e adolescenti",
+          "body": [
+            "Insegnamento biblico adeguato a ogni età, con squadre formate e attenzione alla sicurezza."
+          ]
+        },
+        {
+          "heading": "Accoglienza",
+          "body": [
+            "Chi accoglie all'ingresso, spiega cosa accadrà e garantisce che nessuno vada via senza aver parlato con qualcuno."
+          ]
+        },
+        {
+          "heading": "Azione sociale e missioni",
+          "body": [
+            "Sostegno alle famiglie in difficoltà e collaborazioni con opere missionarie dentro e fuori l'Italia."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Voglio servire"
+      }
+    },
+    "/vida-da-igreja/pequenos-grupos": {
+      "eyebrow": "Vita della Chiesa",
+      "title": "Piccoli Gruppi",
+      "lead": "Durante la settimana, nelle case: Bibbia aperta, preghiera e vita condivisa in piccoli gruppi.",
+      "sections": [
+        {
+          "heading": "Perché esistono",
+          "body": [
+            "La domenica ascoltiamo insieme; nel piccolo gruppo rispondiamo insieme. È lì che le domande trovano spazio e la cura diventa pratica.",
+            "Ogni gruppo conta da 6 a 12 persone e una coppia o un responsabile."
+          ]
+        },
+        {
+          "heading": "Come entrare",
+          "body": [
+            "Dicci la zona dove vivi e il giorno che ti è possibile — ti indichiamo il gruppo più vicino."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Voglio entrare in un gruppo"
+      }
+    },
+    "/vida-da-igreja/voluntariado": {
+      "eyebrow": "Vita della Chiesa",
+      "title": "Volontariato",
+      "lead": "Ogni persona ha ricevuto qualcosa da dare. Qui c'è posto per il tuo dono.",
+      "sections": [
+        {
+          "heading": "Dove aiutare",
+          "body": [
+            "Accoglienza, lode, audio e proiezioni, bambini, caffè e pulizie, trasporto anziani, comunicazione e sostegno sociale.",
+            "Non serve esperienza: c'è sempre qualcuno che accompagna i primi passi."
+          ]
+        },
+        {
+          "heading": "Come iniziare",
+          "body": [
+            "Compila il modulo «Voglio farne parte» indicando l'area di interesse. Qualcuno del team ti contatterà."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Iscrivermi"
+      }
+    },
+    "/vida-da-igreja/eventos": {
+      "eyebrow": "Vita della Chiesa",
+      "title": "Eventi",
+      "lead": "Battesimi, cene, pranzi comunitari, incontri per famiglie e giovani, conferenze.",
+      "sections": [
+        {
+          "heading": "Il ritmo dell'anno",
+          "body": [
+            "Nel corso dell'anno fissiamo momenti che riuniscono la comunità oltre la domenica: battesimi per immersione, celebrazioni della Cena del Signore, pranzi di agape e incontri per famiglie e giovani.",
+            "Ogni evento è aperto agli ospiti — portare qualcuno è sempre benvenuto."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Prossime date in agenda"
+      }
+    },
+    "/conteudos/pregacoes": {
+      "eyebrow": "Contenuti",
+      "title": "Predicazioni",
+      "lead": "I messaggi della domenica, da riascoltare o condividere con qualcuno.",
+      "sections": [
+        {
+          "heading": "Archivio",
+          "body": [
+            "Stiamo organizzando l'archivio audio delle serie predicate in chiesa, per libro della Bibbia e per data.",
+            "Nel frattempo, puoi richiedere un messaggio specifico tramite il modulo di contatto e ti invieremo il file."
+          ]
+        },
+        {
+          "heading": "Come usiamo la Parola",
+          "body": [
+            "Predichiamo testo per testo, cercando di dire ciò che il brano dice — non ciò che vorremmo che dicesse."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Richiedere una predicazione"
+      }
+    },
+    "/conteudos/videos": {
+      "eyebrow": "Contenuti",
+      "title": "Video",
+      "lead": "Culti registrati, testimonianze e brevi video sulla fede.",
+      "sections": [
+        {
+          "heading": "Canale della comunità",
+          "body": [
+            "I video dei culti e degli eventi saranno pubblicati qui e sul canale della chiesa.",
+            "Se vuoi aiutare nelle riprese e nel montaggio, il team di comunicazione sta crescendo."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Aiutare nella comunicazione"
+      }
+    },
+    "/conteudos/devocionais": {
+      "eyebrow": "Contenuti",
+      "title": "Devozionali",
+      "lead": "Testi brevi per iniziare la giornata con un brano e una preghiera.",
+      "sections": [
+        {
+          "heading": "Un'abitudine, non una prestazione",
+          "body": [
+            "Cinque minuti con la Bibbia aperta valgono più di un'ora programmata e mai realizzata. I devozionali qui pubblicati sono volutamente semplici.",
+            "Ogni testo riporta il brano, due o tre frasi di applicazione e una breve preghiera."
+          ]
+        },
+        {
+          "heading": "Ricevere via e-mail",
+          "body": [
+            "Presto potrai ricevere il devozionale settimanale via e-mail. Lasciaci il tuo contatto e ti avviseremo all'apertura."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Lasciare il mio contatto"
+      }
+    },
+    "/conteudos/estudos": {
+      "eyebrow": "Contenuti",
+      "title": "Studi",
+      "lead": "Materiale per studiare la Bibbia da soli, in famiglia o in un piccolo gruppo.",
+      "sections": [
+        {
+          "heading": "Serie disponibili",
+          "body": [
+            "Stiamo preparando guide di studio sul Vangelo di Giovanni, gli Atti degli Apostoli e le dottrine fondamentali della fede cristiana.",
+            "Ogni guida contiene domande di osservazione, interpretazione e applicazione — pensate per essere usate in conversazione, non in silenzio."
+          ]
+        },
+        {
+          "heading": "Per i responsabili di gruppo",
+          "body": [
+            "Chi conduce un piccolo gruppo riceve anche note di supporto e suggerimenti di ritmo per ogni incontro."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Entrare in un piccolo gruppo"
+      }
+    },
+    "/conteudos/testemunhos": {
+      "eyebrow": "Contenuti",
+      "title": "Testimonianze",
+      "lead": "Storie di persone reali che hanno trovato grazia — e continuano a camminare.",
+      "sections": [
+        {
+          "heading": "Perché raccontiamo",
+          "body": [
+            "Una testimonianza non è una vita perfetta esposta: è il ricordo concreto di ciò che Dio ha fatto, raccontato per incoraggiare chi è ancora nel mezzo della lotta.",
+            "Pubblichiamo solo con l'autorizzazione di chi racconta, nei tempi di ciascuna persona."
+          ]
+        },
+        {
+          "heading": "Condividi la tua",
+          "body": [
+            "Se vuoi raccontare cosa Dio ha fatto nella tua vita, scrivici. Possiamo pubblicare in testo o video, con il nome o in forma riservata."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Raccontare la mia storia"
+      }
+    }
+  },
+  "cards": {
+    "culto-de-domingo": {
+      "titleTop": "Adorazione &\nParola",
+      "titleMasked": "Culto della\nDomenica.",
+      "year": "Domenica, ore 10:30",
+      "location": "Via Pontebbana 1, Fiume Veneto",
+      "description": "L'incontro centrale della settimana: lode, preghiera e la predicazione della Parola. Un culto semplice e aperto a tutti — se è la tua prima volta, basta venire; non serve avvisare né iscriversi."
+    },
+    "estudo-biblico": {
+      "titleTop": "Insegnamento degli\nApostoli",
+      "titleMasked": "Studio\nBiblico.",
+      "year": "Mercoledì, ore 20:30",
+      "location": "Sede della chiesa e case",
+      "description": "Studiamo la Bibbia come autorità e fonte di verità per la fede e la condotta. Un tempo di lettura attenta, domande oneste e applicazione alla vita reale, seguendo Atti 2:42."
+    },
+    "oracao": {
+      "titleTop": "Insieme davanti\na Dio",
+      "titleMasked": "Incontro di\nPreghiera.",
+      "year": "Settimanale",
+      "location": "Sede della chiesa",
+      "description": "Preghiera per la chiesa, per la città e per le necessità di ogni famiglia. Uno spazio dove nessuno ha bisogno delle parole giuste — solo del desiderio di stare davanti a Dio con gli altri."
+    },
+    "ceia-do-senhor": {
+      "titleTop": "Pane &\nVino",
+      "titleMasked": "Cena del\nSignore.",
+      "year": "Mensile",
+      "location": "Durante il culto",
+      "description": "Spezziamo il pane e condividiamo il vino in memoria del sacrificio di Cristo. Non è un rito decorativo: è il centro della nostra fede ricordato in comunità."
+    },
+    "batismo": {
+      "titleTop": "Testimonianza\nPubblica",
+      "titleMasked": "Battesimo\nper Immersione.",
+      "year": "Durante l'anno",
+      "location": "Da concordare",
+      "description": "Crediamo nel battesimo degli adulti, per scelta personale e per immersione, come testimonianza pubblica di una fede già viva. Chi desidera compiere questo passo viene accompagnato prima con colloqui e insegnamento."
+    },
+    "missao": {
+      "titleTop": "Andare, predicare,\nfare discepoli",
+      "titleMasked": "Missione &\nVangelo.",
+      "year": "Tutto l'anno",
+      "location": "Fiume Veneto e dintorni",
+      "description": "Obbedire al mandato di Gesù in Matteo 28:19–20 fa parte della nostra identità. Siamo per strada, nelle case e negli incontri della regione, con azioni ed eventi aperti alla città."
+    },
+    "comunhao": {
+      "titleTop": "Amore\nFraterno",
+      "titleMasked": "Comunione\n& Agape.",
+      "year": "Regolare",
+      "location": "Case della comunità",
+      "description": "Agape è amore disinteressato, fraterno e immenso — ed è per questo il nome di questa chiesa. Pasti condivisi, cura pratica e amicizia che non finisce quando il culto termina."
+    },
+    "familias": {
+      "titleTop": "Bambini &\nFamiglie",
+      "titleMasked": "Famiglie\nnella Fede.",
+      "year": "Durante il culto",
+      "location": "Sala dei bambini",
+      "description": "Insegnamento biblico adeguato all'età, in un ambiente sicuro e accogliente, mentre i genitori partecipano al culto. Sosteniamo le famiglie nella formazione della fede a casa, non solo la domenica."
+    },
+    "jovens": {
+      "titleTop": "Convinzione\nsenza uniformità",
+      "titleMasked": "Giovani\n& Domande.",
+      "year": "Mensile",
+      "location": "Sede della chiesa",
+      "description": "Uno spazio per adolescenti e giovani adulti per portare dubbi reali. Fermi nell'essenziale, liberi in ciò che non lo è (Romani 14), e tutto legato all'amore."
+    }
+  }
+}

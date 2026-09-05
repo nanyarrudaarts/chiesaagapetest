@@ -1,0 +1,740 @@
+{
+  "ui": {
+    "common": {
+      "enter": "Sign in",
+      "panel": "Panel",
+      "openMenu": "Open menu",
+      "closeMenu": "Close menu",
+      "menu": "Menu",
+      "loading": "Loading…",
+      "sending": "Sending…",
+      "or": "or",
+      "logoAria": "Chiesa Evangelica Agape — home",
+      "footerNav": "Footer",
+      "language": "Language"
+    },
+    "hero": {
+      "eyebrow": "Chiesa Evangelica Agape · Fiume Veneto",
+      "titleLine1": "Loved",
+      "titleLine2": "to love.",
+      "lead": "A Christian community centered on the Bible, on Christ, on agape and on mission.",
+      "ctaJoin": "I want to join",
+      "ctaServices": "Service times"
+    },
+    "home": {
+      "introTitleLine1": "Bible, Christ,",
+      "introTitleLine2": "Agape, Mission",
+      "intro1": "We are an evangelical Christian community in Fiume Veneto, in the province of Pordenone. We are not defined by a building or a program, but by people who believe in Jesus Christ as Savior and desire to follow God's will.",
+      "intro2": "\"Agape\" is not just the name of this church: it is the selfless, brotherly and immense love that Christ commanded us — to love God and to love our neighbor. That is why everything we do passes through fellowship, biblical teaching, prayer and mission.",
+      "introCta": "What we believe",
+      "pillars": [
+        {
+          "title": "Bible",
+          "text": "Scripture is our authority. We teach text by text, without shortcuts."
+        },
+        {
+          "title": "Christ",
+          "text": "Salvation is by grace, through faith in Jesus — not by our own merit."
+        },
+        {
+          "title": "Agape",
+          "text": "Brotherly love is the visible mark of disciples: hospitality, forgiveness, concrete help."
+        },
+        {
+          "title": "Mission",
+          "text": "We are sent to work, to school, to the neighborhood. It begins at our own front door."
+        }
+      ],
+      "finalTitle": "Sunday, 10:30 am. Come as you are.",
+      "finalText": "Via Pontebbana 1 — 33080 Fiume Veneto (PN), Italy. If you'd rather let us know beforehand, write to us: someone will be waiting for you at the door.",
+      "finalCtaJoin": "I want to join",
+      "finalCtaAgenda": "See the calendar"
+    },
+    "faith": {
+      "title": "Our Faith",
+      "lead": "What we believe, in plain language. These are not formulas to memorize: this is what sustains the life of this community, and we are glad to talk with anyone who wants to understand it better.",
+      "versesTitle": "Verses that guide us",
+      "cta": "I have a question",
+      "beliefs": [
+        {
+          "title": "The Scriptures",
+          "text": "The Bible is the authority and the source of truth for faith and conduct. Nothing we teach can contradict it."
+        },
+        {
+          "title": "God",
+          "text": "One God, Creator, eternal, revealed as Father, Son and Holy Spirit."
+        },
+        {
+          "title": "Jesus Christ",
+          "text": "Divine and human: virgin birth, sinless life, crucifixion and resurrection. Salvation comes through his work."
+        },
+        {
+          "title": "Holy Spirit",
+          "text": "Received in repentance and faith in Jesus as Savior and Lord, giving life and strength to the church."
+        },
+        {
+          "title": "Salvation",
+          "text": "By grace, through faith in Jesus Christ, with repentance and real transformation of life."
+        },
+        {
+          "title": "The Church",
+          "text": "We distinguish the universal Church — all who belong to Christ — from local churches, such as this community."
+        },
+        {
+          "title": "Baptism",
+          "text": "Of adults, by personal choice and by immersion, as a public testimony of faith."
+        },
+        {
+          "title": "The Lord's Supper",
+          "text": "Bread and wine, in remembrance of Christ's sacrifice, shared in community."
+        },
+        {
+          "title": "Essential and non-essential",
+          "text": "Firmness on the essentials and freedom on secondary matters (Romans 14), with all convictions bound to love."
+        }
+      ],
+      "verses": [
+        {
+          "ref": "Acts 2:42",
+          "text": "Teaching, fellowship, the breaking of bread and prayer."
+        },
+        {
+          "ref": "Matthew 22:38–40",
+          "text": "Love God and love your neighbor."
+        },
+        {
+          "ref": "John 15:12",
+          "text": "Love one another as I have loved you."
+        },
+        {
+          "ref": "Matthew 28:19–20",
+          "text": "Go and make disciples, baptizing and teaching them."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Talk to the church",
+      "lead": "Want to visit us on Sunday, ask for prayer, set up a conversation or simply understand better what we believe? Write to us — we respond with the care we would like to receive.",
+      "addressLabel": "Address",
+      "meetingsLabel": "Meetings",
+      "contactLabel": "Contact",
+      "meeting1": "Sunday, 10:30 am — service",
+      "meeting2": "Wednesday, 8:30 pm — Bible study",
+      "thanks": "Thank you! We will get in touch soon.",
+      "required": "(required)",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send"
+    },
+    "agenda": {
+      "eyebrow": "Calendar",
+      "title": "Upcoming meetings",
+      "lead": "Services, studies, prayer and special events. All meetings are open — bring anyone you like.",
+      "loading": "Loading the calendar…",
+      "empty": "No meetings published for now. Sunday service always takes place at 10:30 am.",
+      "featured": "featured",
+      "cta": "Send a prayer request"
+    },
+    "prayer": {
+      "eyebrow": "Prayer Request",
+      "title": "Can we pray for you?",
+      "lead": "No request is too small. The pastoral team prays over every message received — and, if you prefer, your request stays private, seen only by the leadership.",
+      "sentTitle": "We received your request.",
+      "sentText": "We will pray. If you left your email, someone from the team may write to you to follow up closely.",
+      "name": "Name",
+      "emailOptional": "Email (optional)",
+      "request": "Your request",
+      "confidential": "Keep confidential — only the leadership will see this request.",
+      "submit": "Send request",
+      "error": "We could not send the request. Please try again."
+    },
+    "join": {
+      "eyebrow": "I Want to Join",
+      "title": "There is a place for you here.",
+      "lead": "Just tell us where you'd like to start. Someone from the team will get in touch and walk with you through the first steps — no rush, no obligation.",
+      "sentTitle": "Application received.",
+      "sentText": "Thank you for taking this step. We will get in touch soon at the email you provided.",
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone (optional)",
+      "message": "Want to tell us something? (optional)",
+      "submit": "Send application",
+      "error": "We could not send this. Please try again.",
+      "interests": [
+        "Visit a service",
+        "Join a small group",
+        "Serve in a ministry",
+        "Baptism",
+        "Talk with the leadership"
+      ]
+    },
+    "donations": {
+      "eyebrow": "Donations",
+      "title": "Giving with joy.",
+      "lead": "Everything we receive sustains the teaching of the Word, care for families, social action and mission. Every contribution is voluntary — \"God loves a cheerful giver.\"",
+      "howTitle": "How to give",
+      "how1": "You can bring your offering in person during the Sunday service, or by bank transfer to the community's account.",
+      "how2": "The bank details (IBAN and account holder) will be published here once approved by the leadership. Until then, ask for them through the contact form and we will send them securely.",
+      "whereTitle": "Where it goes",
+      "where": [
+        "Teaching, biblical resources and leadership training.",
+        "Support for families in the community and neighborhood in need.",
+        "Meeting space, utilities and maintenance.",
+        "Missions and partnerships within and beyond Italy."
+      ],
+      "transparencyTitle": "Transparency",
+      "transparencyText": "Accounts are presented periodically to the community. Any member may ask the leadership for clarification.",
+      "cta": "Request the bank details"
+    },
+    "auth": {
+      "loginTitle": "Sign in",
+      "signupTitle": "Create account",
+      "resetTitle": "Reset password",
+      "loginLead": "Area reserved for members, leaders and pastors of the community.",
+      "signupLead": "Create your account to follow the life of the church closely.",
+      "resetLead": "Enter your email and we will send you a link to set a new password.",
+      "fullName": "Full name",
+      "email": "Email",
+      "password": "Password",
+      "wait": "Please wait…",
+      "loginSubmit": "Sign in",
+      "signupSubmit": "Create account",
+      "resetSubmit": "Send link",
+      "google": "Sign in with Google",
+      "forgot": "Forgot password",
+      "noAccount": "I don't have an account yet",
+      "backToLogin": "Back to sign in",
+      "signupOk": "Account created. Check your email to confirm.",
+      "resetOk": "We sent a recovery link to your email.",
+      "genericError": "We could not complete this.",
+      "googleError": "We could not sign in with Google."
+    },
+    "dashboard": {
+      "roleMembro": "Member",
+      "roleLider": "Leader",
+      "rolePastor": "Pastor",
+      "areaPrefix": "Area",
+      "areaFallback": "reserved",
+      "greeting": "Hello",
+      "leadPastor": "Pastoral overview of the community: prayer requests, new interested people and calendar.",
+      "leadLider": "Leadership panel: track requests, applications and the calendar of meetings.",
+      "leadMembro": "Your space in the community: calendar, prayer requests and church life.",
+      "signOut": "Sign out",
+      "prayerCta": "Send a prayer request",
+      "eventsTitle": "Upcoming meetings",
+      "eventsEmpty": "No meetings scheduled for now.",
+      "prayersTitle": "Prayer requests",
+      "prayersEmpty": "No requests for now.",
+      "confidentialRequest": "Confidential request",
+      "communityTitle": "Walking in community",
+      "communityText": "Join a small group, serve in a ministry or talk with the leadership. The life of the church happens during the week, not only on Sunday.",
+      "linkGroups": "Small groups",
+      "linkVolunteer": "Volunteering",
+      "linkStudies": "Bible studies",
+      "membersTitle": "Who wants to join",
+      "membersEmpty": "No applications for now.",
+      "interestLabel": "Interest",
+      "pastorNoteTitle": "Pastoral note",
+      "pastorNoteText": "As a pastor, you see all the community's requests and applications and can create or edit calendar events. Each person's role is managed in the community's database."
+    },
+    "project": {
+      "notFound": "Page not found",
+      "back": "Back to home",
+      "home": "Home",
+      "when": "When",
+      "where": "Where",
+      "alsoSee": "Also see"
+    },
+    "notFound": {
+      "title": "Page not found",
+      "text": "This page does not exist or has been moved. Go back to the home page and continue from there.",
+      "cta": "Back to home"
+    },
+    "footer": {
+      "community": "Community",
+      "address": "Via Pontebbana 1 — 33080 Fiume Veneto (PN), Italy",
+      "services": "Sunday service at 10:30 am — everyone is welcome"
+    }
+  },
+  "nav": {
+    "/": "Home",
+    "Sobre": "About",
+    "/sobre/quem-somos": "Who We Are",
+    "/sobre/nossa-historia": "Our History",
+    "/sobre/nossa-visao": "Our Vision",
+    "/sobre/lideranca": "Leadership",
+    "/sobre/valores": "Values",
+    "Vida da Igreja": "Church Life",
+    "/vida-da-igreja/cultos": "Services",
+    "/vida-da-igreja/ministerios": "Ministries",
+    "/vida-da-igreja/pequenos-grupos": "Small Groups",
+    "/vida-da-igreja/voluntariado": "Volunteering",
+    "/vida-da-igreja/eventos": "Events",
+    "Conteúdos": "Content",
+    "/conteudos/pregacoes": "Sermons",
+    "/conteudos/videos": "Videos",
+    "/conteudos/devocionais": "Devotionals",
+    "/conteudos/estudos": "Studies",
+    "/conteudos/testemunhos": "Testimonies",
+    "/agenda": "Calendar",
+    "/pedido-de-oracao": "Prayer Request",
+    "/quero-fazer-parte": "I Want to Join",
+    "/doacoes": "Donations",
+    "/contact": "Contact"
+  },
+  "pages": {
+    "/sobre/quem-somos": {
+      "eyebrow": "About",
+      "title": "Who We Are",
+      "lead": "We are an evangelical Christian community in Fiume Veneto, in the province of Pordenone. Ordinary people who believe in Jesus Christ and walk together.",
+      "sections": [
+        {
+          "heading": "A family, not a building",
+          "body": [
+            "The church is not the building or the program: it is the people. We gather to worship God, learn from the Scriptures, pray and care for one another.",
+            "Anyone arriving for the first time needs nothing more than a willingness to be there. There is no required dress, vocabulary or past to enter."
+          ]
+        },
+        {
+          "heading": "Why \"Agape\"",
+          "body": [
+            "Agape is the Greek word for the selfless love that Christ showed us and commanded us to have: to love God above all and to love our neighbor as ourselves.",
+            "That is why this name does not describe a style, but a commitment — the standard by which we want to be measured."
+          ]
+        }
+      ],
+      "verse": {
+        "text": "And they devoted themselves to the apostles' teaching and fellowship, to the breaking of bread and the prayers.",
+        "ref": "Acts 2:42"
+      },
+      "cta": {
+        "label": "Visit us on a Sunday"
+      }
+    },
+    "/sobre/nossa-historia": {
+      "eyebrow": "About",
+      "title": "Our History",
+      "lead": "A story made of simple encounters: homes, tables, open Bibles and the decision to keep going together.",
+      "sections": [
+        {
+          "heading": "The beginning",
+          "body": [
+            "The community was born from the desire of a small group of families to have a place where the Word would be taught clearly and where no one would remain anonymous.",
+            "The first gatherings took place in homes, around a table. Much of who we are today still has that shape."
+          ]
+        },
+        {
+          "heading": "Growing without losing face",
+          "body": [
+            "Over time new people arrived, new languages and new stories — Italians, Brazilians and others who made this land their home.",
+            "Growth brought structure, but the intention remains: a community where every person is known by name."
+          ]
+        },
+        {
+          "heading": "Today",
+          "body": [
+            "We gather weekly in Fiume Veneto for worship, Bible study and prayer, with small groups meeting throughout the week.",
+            "This page is a provisional summary: the leadership is gathering dates, testimonies and photographs to tell the full story."
+          ]
+        }
+      ]
+    },
+    "/sobre/nossa-visao": {
+      "eyebrow": "About",
+      "title": "Our Vision",
+      "lead": "To see men and women of this region find in Christ forgiveness, purpose and a family.",
+      "sections": [
+        {
+          "heading": "Where we are heading",
+          "body": [
+            "We want to be a church where the Bible is taught without shortcuts, where prayer is not a program item, and where mutual care is concrete.",
+            "We dream of small groups spread throughout the area, each one functioning as an open door for neighbors, coworkers and friends."
+          ]
+        },
+        {
+          "heading": "Mission",
+          "body": [
+            "\"Go therefore and make disciples of all nations\" is not a task for specialists: it is the normal way of life for anyone who has been reached.",
+            "That is why we invest in forming people — not just filling rooms."
+          ]
+        }
+      ],
+      "verse": {
+        "text": "Go therefore and make disciples of all nations... teaching them to observe all that I have commanded you.",
+        "ref": "Matthew 28:19-20"
+      },
+      "cta": {
+        "label": "I want to serve this vision"
+      }
+    },
+    "/sobre/lideranca": {
+      "eyebrow": "About",
+      "title": "Leadership",
+      "lead": "Leadership exists to serve, teach and care — never to dominate anyone's faith.",
+      "sections": [
+        {
+          "heading": "How we understand leadership",
+          "body": [
+            "The leaders of this community are pastors, elders and deacons who answer first to God and then to the church, with lives open to scrutiny.",
+            "The authority they exercise is that of the Word, not of personality. Where Scripture does not speak, each believer's conscience is respected."
+          ]
+        },
+        {
+          "heading": "Team",
+          "body": [
+            "The names, roles and photographs of the pastoral and diaconal team will be published here as soon as the leadership approves this page.",
+            "Until then, you can speak with anyone on the team after the service or write to us through the contact form."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Talk with the leadership"
+      }
+    },
+    "/sobre/valores": {
+      "eyebrow": "About",
+      "title": "Values",
+      "lead": "Four pillars sustain everything we do: Bible, Christ, Agape and Mission.",
+      "sections": [
+        {
+          "heading": "Bible",
+          "body": [
+            "Scripture is our final authority in matters of faith and life. We teach texts, not just topics."
+          ]
+        },
+        {
+          "heading": "Christ",
+          "body": [
+            "Jesus is the center: salvation is by grace, through faith in him, and not by our own merit."
+          ]
+        },
+        {
+          "heading": "Agape",
+          "body": [
+            "Brotherly love is the visible mark of disciples. We practice it through hospitality, forgiveness and concrete help."
+          ]
+        },
+        {
+          "heading": "Mission",
+          "body": [
+            "We are sent to work, to school, to the neighborhood. Mission begins at our own front door."
+          ]
+        },
+        {
+          "heading": "Freedom on non-essentials",
+          "body": [
+            "Firmness on the essentials, freedom on secondary matters, love in everything — as Romans 14 teaches us to live with those who think differently."
+          ]
+        }
+      ],
+      "verse": {
+        "text": "This is my commandment: that you love one another, just as I have loved you.",
+        "ref": "John 15:12"
+      }
+    },
+    "/vida-da-igreja/cultos": {
+      "eyebrow": "Church Life",
+      "title": "Services",
+      "lead": "Sunday is the day when the whole community gathers. Come as you are.",
+      "sections": [
+        {
+          "heading": "Schedule",
+          "body": [
+            "Sunday service — 10:30 am. Worship, prayer, Bible reading and preaching, with fellowship time at the end.",
+            "Bible study — during the week, at a time announced on the calendar. Prayer meeting — weekly, open to everyone."
+          ]
+        },
+        {
+          "heading": "What to expect",
+          "body": [
+            "About 90 minutes: songs, prayer, a Bible passage explained and applied, and community announcements.",
+            "There is space for children and someone available to welcome first-time visitors."
+          ]
+        },
+        {
+          "heading": "Where",
+          "body": [
+            "Via Pontebbana 1, Fiume Veneto (PN), Italy. On-site parking."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "See the full calendar"
+      }
+    },
+    "/vida-da-igreja/ministerios": {
+      "eyebrow": "Church Life",
+      "title": "Ministries",
+      "lead": "Areas of service where each person's gifts find a concrete place.",
+      "sections": [
+        {
+          "heading": "Worship",
+          "body": [
+            "Musicians and singers who prepare the weekly service with rehearsals and prayer."
+          ]
+        },
+        {
+          "heading": "Children and youth",
+          "body": [
+            "Age-appropriate biblical teaching, with trained teams and attention to safety."
+          ]
+        },
+        {
+          "heading": "Welcome",
+          "body": [
+            "Those who greet at the door, explain what will happen, and make sure no one leaves without having spoken to someone."
+          ]
+        },
+        {
+          "heading": "Social action and missions",
+          "body": [
+            "Support for families in need and partnerships with mission work within and beyond Italy."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "I want to serve"
+      }
+    },
+    "/vida-da-igreja/pequenos-grupos": {
+      "eyebrow": "Church Life",
+      "title": "Small Groups",
+      "lead": "During the week, in homes: open Bible, prayer and shared life in small groups.",
+      "sections": [
+        {
+          "heading": "Why they exist",
+          "body": [
+            "On Sunday we listen together; in the small group we respond together. It is where questions fit and where care becomes practical.",
+            "Each group has between 6 and 12 people and a couple or leader responsible for it."
+          ]
+        },
+        {
+          "heading": "How to join",
+          "body": [
+            "Tell us the area where you live and the day that works for you — we will point you to the closest group."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "I want to join a group"
+      }
+    },
+    "/vida-da-igreja/voluntariado": {
+      "eyebrow": "Church Life",
+      "title": "Volunteering",
+      "lead": "Every person has received something to give. There is a place here for your gift.",
+      "sections": [
+        {
+          "heading": "Where to help",
+          "body": [
+            "Welcome, worship, sound and projection, children, coffee and cleaning, transport for the elderly, communication and social support.",
+            "No experience is needed: there is always someone to walk with you through the first steps."
+          ]
+        },
+        {
+          "heading": "How to start",
+          "body": [
+            "Fill out the \"I Want to Join\" form indicating your area of interest. Someone from the team will get in touch."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Sign up"
+      }
+    },
+    "/vida-da-igreja/eventos": {
+      "eyebrow": "Church Life",
+      "title": "Events",
+      "lead": "Baptisms, communion services, community meals, family and youth gatherings, conferences.",
+      "sections": [
+        {
+          "heading": "The rhythm of the year",
+          "body": [
+            "Throughout the year we mark moments that bring the community together beyond Sunday: baptisms by immersion, celebrations of the Lord's Supper, agape meals and gatherings for families and young people.",
+            "Every event is open to guests — bringing someone along is always welcome."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Upcoming dates on the calendar"
+      }
+    },
+    "/conteudos/pregacoes": {
+      "eyebrow": "Content",
+      "title": "Sermons",
+      "lead": "Sunday messages, to listen to again or share with someone.",
+      "sections": [
+        {
+          "heading": "Archive",
+          "body": [
+            "We are organizing the audio archive of the series preached at the church, by book of the Bible and by date.",
+            "In the meantime, you can request a specific message through the contact form and we will send you the file."
+          ]
+        },
+        {
+          "heading": "How we use the Word",
+          "body": [
+            "We preach text by text, seeking to say what the passage says — not what we would like it to say."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Request a sermon"
+      }
+    },
+    "/conteudos/videos": {
+      "eyebrow": "Content",
+      "title": "Videos",
+      "lead": "Recorded services, testimonies and short videos about faith.",
+      "sections": [
+        {
+          "heading": "Community channel",
+          "body": [
+            "Videos of services and events will be published here and on the church's channel.",
+            "If you'd like to help with filming and editing, the communications team is growing."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Help with communications"
+      }
+    },
+    "/conteudos/devocionais": {
+      "eyebrow": "Content",
+      "title": "Devotionals",
+      "lead": "Short texts to start the day with a passage and a prayer.",
+      "sections": [
+        {
+          "heading": "A habit, not a performance",
+          "body": [
+            "Five minutes with an open Bible are worth more than a planned hour that never happens. The devotionals published here are simple on purpose.",
+            "Each text includes the passage, two or three sentences of application, and a short prayer."
+          ]
+        },
+        {
+          "heading": "Receive by email",
+          "body": [
+            "Soon you will be able to receive the weekly devotional by email. Leave your contact and we will let you know when it opens."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Leave my contact"
+      }
+    },
+    "/conteudos/estudos": {
+      "eyebrow": "Content",
+      "title": "Studies",
+      "lead": "Material to study the Bible alone, with your family or in a small group.",
+      "sections": [
+        {
+          "heading": "Available series",
+          "body": [
+            "We are preparing study guides on the Gospel of John, the Acts of the Apostles, and the foundational doctrines of the Christian faith.",
+            "Each guide includes observation, interpretation and application questions — designed to be used in conversation, not in silence."
+          ]
+        },
+        {
+          "heading": "For group leaders",
+          "body": [
+            "Anyone leading a small group also receives supporting notes and pacing suggestions for each meeting."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Join a small group"
+      }
+    },
+    "/conteudos/testemunhos": {
+      "eyebrow": "Content",
+      "title": "Testimonies",
+      "lead": "Stories of real people who found grace — and keep on walking.",
+      "sections": [
+        {
+          "heading": "Why we share",
+          "body": [
+            "A testimony is not a perfect life on display: it is the concrete memory of what God has done, told to encourage those still in the midst of the struggle.",
+            "We publish only with the person's permission, in their own time."
+          ]
+        },
+        {
+          "heading": "Share yours",
+          "body": [
+            "If you want to share what God has done in your life, write to us. We can publish it as text or video, with your name or anonymously."
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Tell my story"
+      }
+    }
+  },
+  "cards": {
+    "culto-de-domingo": {
+      "titleTop": "Worship &\nWord",
+      "titleMasked": "Sunday\nService.",
+      "year": "Sunday, 10:30 am",
+      "location": "Via Pontebbana 1, Fiume Veneto",
+      "description": "The central gathering of the week: worship, prayer and the preaching of the Word. A simple service open to everyone — if it's your first time, just come; no need to notify us or sign up."
+    },
+    "estudo-biblico": {
+      "titleTop": "Teaching of the\nApostles",
+      "titleMasked": "Bible\nStudy.",
+      "year": "Wednesday, 8:30 pm",
+      "location": "Church building and homes",
+      "description": "We study the Bible as the authority and source of truth for faith and conduct. A time of careful reading, honest questions and application to real life, following Acts 2:42."
+    },
+    "oracao": {
+      "titleTop": "Together before\nGod",
+      "titleMasked": "Prayer\nMeeting.",
+      "year": "Weekly",
+      "location": "Church building",
+      "description": "Prayer for the church, for the city and for the needs of each family. A space where no one needs to have the right words — only the desire to be before God with others."
+    },
+    "ceia-do-senhor": {
+      "titleTop": "Bread &\nWine",
+      "titleMasked": "The Lord's\nSupper.",
+      "year": "Monthly",
+      "location": "During the service",
+      "description": "We break bread and share the wine in remembrance of Christ's sacrifice. It is not a decorative ritual: it is the center of our faith, remembered in community."
+    },
+    "batismo": {
+      "titleTop": "Public\nTestimony",
+      "titleMasked": "Baptism\nby Immersion.",
+      "year": "Throughout the year",
+      "location": "To be arranged",
+      "description": "We believe in the baptism of adults, by personal choice and by immersion, as a public testimony of a faith already alive. Anyone who wishes to take this step is accompanied beforehand with conversation and teaching."
+    },
+    "missao": {
+      "titleTop": "Go, preach,\nmake disciples",
+      "titleMasked": "Mission &\nGospel.",
+      "year": "All year round",
+      "location": "Fiume Veneto and the region",
+      "description": "Obeying Jesus' command in Matthew 28:19–20 is part of our identity. We are on the street, in homes and at gatherings across the region, with outreach and events open to the city."
+    },
+    "comunhao": {
+      "titleTop": "Brotherly\nLove",
+      "titleMasked": "Fellowship\n& Agape.",
+      "year": "Regular",
+      "location": "Homes of the community",
+      "description": "Agape is selfless, brotherly and immense love — and that is why it is the name of this church. Shared meals, practical care and friendship that doesn't end when the service is over."
+    },
+    "familias": {
+      "titleTop": "Children &\nFamilies",
+      "titleMasked": "Families\nin Faith.",
+      "year": "During the service",
+      "location": "Children's room",
+      "description": "Age-appropriate biblical teaching, in a safe and welcoming environment, while parents take part in the service. We support families in nurturing faith at home, not only on Sunday."
+    },
+    "jovens": {
+      "titleTop": "Conviction\nwithout uniformity",
+      "titleMasked": "Youth\n& Questions.",
+      "year": "Monthly",
+      "location": "Church building",
+      "description": "A space for teenagers and young adults to bring real questions. Firm on the essentials, free on the non-essentials (Romans 14), and all of it bound to love."
+    }
+  }
+}
